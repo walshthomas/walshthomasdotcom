@@ -9,7 +9,7 @@ authors:
 - Ozgen Ozturk
 
 # Author notes (optional)
-author_notes: false
+
 
 date: "2021-06-01T00:00:00Z"
 doi: ""
