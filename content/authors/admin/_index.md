@@ -14,14 +14,14 @@ organizations:
   url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include macro and labour economics, monetary and fiscal policy, and job search.
 
 # Interests to show in About widget
 interests:
-- Macroeconomics
-- Firm Dynamics
+- Firm and Worker Dynamics
 - Monetary and Fiscal Policy
 - Job Search and Unemployment
+- Econometrics
 
 # Education to show in About widget
 education:
@@ -71,7 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-Hi! Welcome to my site. I am a fourth year PhD student in Economics at the European University Institute in Florence.
+Hi! Welcome to my site. 
+
+I am a fourth year PhD student in Economics at the European University Institute in Florence.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
