@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Sectoral Volatility and the Investment Channel of Monetary Policy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
