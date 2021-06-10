@@ -8,8 +8,6 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 
-list_format = 2
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
