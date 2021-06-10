@@ -9,7 +9,6 @@ theme: minimal
 day_night: true
 font: ''
 font_size: L
-google_fonts = "family=B612+Mono&family=Open+Sans"
 
 # SEO
 
