@@ -8,6 +8,8 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 
+layout = 1
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
