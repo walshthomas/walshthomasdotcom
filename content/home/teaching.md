@@ -5,20 +5,22 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = "Research Custom"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 25
 
 +++
 
-I am a teaching instructor for the following courses at University X:
+<b>Working Papers</b>:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+Sectoral Volatility and the Investment Channel of Monetary Policy (with Ozgen Ozturk)
+
+<b>Work in Progress</b>:
+
+Job Search under the Threat of Sanctions
+
+Making the Cut: Close Elections and Civil Servant Behaviour
+
+The Firm Network Channel of Monetary Policy
