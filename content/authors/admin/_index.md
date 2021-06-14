@@ -75,7 +75,7 @@ I am a fourth year PhD student in Economics at the <a href="https://www.eui.eu/e
 
 My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
 
-My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" "newtab">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
+My Supervisors are {{<a href="https://sites.google.com/site/coopereconomics/" "newtab">}}Russell Cooper{{</a>}} and <a href="https://sites.google.com/site/tfcrossley/
 " "newtab">Thomas Crossley</a>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
