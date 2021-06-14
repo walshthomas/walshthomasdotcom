@@ -25,17 +25,15 @@ address:
   street: Via delle Fontanelle 18
   city: San Domeico di Fiesole
   region: FI
-  postcode: '94305'
+  postcode: 50014
   country: Italy
   country_code: IT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude:
+  longitude:
+directions:
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -48,7 +46,7 @@ contact_links:
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link:
 
 # Site header
 
