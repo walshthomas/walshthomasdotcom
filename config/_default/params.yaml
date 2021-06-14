@@ -37,15 +37,15 @@ appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name:
+    link:
   - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
+    icon_pack: 
+    name: 
+    link: 
+  - icon: 
+    icon_pack: 
+    name:
     link:
 
 # Site header
