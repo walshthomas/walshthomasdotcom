@@ -7,9 +7,6 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-
-list_format = 1
-
 weight: 90
 
 title: Recent Publications
@@ -39,7 +36,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  
+  view: 1
 ---
 
 {{% callout note %}}
