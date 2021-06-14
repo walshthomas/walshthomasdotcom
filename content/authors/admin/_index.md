@@ -70,12 +70,12 @@ highlight_name: false
 
 Hi! Welcome to my site. 
 
-I am a fourth year PhD student in Economics at the European University Institute in Florence. 
-<a href="https://www.eui.eu/en/academic-units/department-of-economics/about-the-department-of-economics">link text</a>
-
+I am a fourth year PhD student in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics">European University Institute</a>
+ in Florence. 
 
 My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
 
-My Supervisors are Russell Cooper and Thomas Crossley
+My Supervisors are <a href="https://sites.google.com/site/coopereconomics/">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
+">Thomas Crossley</a>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
