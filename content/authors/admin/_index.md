@@ -70,7 +70,7 @@ highlight_name: false
 
 Hi! Welcome to my site. 
 
-I am a fourth year PhD student in Economics at the {{< a "https://www.eui.eu/en/academic-units/department-of-economics" "newtab" >}}European University Institute{{< /a >}}</b> in Florence.
+I am a fourth year PhD student in Economics at the {{< a href="https://www.eui.eu/en/academic-units/department-of-economics" "newtab" >}}European University Institute{{< /a >}}</b> in Florence.
 
 My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
 
