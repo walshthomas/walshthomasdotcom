@@ -8,5 +8,5 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 
-view:4
+view: 4
 
