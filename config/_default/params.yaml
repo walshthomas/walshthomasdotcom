@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-dark: true
+light: false
 font: ''
 font_size: L
  
