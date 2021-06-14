@@ -9,7 +9,7 @@ main:
     weight: 10
   
   - name: Research
-    url: '#featured'
+    url: '#publications'
     weight: 20
   
   - name: Contact
