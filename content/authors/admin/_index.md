@@ -70,12 +70,10 @@ highlight_name: false
 
 Hi! Welcome to my site. 
 
-I am a fourth year PhD student in Economics at the European University Institute in Florence.
+I am a fourth year PhD student in Economics at the <b>European University Institute</b> in Florence.
 
-My main research areas cover macroeconomics and labour economics, with a focus on
+My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
 
 My Supervisors are Russell Cooper and Thomas Crossley
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
