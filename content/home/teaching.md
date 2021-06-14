@@ -15,13 +15,18 @@ weight = 25
 
 <b>Working Papers</b>:
 
-Sectoral Volatility and the Investment Channel of Monetary Policy (with Ozgen Ozturk)
-<p><small>This is some smaller text.</small></p> 
++ Sectoral Volatility and the Investment Channel of Monetary Policy (with Ozgen Ozturk)
+<p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
+implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
+sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
+policy transmission via the investment decisions of firms. In the cross-section and panel dimensions,
+we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
+rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions..</small></p> 
 
 <b>Work in Progress</b>:
 
-Job Search under the Threat of Sanctions
++ Job Search under the Threat of Sanctions
 
-Making the Cut: Close Elections and Civil Servant Behaviour
++ Making the Cut: Close Elections and Civil Servant Behaviour
 
-The Firm Network Channel of Monetary Policy
++ Monetary Policy Transmission and Network Effects
