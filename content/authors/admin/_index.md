@@ -27,13 +27,13 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    institution: EUI
+    institution: European University Institute, IT
     year: 2022 (expected)
   - course: MSc Economics
-    institution: Barcelona GSE
+    institution: Barcelona Graduate School of Economics, ES
     year: 2014
   - course: BSc Economics and Econometrics
-    institution: University of Bristol
+    institution: University of Bristol, UK
     year: 2011
 
 # Social/Academic Networking
