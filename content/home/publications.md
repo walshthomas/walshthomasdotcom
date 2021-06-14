@@ -7,6 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
+
+list_format = 1
+
 weight: 90
 
 title: Recent Publications
