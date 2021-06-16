@@ -48,8 +48,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
+ - icon: cv
+   icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -70,3 +70,5 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 " target="_blank">Thomas Crossley</a>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="envelope" pack="fas" >}} Send me an {{< staticref "uploads/demo_resume.pdf" "newtab" >}}email{{< /staticref >}}.
