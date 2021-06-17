@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: European University Institute, IT
-    year: 2022 (expected)
+    year: 2023 (expected)
   - course: MSc Economics
     institution: Barcelona Graduate School of Economics, ES
     year: 2014
@@ -49,8 +49,8 @@ social:
 # To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
- #  icon_pack: ai
-  # link: uploads/cv.pdf
+#  icon_pack: ai
+# link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
