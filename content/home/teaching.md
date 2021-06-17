@@ -28,6 +28,8 @@ rises in recessions, these findings offer further evidence as to why monetary po
 
 + Job Search under the Threat of Sanctions
 
++ Monetary Policy Transmission and Network Effects
+
 + Making the Cut: Close Elections and Civil Servant Behaviour 
   (With Nikolaj Broberg and Tuuli Tähtinen)
 
