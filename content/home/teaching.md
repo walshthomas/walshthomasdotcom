@@ -24,7 +24,7 @@ policy transmission via the investment decisions of firms. In the cross-section 
 we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
 rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions..</small></p>
 
--
+---
 
 <b>Work in Progress</b>:
 
