@@ -69,4 +69,6 @@ My main research areas cover macroeconomics and labour economics, with a focus o
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an {{<a href="mailto:thomas.walsh@eui.eu" "newtab">}}email{{</a>}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an 
+
+<a href="mailto:thomas.walsh@eui.eu">email</a>.
