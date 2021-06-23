@@ -29,7 +29,6 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <b>Work in Progress</b>:
 
 + Job Search under the Threat of Sanctions
-<p><small>How does the threat of punishment in the unemployment insurance system affect jobsearch behaviours and subsequent labour market outcomes? This project uses a difference-in-differences design, leveraging the differential response of districts to largescale welfare reformin the United Kingdom during the early 2010s to examine the impact of unemployment benefitsanctioning threat on jobseeker exit from unemployment and future outcomes. </small></p>
 
 + Monetary Policy Transmission and Network Effects
 
