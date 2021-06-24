@@ -29,6 +29,7 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <b>Work in Progress</b>:
 
 + Job Search under the Threat of Sanctions
+I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions. 
 
 + Monetary Policy Transmission and Network Effects
 
