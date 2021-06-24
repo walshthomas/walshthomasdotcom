@@ -22,14 +22,14 @@ implications for monetary policy effectiveness? Using firm-level panel data, thi
 sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
 policy transmission via the investment decisions of firms. In the cross-section and panel dimensions,
 we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
-rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions..</small></p>
+rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions.</small></p>
 
 ---
 
 <b>Work in Progress</b>:
 
 + Job Search under the Threat of Sanctions
-I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions. 
+<p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
 + Monetary Policy Transmission and Network Effects
 
