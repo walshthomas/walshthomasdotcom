@@ -28,11 +28,12 @@ rises in recessions, these findings offer further evidence as to why monetary po
 
 <b>Work in Progress</b>:
 
-+ Job Search under the Threat of Sanctions
+<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions </p>
 <p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
-+ Monetary Policy Transmission and Network Effects
+<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
+(with Wolfram Horn)</p>
 
-+ Making the Cut: Close Elections and Civil Servant Behaviour 
-  (With Nikolaj Broberg and Tuuli Tähtinen)
+<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Making the Cut: Close Elections and Local Economic Policy <br>
+(With Nikolaj Broberg and Tuuli Tähtinen)</p>
 
