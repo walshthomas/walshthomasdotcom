@@ -12,7 +12,7 @@ weight = 25
 
 +++
 
- <b>{Working Papers}</b>:
+ <b>[Working Papers]</b>:
 
  <p style="color:red;"> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
   (with Ozgen Ozturk, available on request)</p>
