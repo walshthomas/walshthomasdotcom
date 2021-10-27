@@ -28,7 +28,7 @@ rises in recessions, these findings offer further evidence as to why monetary po
 
 <b>Work in Progress</b>:
 
-<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions </p> <br> <p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
+<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions <br> <small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
 <p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
 (with Wolfram Horn)</p>
