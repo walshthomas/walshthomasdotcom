@@ -29,11 +29,11 @@ subtitle = "blabla"
 
 <b>Work in Progress</b>:
 
-<p style="color:menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions <br> <small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
+<p style="color:#menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions <br> <small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
-<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
+<p style="color:red"; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
 (with Wolfram Horn)</p>
 
-<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Making the Cut: Close Elections and Local Economic Policy <br>
+<p style="color:red"; margin-left:10%; margin-right:10%;> Making the Cut: Close Elections and Local Economic Policy <br>
 (With Nikolaj Broberg and Tuuli Tähtinen)</p>
 
