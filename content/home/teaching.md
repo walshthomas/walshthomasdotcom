@@ -1,6 +1,5 @@
 +++
-# An example of using the custom widget to create your own home page section.
-# To create more sections, duplicate this file and edit the values below as desired.
+# Describe my Research split into Working Papers and Work in Progress
 
 date = "2016-04-20T00:00:00"
 draft = false
@@ -28,7 +27,7 @@ rises in recessions, these findings offer further evidence as to why monetary po
 
 <b>Work in Progress</b>:
 
-<p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions <br> <small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
+<p style="color:menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions <br> <small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
 <p style="color:#bbdefb"; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
 (with Wolfram Horn)</p>
