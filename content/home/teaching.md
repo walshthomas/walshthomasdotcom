@@ -23,7 +23,7 @@ policy transmission via the investment decisions of firms. In the cross-section 
 we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
 rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions.</small></p>
 
-<h2>Work in Progress:</h2>
+<h4>Work in Progress:</h4>
 
 <p style="color:menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions</p> 
 <a><p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></a>
