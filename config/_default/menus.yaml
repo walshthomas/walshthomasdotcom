@@ -17,7 +17,7 @@ main:
     weight: 30
     
   - name: TEST
-    url: '#publications'
+    url: '#publication'
     weight: 31
 
 # Link to a PDF of your resume/CV from the menu.
