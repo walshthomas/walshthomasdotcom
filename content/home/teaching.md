@@ -12,7 +12,7 @@ weight = 25
 
 +++
 
- <b>[Working Papers]</b>:
+ <h2>Working Papers</h2>:
 
  <p style="color:red;"> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
   (with Ozgen Ozturk, available on request)</p>
@@ -28,7 +28,7 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <p style="color:menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions</p> 
 <a><p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></a>
 
-<p style="color:#menu_text_active "; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
+<p><a>Fiscal Policy in Firm-level Production Networks</a><br>
 (with Wolfram Horn)</p>
 
 <p style="color:red"; margin-left:10%; margin-right:10%;> Making the Cut: Close Elections and Local Economic Policy <br>
