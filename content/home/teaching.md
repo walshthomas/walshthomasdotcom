@@ -13,8 +13,8 @@ weight = 25
 +++
 
 <h2>Working Papers:</h2>
-
-<ul> <li> <h5><p> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
+<ul> 
+<li> <h5><p> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
   (with Ozgen Ozturk, available on request)</p></h5>
 <p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
 implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
@@ -25,12 +25,16 @@ rises in recessions, these findings offer further evidence as to why monetary po
 
 <h2>Work in Progress:</h2>
 
+<ul> 
+<li>
 <h5> Job Search under the Threat of Sanctions</h5> 
-<p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
+<p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></li></ul>
 
-<p><h6>Fiscal Policy in Firm-level Production Networks</h6><br>
-(with Wolfram Horn)</h6></p>
+<ul> 
+<li><p><h6>Fiscal Policy in Firm-level Production Networks</h6><br>
+(with Wolfram Horn)</h6></p></li></ul>
 
-<p><h6> Making the Cut: Close Elections and Local Economic Policy <br>
-(With Nikolaj Broberg and Tuuli Tähtinen)</h6></p>
+<ul> 
+<li><p><h6> Making the Cut: Close Elections and Local Economic Policy <br>
+(With Nikolaj Broberg and Tuuli Tähtinen)</h6></p></li></ul>
 
