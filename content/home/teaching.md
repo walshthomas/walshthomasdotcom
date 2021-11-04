@@ -29,8 +29,8 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p>
 
 <p><h6>Fiscal Policy in Firm-level Production Networks</h6><br>
-(with Wolfram Horn)</p>
+(with Wolfram Horn)</h6></p>
 
-<p style="color:red"; margin-left:10%; margin-right:10%;> Making the Cut: Close Elections and Local Economic Policy <br>
-(With Nikolaj Broberg and Tuuli Tähtinen)</p>
+<p><h6> Making the Cut: Close Elections and Local Economic Policy <br>
+(With Nikolaj Broberg and Tuuli Tähtinen)</h6></p>
 
