@@ -16,17 +16,17 @@ weight = 25
 
  <p style="color:red;"> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
   (with Ozgen Ozturk, available on request)</p>
-<blockquote><p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
+<a><p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
 implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
 sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
 policy transmission via the investment decisions of firms. In the cross-section and panel dimensions,
 we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
-rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions.</small></p></blockquote>
+rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions.</small></p></a>
 
 <b>Work in Progress</b>:
 
 <p style="color:menu_text_active"; margin-left:10%; margin-right:10%;> Job Search under the Threat of Sanctions</p> 
-<blockquote><p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></blockquote>
+<a><p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></a>
 
 <p style="color:#menu_text_active "; margin-left:10%; margin-right:10%;> Fiscal Policy in Firm-level Production Networks <br>
 (with Wolfram Horn)</p>
