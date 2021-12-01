@@ -15,7 +15,7 @@ weight = 25
 <h2>Working Papers:</h2>
 <ul> 
 <li> {{<staticref "uploads/volatility_nov2021.pdf" "newtab" >}}<h5><p> Sectoral Volatility and the Investment Channel of Monetary Policy <br>
-  (with Ozgen Ozturk, available on request)</p></h5>[PDF link]{{< /staticref >}}
+  (with Ozgen Ozturk, available on request)</h5>[PDF link]{{< /staticref >}}</p>
 <p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
 implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
 sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
