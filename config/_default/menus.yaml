@@ -11,6 +11,10 @@ main:
   - name: Research
     url: '#teaching'
     weight: 25
+    
+  - name: Other Papers
+    url: '#projects'
+    weight: 26
   
   - name: Contact
     url: '#contact'
