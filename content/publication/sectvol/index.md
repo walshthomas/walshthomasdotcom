@@ -16,6 +16,7 @@ featured: false
 publication: "Working Paper"
 url_pdf:
 links: 
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
+- name: Current Draft
+  url: test.pdf
+
 ---
