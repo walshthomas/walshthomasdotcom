@@ -12,7 +12,7 @@ weight: 90
 title: Research
 subtitle: ''
 
-active: false
+active: true
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,7 +37,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   
-  view: 1
+  view: 3
 ---
 
 
