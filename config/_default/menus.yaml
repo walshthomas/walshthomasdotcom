@@ -13,7 +13,7 @@ main:
     weight: 25
 
   - name: Other Papers
-    url: '#projects'
+    url: '#project'
     weight: 26
 
     - name: New Papers
