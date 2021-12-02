@@ -12,7 +12,7 @@ weight: 90
 title: Research
 subtitle: ''
 
-active: true
+active: false
 
 content:
   # Page type to display. E.g. post, talk, publication...
