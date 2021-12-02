@@ -1,5 +1,5 @@
 ---
-title: Coding-Gap"
+title: Sectoral Volatility and the Investment Channel of Monetary Policy
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,20 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 #publication: Preliminary Draft
 #publication_short: In *ICW*
-
-summary: <span style="font-family:Lora">*joint with Johnny Wotzhisnutz*</span></br></br><p align="justify"><span style="font-family:Lora">Using data from Google Trends in Italy, we study research </br></br><ins>Presented at</ins>&colon;</span>
-
-
+summary: <span style="font-family:Lora">*joint with Ozgen Ozturk *</span></br><p align="justify"><span style="font-family:Lora">Using data from Google Trends in Italy, we study research </br></span>
 external_link: ''
 # Display this page in the Featured widget?
 featured: false
 
 links:
-  - name: Pre-Registration
+  - name: Current Draft
     url: http://example.org
 
 ---
-
-<span style="color:brown; font-family:Lora; font-size:18px">Draft Coming Soon!</span>
-
-<span style="text-decoration: underline; color:brown; font-family:Lora; font-size:16px">Presented by co-author or me at:</span>
