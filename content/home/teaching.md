@@ -28,11 +28,10 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <ul>
 <li>
 <h5> Job Search under the Threat of Sanctions</h5>
-<p><small>I use the differential response across districts to centralised welfare reforms to examine how workers' search behaviour changes with the threat of unemployment benefit sanctions.</small></p></li></ul>
+<p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This project uses a difference-in-differences design, leveraging the differential response of districts to largescale welfare reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Constructing working life histories from panel survey data, result show that average district sanctioning rate increases the rate at which jobseekers exit unemployment signficantly.</small></p></li></ul>
 
-<ul>
-<li><p><h6>Fiscal Policy in Firm-level Production Networks<br>(with Wolfram Horn)</h6></p></li></ul>
+<ul><li><p><h5>Fiscal Policy in Firm-level Production Networks</h5>
+(with Wolfram Horn)</p></li></ul>
 
-<ul>
-<li><p><h6> Making the Cut: Close Elections and Local Economic Policy <br>
-(With Nikolaj Broberg and Tuuli Tähtinen)</h6></p></li></ul>
+<ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
+(With Nikolaj Broberg and Tuuli Tähtinen)</p></li></ul>
