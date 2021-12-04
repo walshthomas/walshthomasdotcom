@@ -9,7 +9,7 @@ theme: minimal
 day_night: true
 #font: 'Minimal'
 
-font: 'Minimal'
+font: 'my_font'
 font_size: L
 
 # SEO
