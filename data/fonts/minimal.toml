@@ -1,5 +1,7 @@
 # Font style metadata
-name = "Minimal"
+#name = "Minimal" 
+
+name = "my_font_set"
 
 # Optional Google font URL
 google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
