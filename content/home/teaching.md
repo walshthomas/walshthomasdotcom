@@ -15,7 +15,7 @@ weight = 25
 <h2>Working Papers:</h2>
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_nov2021.pdf" "newtab" >}} :page_facing_up: Sectoral Volatility and the Investment Channel of Monetary Policy{{< /staticref >}}</h5>
-(with Ozgen Ozturk)</p>
+(<i>with Ozgen Ozturk</i>)</p>
 <p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
 implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
 sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
@@ -31,7 +31,7 @@ rises in recessions, these findings offer further evidence as to why monetary po
 <p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This project uses a difference-in-differences design, leveraging the differential response of districts to largescale welfare reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Constructing working life histories from panel survey data, result show that average district sanctioning rate increases the rate at which jobseekers exit unemployment signficantly.</small></p></li></ul>
 
 <ul><li><p><h5>Fiscal Policy in Firm-level Production Networks</h5>
-(with Wolfram Horn)</p></li></ul>
+(<i>with Wolfram Horn</i>)</p></li></ul>
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
-(With Nikolaj Broberg and Tuuli Tähtinen)</p></li></ul>
+(<i>ith Nikolaj Broberg and Tuuli Tähtinen</i>)</p></li></ul>
