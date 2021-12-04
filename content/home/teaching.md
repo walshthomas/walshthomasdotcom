@@ -34,4 +34,4 @@ rises in recessions, these findings offer further evidence as to why monetary po
 (<i>with Wolfram Horn</i>)</p></li></ul>
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
-(<i>ith Nikolaj Broberg and Tuuli Tähtinen</i>)</p></li></ul>
+(<i>with Nikolaj Broberg and Tuuli Tähtinen</i>)</p></li></ul>
