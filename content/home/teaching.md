@@ -11,7 +11,6 @@ subtitle = ""
 weight = 25
 
 +++
- # page_facing_up:
 
 <h2>Working Papers:</h2>
 <ul>
