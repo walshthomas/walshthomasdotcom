@@ -11,10 +11,11 @@ subtitle = ""
 weight = 25
 
 +++
+# :page_facing_up:
 
 <h2>Working Papers:</h2>
 <ul>
-<li><p><h5>{{<staticref "uploads/volatility_nov2021.pdf" "newtab" >}} :page_facing_up: Sectoral Volatility and the Investment Channel of Monetary Policy{{< /staticref >}}</h5>
+<li><p><h5>{{<staticref "uploads/volatility_nov2021.pdf" "newtab" >}} <i class="fas file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy{{< /staticref >}}</h5>
 (<i>with Ozgen Ozturk</i>)</p>
 <p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
 implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
