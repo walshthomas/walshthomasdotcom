@@ -16,12 +16,16 @@ weight = 25
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_nov2021.pdf" "newtab" >}} <i class="fas fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy{{< /staticref >}}</h5>
 (<i>with Ozgen Ozturk</i>)</p>
-<p><small>How does the dispersion of firm-level shocks affect firms’ investment behaviour, and what are the
-implications for monetary policy effectiveness? Using firm-level panel data, this paper explores how
-sectoral volatility of idiosyncratic productivity (total factor productivity in revenue, TFPR) affects monetary
-policy transmission via the investment decisions of firms. In the cross-section and panel dimensions,
-we find policy has dampened real effects due to higher volatility of shocks. Given that dispersion
-rises in recessions, these findings offer further evidence as to why monetary policy is weaker in recessions.</small></p></li></ul>
+<p><small>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Us-
+ing firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and
+time-varying, and interact high-frequency identified monetary policy shocks with these measures of
+idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects
+via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening
+effects of volatility are statistically and economically significant - moving from the tenth to the nineti-
+eth percentile of the volatility distribution approximately halves point estimates of impulse response
+functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
+findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the
+importance of firm heterogeneity in monetary policy transmission.</small></p></li></ul>
 
 <h2>Work in Progress:</h2>
 
