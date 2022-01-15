@@ -43,14 +43,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact' 
+  link: '/#contact'
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-# link: uploads/cv.pdf
+ -  icon: cv
+    icon_pack: ai
+    link: static/uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,10 +59,10 @@ email: ""
 highlight_name: false
 ---
 
-Hi! Welcome to my site. 
+Hi! Welcome to my site.
 
 I am a fifth year PhD student in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
- in Florence. 
+ in Florence.
 
 My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
 
