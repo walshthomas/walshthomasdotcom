@@ -137,5 +137,8 @@ cms:
   branch: master
   local_backend: false
 icon:
-  pack:
-    ai= true
+  pack: ai
+    ai: true
+
+[icon.pack]
+  ai = true
