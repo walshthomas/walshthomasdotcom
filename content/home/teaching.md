@@ -15,7 +15,7 @@ weight = 25
 <h2>Working Papers:</h2>
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_jan2022.pdf" "newtab" >}} <i class="fas fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy{{< /staticref >}}</h5>
-(<i><a href="https://sites.google.com/view/ozgenozturk/home">with Ozgen Ozturk</a></i>) <staticref "uploads/volatility_jan2022.pdf" "newtab" > [Current Draft]< /staticref > <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725">[SSRN]</a></p> 
+(<i><a href="https://sites.google.com/view/ozgenozturk/home">with Ozgen Ozturk</a></i>) {{<staticref "uploads/volatility_jan2022.pdf" "newtab">}} [Current Draft]{{</staticref>}} <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725">[SSRN]</a></p> 
 <p><small>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Using firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and time-varying, and interact high-frequency identified monetary policy shocks with these measures of idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening effects of volatility are statistically and economically significant - moving from the tenth to the ninetieth percentile of the volatility distribution approximately halves point estimates of impulse response functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
 findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the importance of firm heterogeneity in monetary policy transmission.</small></p></li></ul>
 
