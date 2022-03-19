@@ -6,7 +6,7 @@ name = "my_font"
 #google_fonts = "family=Cormorant+Garamond:wght@400"
 #google_fonts = "family=Gentium+Basic&family=Lora"
 
-google_fonts = "family=Lato:wght@400;700"
+google_fonts = "family=Fira:wght@400;700"
 
 
 # Font families
@@ -15,7 +15,7 @@ google_fonts = "family=Lato:wght@400;700"
 #nav_font = "Roboto"
 #mono_font = "Roboto Mono"
 
-heading_font  = "Lato"
-nav_font      = "Lato"
-mono_font     = "Lato"
-body_font     = "Lato"
+heading_font  = "Fira Sans"
+nav_font      = "Fira Sans"
+mono_font     = "Fira Sans"
+body_font     = "Fira Sans"
