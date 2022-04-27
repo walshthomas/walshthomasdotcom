@@ -19,3 +19,7 @@ heading_font  = "Lato"
 nav_font      = "Lato"
 mono_font     = "Lato"
 body_font     = "Lato"
+
+# font size
+font_size       = "14"
+font_size_small = "12"
