@@ -10,7 +10,7 @@ day_night: true
 #font: 'Minimal'
 
 font: 'my_font'
-font_size: L
+font_size: M
 
 # SEO
 
