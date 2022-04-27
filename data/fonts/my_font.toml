@@ -21,5 +21,5 @@ mono_font     = "Lato"
 body_font     = "Lato"
 
 # font size
-font_size       = "14"
-font_size_small = "12"
+font_size       = "12"
+font_size_small = "9"
