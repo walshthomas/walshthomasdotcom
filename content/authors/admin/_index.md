@@ -42,12 +42,15 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fa
+  icon_pack: fas
   link: '/#contact'
 
 - icon: twitter
-  icon_pack: ai
-  link: "uploads/cv.pdf"
+  icon_pack: fab
+  link: https://twitter.com/7homaswal5h
+  label: Follow me on Twitter
+  display:
+    header: true
 
 - icon: cv
   icon_pack: ai
