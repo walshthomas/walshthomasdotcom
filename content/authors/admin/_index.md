@@ -41,7 +41,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope-o
+- icon: envelope
   icon_pack: fas
   link: '/#contact'
 
@@ -81,4 +81,4 @@ My main research areas cover macroeconomics and labour economics, with a focus o
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-{{< icon name="folder-download" pack="fas" >}} Download my {{< staticref "uploads/sanctions_current.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an <a href="mailto:thomas.walsh@eui.eu">email</a>.
+{{< icon name="folder arrow down" pack="fas" >}} Download my {{< staticref "uploads/sanctions_current.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an <a href="mailto:thomas.walsh@eui.eu">email</a>.
