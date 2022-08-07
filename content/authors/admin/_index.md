@@ -45,6 +45,10 @@ social:
   icon_pack: fas
   link: '/#contact'
 
+- icon: twitter
+  icon_pack: ai
+  link: "uploads/cv.pdf"
+
 - icon: cv
   icon_pack: ai
   link: "uploads/cv.pdf"
