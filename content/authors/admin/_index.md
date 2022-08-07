@@ -47,7 +47,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: "uploads/volatility_current.pdf"
+  link: "uploads/cv.pdf"
 
 
 # Link to a PDF of your resume/CV.
