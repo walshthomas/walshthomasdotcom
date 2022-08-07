@@ -45,6 +45,11 @@ social:
   icon_pack: fas
   link: '/#contact'
 
+- icon: cv
+  icon_pack: ai
+  link: "uploads/volatility_current.pdf"
+
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
