@@ -6,7 +6,7 @@ title: Thomas Walsh
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ highlight_name: false
 
 Hi! Welcome to my site.
 
-I am a fifth year PhD student in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
+I am a sixth year PhD candidate in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in Florence.
 
 My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
@@ -81,4 +81,4 @@ My main research areas cover macroeconomics and labour economics, with a focus o
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-{{< icon name="angles-down" pack="fas" >}} Download my {{< staticref "uploads/sanctions_current.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an <a href="mailto:thomas.walsh@eui.eu">email</a>.
+{{< icon name="angle-down" pack="fas" >}} Download my {{< staticref "uploads/sanctions_current.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. {{< icon name="envelope" pack="fas" >}} Send me an <a href="mailto:thomas.walsh@eui.eu">email</a>.
