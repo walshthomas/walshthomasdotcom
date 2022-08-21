@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: European University Institute, IT
-    year: 2022 (expected)
+    year: 2023 (expected)
   - course: MSc Economics
     institution: Barcelona Graduate School of Economics, ES
     year: 2014
