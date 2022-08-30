@@ -13,7 +13,7 @@ weight = 25
 +++
 
 <h2>Working Papers:</h2>
-<ul><li><h5> {{<staticref "uploads/sanctions_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5> {{<staticref "uploads/sanctions_current.pdf" "newtab">}} [Current Draft]{{</staticref>}}
+<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5> {{<staticref "uploads/sanctions_current.pdf" "newtab">}} [Current Draft]{{</staticref>}}
 <p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This project uses a difference-in-differences design, leveraging the differential response of districts to largescale welfare reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Constructing working life histories from panel survey data, result show that average district sanctioning rate increases the rate at which jobseekers exit unemployment signficantly.</small></p></li></ul>
 
 <ul>
