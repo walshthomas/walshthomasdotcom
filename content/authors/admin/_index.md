@@ -54,7 +54,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: "uploads/cv.pdf"
+  link: "uploads/CV_Walsh_EUI.pdf"
 
 
 # Link to a PDF of your resume/CV.
