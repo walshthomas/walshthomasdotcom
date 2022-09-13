@@ -17,8 +17,8 @@ google_fonts = "family=Fira Sans:wght@400;700"
 
 heading_font  = "Fira Sans"
 nav_font      = "Fira Sans"
-mono_font     = "Lato"
-body_font     = "Lato"
+mono_font     = "Fira Sans"
+body_font     = "Fira Sans"
 
 # font size
 font_size       = "12"
