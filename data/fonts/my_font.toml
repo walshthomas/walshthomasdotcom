@@ -15,8 +15,8 @@ google_fonts = "family=Lato:wght@400;700"
 #nav_font = "Roboto"
 #mono_font = "Roboto Mono"
 
-heading_font  = "Lato"
-nav_font      = "Lato"
+heading_font  = "Fira Sans"
+nav_font      = "Fira Sans"
 mono_font     = "Lato"
 body_font     = "Lato"
 
