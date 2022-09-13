@@ -30,4 +30,4 @@ findings offer further evidence as to why monetary policy is weaker in recession
 (<i>with Wolfram Horn</i>)</p></li></ul>
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
-(<i>with Nikolaj Broberg and Tuuli Tähtinen</i>)</p></li></ul>
+(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
