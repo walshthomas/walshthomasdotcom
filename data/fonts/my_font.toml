@@ -6,7 +6,7 @@ name = "my_font"
 #google_fonts = "family=Cormorant+Garamond:wght@400"
 #google_fonts = "family=Gentium+Basic&family=Lora"
 
-google_fonts = "family=Fira Sans:wght@400;700"
+google_fonts = "family=Raleway:wght@400;700"
 
 
 # Font families
@@ -15,10 +15,10 @@ google_fonts = "family=Fira Sans:wght@400;700"
 #nav_font = "Roboto"
 #mono_font = "Roboto Mono"
 
-heading_font  = "Fira Sans"
-nav_font      = "Fira Sans"
-mono_font     = "Fira Sans"
-body_font     = "Fira Sans"
+heading_font  = "Raleway"
+nav_font      = "Raleway"
+mono_font     = "Raleway"
+body_font     = "Raleway"
 
 # font size
 font_size       = "12"
