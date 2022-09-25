@@ -1,3 +1,9 @@
+widget: pages
+
+links:
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
+
 +++
 # Describe my Research split into Working Papers and Work in Progress
 
@@ -12,11 +18,7 @@ subtitle = ""
 weight = 25
 
 +++
-widget: pages
 
-links:
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
 
 <h2>Working Papers:</h2>
 <ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
