@@ -39,9 +39,3 @@ design:
 
   view: 2
 ---
-
-ABC
-
-links:
-- name: Current Draft
-  url: test.pdf
