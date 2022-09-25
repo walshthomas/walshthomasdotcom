@@ -7,6 +7,10 @@ draft = false
 title = "Research"
 subtitle = ""
 
+links:
+name: testers
+url: 'https://medium.com'
+
 # Order that this section will appear in.
 weight = 25
 
@@ -32,4 +36,4 @@ findings offer further evidence as to why monetary policy is weaker in recession
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
 
 links
-- 
+-
