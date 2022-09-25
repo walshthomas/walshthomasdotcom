@@ -7,10 +7,6 @@ draft = false
 title = "Research"
 subtitle = ""
 
-links:
-name: testers
-url: 'https://medium.com'
-
 # Order that this section will appear in.
 weight = 25
 
