@@ -8,14 +8,14 @@ draft = false
 title = "Research"
 subtitle = ""
 
-links:
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
-
 # Order that this section will appear in.
 weight = 25
 
 +++
+
+links:
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
 
 <h2>Working Papers:</h2>
 <ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
