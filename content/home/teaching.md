@@ -10,13 +10,6 @@ subtitle = ""
 
 # Order that this section will appear in.
 weight = 25
-
-widget = pages
-
-links=
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
-
 +++
 
 
