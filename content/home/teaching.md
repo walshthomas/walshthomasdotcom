@@ -4,8 +4,13 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
+
 title = "Research"
 subtitle = ""
+
+links:
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
 
 # Order that this section will appear in.
 weight = 25
