@@ -4,7 +4,7 @@ date: 2021-01-28
 publishDate: 2021-01-05T20:13:52.623034Z
 
 authors:
-publication_types: ["3"]
+publication_types: ["1"]
 
 abstract:
 
