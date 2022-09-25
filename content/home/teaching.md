@@ -25,11 +25,6 @@ findings offer further evidence as to why monetary policy is weaker in recession
 
 <h2>Work in Progress:</h2>
 
-links:
-- name: Current Draft
-  url: test.pdf
-
-
 <ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
 (<i>with Wolfram Horn</i>)</p></li></ul>
 

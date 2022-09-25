@@ -41,3 +41,7 @@ design:
 ---
 
 ABC
+
+links:
+- name: Current Draft
+  url: test.pdf
