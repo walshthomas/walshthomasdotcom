@@ -12,11 +12,22 @@ abstract_short: "We test the relative strength of consumer preferences for inter
 
 featured: false
 
+# Links (optional).
+url_pdf = "pdf/my-paper-name.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
 
 publication: "Working Paper"
 url_pdf: test.pdf
 links:
 - name: Current Draft
-  url: test.pdf
+  url: "pdf/my-paper-name.pdf"
 
 ---
