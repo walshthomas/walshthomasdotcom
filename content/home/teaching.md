@@ -1,6 +1,6 @@
 +++
 # Describe my Research split into Working Papers and Work in Progress
-widget: pages
+
 date = "2016-04-20T00:00:00"
 draft = false
 
@@ -12,6 +12,7 @@ subtitle = ""
 weight = 25
 
 +++
+widget: pages
 
 links:
 - name: Online Appendix
