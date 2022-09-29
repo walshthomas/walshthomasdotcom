@@ -45,12 +45,12 @@ social:
   icon_pack: far
   link: '/#contact'
 
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/7homaswal5h
-#  label: Follow me on Twitter
-#  display:
-#    header: true
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/7homaswal5h
+  label: Follow me on Twitter
+  display:
+    header: false
 
 - icon: cv
   icon_pack: ai
@@ -81,4 +81,4 @@ My main research areas cover macroeconomics and labour economics, with a focus o
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-{{< icon name="file" pack="far" >}}  {{< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} Download my Job Market Paper{{< /staticref >}} / {{< icon name="arrow-down" pack="fas" >}} {{< staticref "uploads/CV_Walsh_EUI.pdf" "newtab" >}}Download my CV{{< /staticref >}} / {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email</a>.
+{{< icon name="file" pack="far" >}}  {{< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} Download my Job Market Paper{{< /staticref >}} / {{< icon name="arrow-down" pack="fas" >}} {{< staticref "uploads/CV_Walsh_EUI.pdf" "newtab" >}}Download my CV{{< /staticref >}} / {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
