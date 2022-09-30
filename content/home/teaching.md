@@ -15,7 +15,11 @@ weight = 25
 
 <h2>Working Papers:</h2>
 <ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
-<p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This project uses a difference-in-differences design, leveraging the differential response of districts to largescale welfare reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Constructing working life histories from panel survey data, result show that average district sanctioning rate increases the rate at which jobseekers exit unemployment signficantly.</small></p></li></ul>
+{{< spoiler text="abstract:" >}}
+<p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This paper uses a difference-in-differences design, leveraging the differential response of districts to sanctioning policy reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Using working life histories constructed from panel survey data, results show that average district sanctioning rate increases exit speed from unemployment. The effect is driven mostly by transitions into employment, and early retirements of those aged over fifty. Treated districts experience more churn in the labour market -- the unemployed start to experience more cumulative spells of unemployment compared to the control, and the probability that the next spell of continuous employment reaches one, two and three years falls. Overall, causal estimates are consistent with workers substituting market insurance for missing social insurance.
+</small></p>
+{{< /spoiler >}}
+</li></ul>
 
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5>
