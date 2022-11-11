@@ -45,6 +45,10 @@ social:
   icon_pack: far
   link: '/#contact'
 
+- icon: cv
+  icon_pack: ai
+  link: "uploads/CV_Walsh_EUI.pdf"
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/7homaswal5h
@@ -52,13 +56,9 @@ social:
   display:
     header: false
 
-- icon: cv
-  icon_pack: ai
-  link: "uploads/CV_Walsh_EUI.pdf"
-
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en 
+  link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV.
