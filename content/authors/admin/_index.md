@@ -18,9 +18,9 @@ bio: My research interests include macro and labour economics, monetary and fisc
 
 # Interests to show in About widget
 interests:
-- Firm and Worker Dynamics
-- Monetary and Fiscal Policy
 - Job Search and Unemployment
+- Firm Dynamics
+- Monetary and Fiscal Policy
 - Econometrics
 
 # Education to show in About widget
