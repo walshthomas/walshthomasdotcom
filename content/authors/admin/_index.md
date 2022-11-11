@@ -56,6 +56,10 @@ social:
   icon_pack: ai
   link: "uploads/CV_Walsh_EUI.pdf"
 
+- icon: google-scholar
+  icon_pack: = ai
+  link: = "https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en"  
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`,
@@ -81,7 +85,7 @@ My main research areas cover macroeconomics and labour economics, with a focus o
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-<b>I am on the 2022/23 Economics Job Market and available for interviews</b> 
+<b>I am on the 2022/23 Economics Job Market and available for interviews</b>
 
 {{< icon name="file" pack="far" >}}  {{< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} Download my Job Market Paper{{< /staticref >}}
 
