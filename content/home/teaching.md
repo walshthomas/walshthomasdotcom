@@ -44,4 +44,4 @@ findings offer further evidence as to why monetary policy is weaker in recession
 <ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
 </p></li></ul>
 
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<body><button type="button" onclick="alert('Hello world!')">Click Me!</button></body>
