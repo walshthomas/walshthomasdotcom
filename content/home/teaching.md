@@ -1,14 +1,13 @@
 ---
 # Describe my Research split into Working Papers and Work in Progress
+widget: pages
 
-date = "2016-04-20T00:00:00"
-draft = false
-
-title = "Research"
-subtitle = ""
+title: Research
+subtitle: ""
 
 # Order that this section will appear in.
-weight = 25
+weight: 25
+
 
 
 
