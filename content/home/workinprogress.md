@@ -18,7 +18,7 @@ title: Other Research
 # Section design
 design:
   view: 2
----
+
 
 Add any content to the body of the section here.
 
@@ -26,3 +26,12 @@ url_pdf: test.pdf
 links:
 - name: Current Draft
   url: "pdf/my-paper-name.pdf"
+
+
+
+
+
+
+
+
+  ---
