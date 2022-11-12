@@ -1,14 +1,15 @@
----
++++
 # Describe my Research split into Working Papers and Work in Progress
-widget: pages
+widget = pages
+date = "2016-04-20T00:00:00"
+draft = false
 
-title: Research
-subtitle: ""
+title = "Research"
+subtitle = ""
 
 # Order that this section will appear in.
-weight: 25
-
-
+weight = 25
++++
 
 
 <h2>Working Papers:</h2>
@@ -42,4 +43,3 @@ findings offer further evidence as to why monetary policy is weaker in recession
 <h2>Policy Work:</h2>
 <ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
 </p></li></ul>
----
