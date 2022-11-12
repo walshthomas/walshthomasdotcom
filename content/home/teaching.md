@@ -40,3 +40,7 @@ findings offer further evidence as to why monetary policy is weaker in recession
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
+
+<h2>Policy Work:</h2>
+<ul><li><p><h5>A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</h5>
+</p></li></ul>
