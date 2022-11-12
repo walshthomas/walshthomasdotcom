@@ -27,7 +27,6 @@ url_slides: ''
 url_source: '#'
 url_video: '#'
 
----
 
 <ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search under the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
 {{< spoiler text="abstract:" >}}
@@ -35,3 +34,4 @@ url_video: '#'
 </small></p>
 {{< /spoiler >}}
 </li></ul>
+---
