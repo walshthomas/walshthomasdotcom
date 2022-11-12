@@ -18,4 +18,8 @@ title: Other Research
 # Section design
 design:
   view: 2
+
+links:
+- name= paper
+url= "uploads/CV_Walsh_EUI.pdf"
 ---
