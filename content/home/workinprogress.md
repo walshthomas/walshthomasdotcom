@@ -19,7 +19,4 @@ title: Other Research
 design:
   view: 2
 
-links:
-- name= paper
-url= "uploads/CV_Walsh_EUI.pdf"
 ---
