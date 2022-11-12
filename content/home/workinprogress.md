@@ -15,29 +15,9 @@ weight: 30
 # Section title
 title: Other Research
 
-# Section subtitle
-subtitle: ""
-
-content:
-  # page type to displayed
-  page_type: workinprogress
-
-  count:0
-
-  filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
-
-  #page Order
-  order: desc
-
-
-
 # Section design
 design:
-view: 2
+  view: 2
 ---
 
 Add any content to the body of the section here.
