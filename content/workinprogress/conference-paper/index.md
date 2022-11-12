@@ -1,5 +1,5 @@
 ---
-# title: "Job Search and the Threat of Unemployment Benefit Sanctions"
+title: "Job Search and the Threat of Unemployment Benefit Sanctions"
 subtitle: "aaa"
 authors:
 - admin
@@ -19,7 +19,7 @@ publication_types: ["1"]
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: "uploads/JMP_Walsh_EUI.pdf"
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
