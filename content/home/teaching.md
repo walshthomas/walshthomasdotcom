@@ -4,6 +4,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
+widget = pages
 
 title = "Research"
 subtitle = ""
@@ -46,5 +47,5 @@ findings offer further evidence as to why monetary policy is weaker in recession
 </p></li></ul>
 
 links:
-- name: paper
-url: "uploads/CV_Walsh_EUI.pdf"
+- name= paper
+url= "uploads/CV_Walsh_EUI.pdf"
