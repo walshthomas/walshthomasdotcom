@@ -18,6 +18,4 @@ title: Other Research
 # Section design
 design:
   view: 2
-
-
-  ---
+---
