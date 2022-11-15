@@ -80,8 +80,6 @@ Hi! Welcome to my site.
 I am a sixth year PhD candidate in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in Florence.
 
-My research  macro and labour economics
-
 I'm an applied macroeconomist. My main research interests include labour economics, firm dynamics, monetary and fiscal policy, and econometrics.
 
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
