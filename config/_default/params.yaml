@@ -37,21 +37,25 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
+# tweetzor
     - icon: twitter
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/Twitter'
+# skype
     - icon: skype
       icon_pack: fab
       name: Skype Me
-      link: 'skype:echo123?call'
-    - icon: keybase
+      link: 'skype:tw8230?call'
+# zoom
+    - icon: zoom
       icon_pack: fab
-      name: Chat on Keybase
+      name: Chat on zoom
       link: 'https://keybase.io/'
-    - icon: comments
-      icon_pack: fas
-      name: Discuss on Forum
+# discord
+    - icon: discord
+      icon_pack: fab
+      name: Chat on Discord
       link: 'https://discourse.gohugo.io'
 
 # Site header
