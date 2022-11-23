@@ -60,7 +60,6 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en
 
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
