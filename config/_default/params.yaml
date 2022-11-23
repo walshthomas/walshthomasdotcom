@@ -48,15 +48,15 @@ contact_links:
       name: Skype Me
       link: 'skype:tw8230?call'
 # zoom
-    - icon: zoom
-      icon_pack: fab
+    - icon: video
+      icon_pack: fas
       name: Chat on zoom
       link: 'https://keybase.io/'
 # discord
     - icon: discord
       icon_pack: fab
       name: Chat on Discord
-      link: 'https://discourse.gohugo.io'
+      link: 'discordapp.com/users/689822620941811792'
 
 # Site header
 
