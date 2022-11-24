@@ -23,7 +23,8 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: thomas.walsh[at]eui.eu
-address: Economics department, European University Institute
+address:
+  street: Economics department European University Institute
   street: Via delle Fontanelle 18
   city: San Domenico di Fiesole
   region: FI
