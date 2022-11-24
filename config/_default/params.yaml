@@ -25,7 +25,7 @@ twitter: ''
 email: thomas.walsh[at]eui.eu
 address:
   street: Via delle Fontanelle 18
-  city: San Domeico di Fiesole
+  city: San Domenico di Fiesole
   region: FI
   postcode: 50014
   country: Italy
@@ -37,27 +37,28 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
-# tweetzor
+# tweetzor  ======================================
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM me on twitter
       link: 'https://twitter.com/7homaswal5h/'
-# skype
+# skype  ======================================
     - icon: skype
       icon_pack: fab
-      name: Skype Me
+      name: Call me on skype
       link: 'skype:tw8230?call'
-# zoom
+# zoom  ======================================
     - icon: video
       icon_pack: fas
-      name: Chat on zoom
-      link: 'https://keybase.io/'
-# discord
+      name: Call me on zoom
+      link: ' https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09'
+# discord  ======================================
     - icon: discord
       icon_pack: fab
-      name: Chat on Discord
+      name: Message me on Discord
       link: 'discordapp.com/users/689822620941811792'
 
+#===============================================================================
 # Site header
 
 main_menu:
