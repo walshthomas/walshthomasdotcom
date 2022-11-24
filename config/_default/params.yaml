@@ -41,7 +41,7 @@ contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM me on twitter
-      link: 'https://twitter.com/7homaswal5h/'
+      link: 'https://twitter.com/7homaswal5h'
 # skype  ======================================
     - icon: skype
       icon_pack: fab
@@ -51,7 +51,7 @@ contact_links:
     - icon: video
       icon_pack: fas
       name: Call me on zoom
-      link: ' https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09'
+      link: 'https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09/'
 # discord  ======================================
     - icon: discord
       icon_pack: fab
