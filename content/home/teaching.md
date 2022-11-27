@@ -39,7 +39,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
-   href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
+   href="https://walshthomas.com/uploads/volatility_current.pdf"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
           font-weight:;
@@ -51,8 +51,44 @@ width: 250px;}
           margin:20px auto;
           box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
-          line-height: 65px;>
+          display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
+</a>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          padding: 2px 2px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:20px auto;
+          box-shadow:0 1px 2px #5e5d5b;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
+</a>
+
+
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://walshthomas.com/uploads/volatility_slides"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          padding: 2px 2px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:20px auto;
+          box-shadow:0 1px 2px #5e5d5b;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
 </a>
 
 </p>
