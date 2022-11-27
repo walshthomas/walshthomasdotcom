@@ -111,7 +111,6 @@ width: 250px;}
    class="bg-rollover wx"
    href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
    style="background-color: #1565c0;
-          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
