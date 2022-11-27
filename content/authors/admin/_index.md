@@ -115,13 +115,13 @@ width: 250px;}
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
-          text-align: center;
           padding: 4px 4px;
           color: #ffffff;
-          border-radius: 6px;
+          border-radius: 5px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i> Download my JMP</span>
+
+    <span style="mso-text-raise: 25pt;"><i class="far fa-file"></i> Download my JMP</span>
 </a>
 <a rel="noopener"
    target="_blank"
