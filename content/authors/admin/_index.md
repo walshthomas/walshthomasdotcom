@@ -109,7 +109,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
-   href="https://www.litmus.com/"
+   href=< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >
    style="background-color: #1565c0;
           font-size: 18px;
           font-family: Lato, sans-serif;
@@ -141,7 +141,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
-   href="https://www.litmus.com/"
+   href="mailto:thomas.walsh@eui.eu"
    style="background-color: #1565c0;
           font-size: 18px;
           font-family: Lato, sans-serif;
