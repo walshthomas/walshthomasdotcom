@@ -94,7 +94,6 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
 
-# STYLE info set here
 <style>
  .bg-rollover:hover {
 background-color: #585f6a !important;
@@ -104,7 +103,6 @@ color: #ffffff !important;
 </style>
 
 
-# actual buttons here
 <a rel="noopener"
   target="_blank"
   class="bg-rollover"
@@ -128,7 +126,6 @@ color: #ffffff !important;
     <![endif]-->
 </a>
 
-# second button here
  <a rel="noopener"
   target="_blank"
   class="bg-rollover"
