@@ -125,7 +125,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
-   href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf.pdf
+   href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf"
    style="background-color: #1565c0;
           font-size: 18px;
           font-family: Lato, sans-serif;
