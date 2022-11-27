@@ -122,6 +122,7 @@ width: 250px;}
           mso-padding-alt: 0;">
     <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i> Download my JMP</span>
 </a>
+
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
@@ -138,6 +139,7 @@ width: 250px;}
           mso-padding-alt: 0;">
     <span style="mso-text-raise: 0pt;"> <i class="fas fa-arrow-down"></i> Download my CV </span>
 </a>
+
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
