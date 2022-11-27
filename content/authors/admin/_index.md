@@ -104,47 +104,64 @@ color: #ffffff !important;
 
 
 <a rel="noopener"
-  target="_blank"
-  class="bg-rollover"
-  href="https://www.litmus.com/"
-  style="background-color: #1565c0;
-         font-size: 14px;
-         font-family: Lato, sans-serif;
-         font-weight: bold;
-         text-decoration: none;
-         padding: 4px 4px;
-         color: #ffffff;
-         border-radius: 5px;
-         display: inline-block;
-         mso-padding-alt: 0;">
+   target="_blank"
+   class="bg-rollover"
+   href="https://www.litmus.com/"
+   style="background-color: #1565c0;
+          font-size: 14px;
+          font-family: Lato, sans-serif;
+          font-weight: bold;
+          text-decoration: none;
+          text-align: center;
+          padding: 4px 4px;
+          color: #ffffff;
+          border-radius: 6px;
+          display: inline-block;
+          mso-padding-alt: 0;">
+    <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i> Download my JMP</span>
     <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
-    <![endif]-->
-    <span style="mso-text-raise: 15pt;"><i class="far fa-file"></i> Download my JMP &rarr;</span>
-    <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
+    <i style="letter-spacing: 25px; mso-font-width: -100%;"></i>
     <![endif]-->
 </a>
 
- <a rel="noopener"
-  target="_blank"
-  class="bg-rollover"
-  href="https://www.litmus.com/"
-  style="background-color: #1565c0;
-         font-size: 14px;
-         font-family: Lato, sans-serif;
-         font-weight: bold;
-         text-decoration: none;
-         padding: 4px 4px;
-         color: #ffffff;
-         border-radius: 5px;
-         display: inline-block;
-         mso-padding-alt: 0;">
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://www.litmus.com/"
+   style="background-color: #1565c0;
+          font-size: 14px;
+          font-family: Lato, sans-serif;
+          font-weight: bold;
+          text-decoration: none;
+          padding: 4px 4px;
+          color: #ffffff;
+          border-radius: 5px;
+          display: inline-block;
+          mso-padding-alt: 0;">
+
+    <span style="mso-text-raise: 25pt;"> <i class="fas fa-arrow-down"></i> Download my CV </span>
     <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
+    <i style="letter-spacing: 25px; mso-font-width: -100%;"></i>
     <![endif]-->
-    <span style="mso-text-raise: 5pt;"> <i class="fas fa-arrow-down"></i> Download my CV  </span>
+</a>
+
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://www.litmus.com/"
+   style="background-color: #1565c0;
+          font-size: 14px;
+          font-family: Lato, sans-serif;
+          font-weight: bold;
+          text-decoration: none;
+          padding: 4px 4px;
+          color: #ffffff;
+          border-radius: 5px;
+          display: inline-block;
+          mso-padding-alt: 0;">
+
+    <span style="mso-text-raise: 25pt;"> <i class="far fa-envelope"></i> Send Me and Email </span>
     <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
+    <i style="letter-spacing: 25px; mso-font-width: -100%;"></i>
     <![endif]-->
 </a>
