@@ -93,17 +93,22 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
-
 <style>
  .bg-rollover:hover {
 background-color: #585f6a !important;
 border-color:#1565c0;
 color: #ffffff !important;
 }
+
+.wx{
+width: 250px;}
+}
+
+
 </style>
 <a rel="noopener"
    target="_blank"
-   class="bg-rollover"
+   class="bg-rollover wx"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
           font-size: 18px;
@@ -120,7 +125,7 @@ color: #ffffff !important;
 </a>
 <a rel="noopener"
    target="_blank"
-   class="bg-rollover"
+   class="bg-rollover wx"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
           font-size: 18px;
@@ -137,7 +142,7 @@ color: #ffffff !important;
 </a>
 <a rel="noopener"
    target="_blank"
-   class="bg-rollover"
+   class="bg-rollover wx"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
           font-size: 18px;
