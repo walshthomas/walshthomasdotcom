@@ -71,8 +71,6 @@ width: 250px;}
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
 </a>
-
-
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
