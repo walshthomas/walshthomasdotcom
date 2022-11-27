@@ -91,3 +91,5 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 {{< icon name="arrow-down" pack="fas" >}} {{< staticref "uploads/CV_Walsh_EUI.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
+
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
