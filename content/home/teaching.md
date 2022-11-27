@@ -47,10 +47,10 @@ width: 250px;}
           text-align: center;
           padding: 2px 2px;
           color: #ffffff;
-          border-radius: 6px;
+          border-radius: 4px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;">Current Draft</span>
+    <span style="mso-text-raise: 10pt;">Current Draft</span>
 </a>
 </p>
 
