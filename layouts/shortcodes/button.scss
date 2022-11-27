@@ -1,8 +1,8 @@
 a.markdown-btn {
   font-size: inherit;
   font-family: inherit;
-  color: var(--font-color);
-  background-color: var(--md-bg-color-dark);
+  color: primary_light;
+  background-color: primary_light;
   border-radius: 4px;
   text-align: center;
   padding: 5px 1em 5px 1em;
@@ -13,7 +13,7 @@ a.markdown-btn {
   &:hover,
   &:active {
     text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
+    background-color: primary_light;
+    color: primary_light;
   }
 }
