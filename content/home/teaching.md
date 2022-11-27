@@ -35,7 +35,7 @@ width: 250px;}
 
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5>
-<i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab">(with Ozgen Ozturk)</a></i> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" "newtab">[SSRN]</a>  {{<staticref "uploads/volatility_slides.pdf" "newtab">}} [Slides]{{</staticref>}}
+<i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab">(with Ozgen Ozturk)</a></i>
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
@@ -74,7 +74,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725"
+   href="https://walshthomas.com/uploads/volatility_slides.pdf"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
           font-weight:;
