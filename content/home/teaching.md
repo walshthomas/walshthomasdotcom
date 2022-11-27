@@ -44,7 +44,7 @@ width: 250px;}
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
-          padding: 4px 4px;
+          padding: 2px 2px;
           color: #ffffff;
           border-radius: 6px;
           display: inline-block;
