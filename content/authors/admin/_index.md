@@ -109,7 +109,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
-   href=< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >
+   href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
    style="background-color: #1565c0;
           font-size: 18px;
           font-family: Lato, sans-serif;
@@ -125,7 +125,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover wx"
-   href="https://www.litmus.com/"
+   href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf.pdf
    style="background-color: #1565c0;
           font-size: 18px;
           font-family: Lato, sans-serif;
