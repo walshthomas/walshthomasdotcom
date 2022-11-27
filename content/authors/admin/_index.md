@@ -92,4 +92,4 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
 
-{{< cta-button “button text” “button link” >}}
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
