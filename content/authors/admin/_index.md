@@ -86,11 +86,6 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 
 <b>I am on the 2022/23 Economics Job Market and available for interviews</b>
 
-{{< icon name="file" pack="far" >}}  {{< staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} Download my Job Market Paper{{< /staticref >}}
-
-{{< icon name="arrow-down" pack="fas" >}} {{< staticref "uploads/CV_Walsh_EUI.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-
-{{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
 <style>
