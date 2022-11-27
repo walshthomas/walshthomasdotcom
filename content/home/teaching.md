@@ -11,6 +11,19 @@ subtitle = ""
 weight = 25
 +++
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+<style>
+ .bg-rollover:hover {
+background-color: #585f6a !important;
+border-color:#1565c0;
+color: #ffffff !important;
+}
+
+.wx{
+width: 250px;}
+}
+</style>
 
 <h2>Working Papers:</h2>
 <ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
@@ -23,6 +36,21 @@ weight = 25
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5>
 <i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab">(with Ozgen Ozturk)</a></i> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" "newtab">[SSRN]</a>  {{<staticref "uploads/volatility_slides.pdf" "newtab">}} [Slides]{{</staticref>}}
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight: bold;
+          text-decoration: none;
+          padding: 4px 4px;
+          color: #ffffff;
+          border-radius: 6px;
+          display: inline-block;
+          mso-padding-alt: 0;">
+    <span style="mso-text-raise: 0pt;">Current Draft</span>
+</a>
 </p>
 
 {{< spoiler text="abstract:" >}}
