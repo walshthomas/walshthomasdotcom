@@ -92,7 +92,37 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
 
+<style>
+  .bg-rollover:hover {
+background-color: #585f6a !important;
+border-color:#1565c0;
+color: #ffffff !important;
+}
+</style>
 <a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://www.litmus.com/"
+   style="background-color: #1565c0;
+          font-size: 18px;
+          font-family: Lato, sans-serif;
+          font-weight: bold;
+          text-decoration: none;
+          padding: 14px 20px;
+          color: #ffffff;
+          border-radius: 5px;
+          display: inline-block;
+          mso-padding-alt: 0;">
+    <!--[if mso]>
+    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
+    <![endif]-->
+    <span style="mso-text-raise: 15pt;">I am a button &rarr;</span>
+    <!--[if mso]>
+    <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
+    <![endif]-->
+</a>
+
+  <a rel="noopener"
    target="_blank"
    class="bg-rollover"
    href="https://www.litmus.com/"
