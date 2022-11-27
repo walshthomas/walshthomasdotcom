@@ -123,7 +123,6 @@ color: #ffffff !important;
     <i style="letter-spacing: 25px; mso-font-width: -100%;"></i>
     <![endif]-->
 </a>
-
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
@@ -144,7 +143,6 @@ color: #ffffff !important;
     <i style="letter-spacing: 25px; mso-font-width: -100%;"></i>
     <![endif]-->
 </a>
-
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
