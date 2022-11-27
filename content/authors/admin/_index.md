@@ -106,7 +106,7 @@ color: #ffffff !important;
    class="bg-rollover"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
-          font-size: 14px;
+          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
@@ -126,7 +126,7 @@ color: #ffffff !important;
    class="bg-rollover"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
-          font-size: 14px;
+          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
@@ -146,7 +146,7 @@ color: #ffffff !important;
    class="bg-rollover"
    href="https://www.litmus.com/"
    style="background-color: #1565c0;
-          font-size: 14px;
+          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
