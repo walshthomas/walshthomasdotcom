@@ -101,8 +101,6 @@ border-color:#1565c0;
 color: #ffffff !important;
 }
 </style>
-
-
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
