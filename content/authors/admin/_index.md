@@ -127,7 +127,6 @@ width: 250px;}
    class="bg-rollover wx"
    href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf"
    style="background-color: #1565c0;
-          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
@@ -144,7 +143,6 @@ width: 250px;}
    class="bg-rollover wx"
    href="mailto:thomas.walsh@eui.eu"
    style="background-color: #1565c0;
-          font-size: 18px;
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
