@@ -43,3 +43,24 @@ findings offer further evidence as to why monetary policy is weaker in recession
 <h2>Policy Work:</h2>
 <ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
 </p></li></ul>
+
+<a rel="noopener" target="_blank" href="https://walshthomas.com/" style="background-color: #1F7F4C; font-size: 11px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 5px; display: inline-block; mso-padding-alt: 0;">
+    <!--[if mso]>
+    <i style="letter-spacing: 15px; mso-font-width: -100%; mso-text-raise: 10pt;">&nbsp;</i>
+    <![endif]-->
+    <span style="mso-text-raise: 8pt;">Test &rarr;</span>
+    <!--[if mso]>
+    <i style="letter-spacing: 15px; mso-font-width: -100%;">&nbsp;</i>
+    <![endif]-->
+</a>
+
+
+<a rel="noopener" target="_blank" href="https://walshthomas.com/" style="background-color: #1F7F4C; font-size: 11px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration: none; padding: 10px 4px; color: #ffffff; border-radius: 5px; display: inline-block; mso-padding-alt: 0;">
+    <!--[if mso]>
+    <i style="letter-spacing: 15px; mso-font-width: -100%; mso-text-raise: 10pt;">&nbsp;</i>
+    <![endif]-->
+    <span style="mso-text-raise: 8pt;">Home button </span>
+    <!--[if mso]>
+    <i style="letter-spacing: 15px; mso-font-width: -100%;">&nbsp;</i>
+    <![endif]-->
+</a>
