@@ -1,16 +1,9 @@
-
-
-{{ $_hugo_config := `{ "version": 1 }` }}
-<a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="btn btn-default">
-  {{ $icon := .Get "icon" }}
-  {{ $iconposition := .Get "icon-position" }}
-  {{ if ($icon) }}
-    {{ if or (not ($iconposition)) (eq $iconposition "left") }}
-  <i class="{{$icon}}"></i>
-    {{ end }}
-  {{ end }}
-  {{ .Inner }}
-  {{ if and ($icon) (eq $iconposition "right")}}
-  <i class="{{$icon}}"></i>
-  {{ end }}
-</a>
+{{ $ref := .Get "href" }}
+{{ $target := "" }}
+{{ with $ref }}
+  {{ $target = "_blank" }}
+{{ end }}
+{{ with .Get "relref" }}
+  {{ $ref = relref $ . }}
+{{ end }}
+<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="markdown-btn{{ with .Get "class" }} {{ . }}{{ end }}">{{- .Inner | safeHTML -}}</a>
