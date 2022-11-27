@@ -76,7 +76,7 @@ width: 250px;}
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
-   href="https://walshthomas.com/uploads/volatility_slides.pdf"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
           font-weight:;
