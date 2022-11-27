@@ -48,7 +48,7 @@ width: 250px;}
           padding: 2px 2px;
           color: #ffffff;
           border-radius: 4px;
-          display: inline-block;
+          display: center;
           mso-padding-alt: 0;">
     <span style="mso-text-raise: 10pt;">Current Draft</span>
 </a>
