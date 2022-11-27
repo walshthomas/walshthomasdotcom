@@ -91,55 +91,62 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 {{< icon name="arrow-down" pack="fas" >}} {{< staticref "uploads/CV_Walsh_EUI.pdf" "newtab" >}}Download my CV{{< /staticref >}}
 
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
+
+# STYLE info set here
 <style>
-  .bg-rollover:hover {
+ .bg-rollover:hover {
 background-color: #585f6a !important;
 border-color:#1565c0;
 color: #ffffff !important;
 }
 </style>
+
+
+# actual buttons here
 <a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://www.litmus.com/"
-   style="background-color: #1565c0;
-          font-size: 18px;
-          font-family: Lato, sans-serif;
-          font-weight: bold;
-          text-decoration: none;
-          padding: 14px 20px;
-          color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
+  target="_blank"
+  class="bg-rollover"
+  href="https://www.litmus.com/"
+  style="background-color: #1565c0;
+         font-size: 14px;
+         font-family: Lato, sans-serif;
+         font-weight: bold;
+         text-decoration: none;
+         padding: 4px 4px;
+         color: #ffffff;
+         border-radius: 5px;
+         display: inline-block;
+         mso-padding-alt: 0;">
     <!--[if mso]>
     <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
     <![endif]-->
-    <span style="mso-text-raise: 15pt;">I am a button &rarr;</span>
+    <span style="mso-text-raise: 15pt;"><i class="far fa-file"></i> Download my JMP &rarr;</span>
     <!--[if mso]>
     <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
     <![endif]-->
 </a>
 
-  <a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://www.litmus.com/"
-   style="background-color: #1565c0;
-          font-size: 18px;
-          font-family: Lato, sans-serif;
-          font-weight: bold;
-          text-decoration: none;
-          padding: 14px 20px;
-          color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
+# second button here
+ <a rel="noopener"
+  target="_blank"
+  class="bg-rollover"
+  href="https://www.litmus.com/"
+  style="background-color: #1565c0;
+         font-size: 14px;
+         font-family: Lato, sans-serif;
+         font-weight: bold;
+         text-decoration: none;
+         padding: 4px 4px;
+         color: #ffffff;
+         border-radius: 5px;
+         display: inline-block;
+         mso-padding-alt: 0;">
     <!--[if mso]>
     <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
     <![endif]-->
-    <span style="mso-text-raise: 15pt;">I am a button &rarr;</span>
+    <span style="mso-text-raise: 5pt;"> <i class="fas fa-arrow-down"></i> Download my CV  </span>
     <!--[if mso]>
     <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
     <![endif]-->
