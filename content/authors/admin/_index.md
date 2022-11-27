@@ -92,4 +92,4 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 
 {{< icon name="envelope" pack="far" >}} <a href="mailto:thomas.walsh@eui.eu">Send me an email: thomas.walsh@eui.eu</a>.
 
-{{<button>}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
