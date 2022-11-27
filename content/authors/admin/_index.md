@@ -119,7 +119,7 @@ width: 250px;}
           border-radius: 6px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i> Download my JMP</span>
+    <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i>&nbsp Download my JMP</span>
 </a>
 
 <a rel="noopener"
@@ -135,7 +135,7 @@ width: 250px;}
           border-radius: 5px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"> <i class="fas fa-arrow-down"></i> Download my CV </span>
+    <span style="mso-text-raise: 0pt;"> <i class="fas fa-arrow-down"></i>&nbsp Download my CV </span>
 </a>
 
 <a rel="noopener"
@@ -151,5 +151,5 @@ width: 250px;}
           border-radius: 5px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"> <i class="far fa-envelope"></i> Send Me and Email </span>
+    <span style="mso-text-raise: 0pt;"> <i class="far fa-envelope"></i>&nbsp Send Me and Email </span>
 </a>
