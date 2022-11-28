@@ -25,7 +25,7 @@ weight = 25
 </style>
 
 <h2>Working Papers:</h2>
-<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i>Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
+<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
@@ -50,7 +50,7 @@ weight = 25
 </li></ul>
 <br>
 <ul>
-<li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab">(with Ozgen Ozturk)</a></i>
+<li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
@@ -103,7 +103,7 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
 </a>
-</small>
+</small>(with Ozgen Ozturk)
 </p>
 <p>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Using firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and time-varying, and interact high-frequency identified monetary policy shocks with these measures of idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening effects of volatility are statistically and economically significant - moving from the tenth to the ninetieth percentile of the volatility distribution approximately halves point estimates of impulse response functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
 findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the importance of firm heterogeneity in monetary policy transmission.</</p>
@@ -118,7 +118,8 @@ findings offer further evidence as to why monetary policy is weaker in recession
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
-
+<hr style="width:50%;text-align:left;margin-left:0">
+<br>
 <h2>Policy Work:</h2>
 <ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
 </p></li></ul>
