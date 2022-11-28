@@ -39,8 +39,7 @@ width: 250px;}
           padding: 1px 1px;
           color: #ffffff;
           border-radius: 4px;
-          margin:20px auto;
-          box-shadow:0 1px 2px #5e5d5b;
+          margin:0px auto;
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
@@ -65,7 +64,7 @@ width: 250px;}
           padding: 1px 1px;
           color: #ffffff;
           border-radius: 4px;
-          margin:20px auto;
+          margin:0px auto;
           box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
           display: inline-block;>
@@ -82,7 +81,7 @@ width: 250px;}
           padding: 1px 1px;
           color: #ffffff;
           border-radius: 4px;
-          margin:20px auto;
+          margin:0px auto;
           box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
           display: inline-block;>
