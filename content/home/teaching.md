@@ -12,16 +12,15 @@ weight = 25
 +++
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-
 <style>
- .bg-rollover:hover {
-background-color: #585f6a !important;
-border-color:#1565c0;
-color: #ffffff !important;
-}
-
-.wx{
-width: 250px;}
+ .bg-rollover:hover{
+    background-color: #585f6a !important;
+    border-color:#1565c0;
+    color: #ffffff !important;
+  }
+  .wx{
+    width: 250px;
+  }
 }
 </style>
 
@@ -43,13 +42,11 @@ width: 250px;}
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a></small>
-{{< spoiler text="abstract:" >}}
+</a>
 <p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This paper uses a difference-in-differences design, leveraging the differential response of districts to sanctioning policy reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Using working life histories constructed from panel survey data, results show that average district sanctioning rate increases exit speed from unemployment. The effect is driven mostly by transitions into employment, and early retirements of those aged over fifty. Treated districts experience more churn in the labour market -- the unemployed start to experience more cumulative spells of unemployment compared to the control, and the probability that the next spell of continuous employment reaches one, two and three years falls. Overall, causal estimates are consistent with workers substituting market insurance for missing social insurance.
-</small></p>
-{{< /spoiler >}}
+</p>
 </li></ul>
-
+<br>
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab">(with Ozgen Ozturk)</a></i>
 <a rel="noopener"
