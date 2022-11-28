@@ -107,14 +107,8 @@ weight = 25
 </p>
 <p>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Using firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and time-varying, and interact high-frequency identified monetary policy shocks with these measures of idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening effects of volatility are statistically and economically significant - moving from the tenth to the ninetieth percentile of the volatility distribution approximately halves point estimates of impulse response functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
 findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the importance of firm heterogeneity in monetary policy transmission.</</p>
-
-
-<blockquote>
-        <p>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Using firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and time-varying, and interact high-frequency identified monetary policy shocks with these measures of idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening effects of volatility are statistically and economically significant - moving from the tenth to the ninetieth percentile of the volatility distribution approximately halves point estimates of impulse response functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
-        findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the importance of firm heterogeneity in monetary policy transmission..</p>
-    </blockquote>
-
 </li></ul>
+<hr style="width:50%;text-align:left;margin-left:0">
 
 <h2>Work in Progress:</h2>
 
