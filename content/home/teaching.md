@@ -26,7 +26,7 @@ width: 250px;}
 </style>
 
 <h2>Working Papers:</h2>
-<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
+<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> [JMP] Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5><small>
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
@@ -44,7 +44,7 @@ width: 250px;}
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a>
+</a></small>
 {{< spoiler text="abstract:" >}}
 <p><small>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This paper uses a difference-in-differences design, leveraging the differential response of districts to sanctioning policy reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Using working life histories constructed from panel survey data, results show that average district sanctioning rate increases exit speed from unemployment. The effect is driven mostly by transitions into employment, and early retirements of those aged over fifty. Treated districts experience more churn in the labour market -- the unemployed start to experience more cumulative spells of unemployment compared to the control, and the probability that the next spell of continuous employment reaches one, two and three years falls. Overall, causal estimates are consistent with workers substituting market insurance for missing social insurance.
 </small></p>
