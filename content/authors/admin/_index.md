@@ -107,13 +107,15 @@ width: 250px;}
    href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
-          font-weight: bold;
+          font-weight:bold;
           text-decoration: none;
-          padding: 4px 4px;
+          text-align: center;
+          padding: 4px 10px;
           color: #ffffff;
-          border-radius: 6px;
-          display: inline-block;
-          mso-padding-alt: 0;">
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
     <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i>&nbsp Download my JMP</span>
 </a>
 
@@ -123,14 +125,16 @@ width: 250px;}
    href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
-          font-weight: bold;
+          font-weight:bold;
           text-decoration: none;
-          padding: 4px 4px;
+          text-align: center;
+          padding: 4px 10px;
           color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"> <i class="fas fa-arrow-down"></i>&nbsp Download my CV </span>
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+    <span style="mso-text-raise: 0pt;"><i class="fas fa-arrow-down"></i>&nbsp Download my CV </span>
 </a>
 
 <a rel="noopener"
@@ -146,5 +150,5 @@ width: 250px;}
           border-radius: 5px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"> <i class="far fa-envelope"></i>&nbsp Send Me and Email </span>
+    <span style="mso-text-raise: 0pt;"><i class="far fa-envelope"></i>&nbsp Send Me and Email </span>
 </a>
