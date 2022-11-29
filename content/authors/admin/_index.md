@@ -103,7 +103,7 @@ width: 250px;}
 </style>
 <a rel="noopener"
    target="_blank"
-   class="bg-rollover"
+   class="bg-rollover wx"
    href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
