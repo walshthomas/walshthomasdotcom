@@ -64,7 +64,6 @@ weight = 25
           color: #ffffff;
           border-radius: 4px;
           margin:0px auto;
-          box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
@@ -81,7 +80,6 @@ weight = 25
           color: #ffffff;
           border-radius: 4px;
           margin:0px auto;
-          box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
@@ -94,11 +92,10 @@ weight = 25
           font-family: Lato, sans-serif;
           font-weight:;
           text-decoration: none;
-          padding: 2px 2px;
+          padding: 1px 1px;
           color: #ffffff;
           border-radius: 4px;
           margin:0px auto;
-          box-shadow:0 1px 2px #5e5d5b;
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
@@ -118,7 +115,6 @@ findings offer further evidence as to why monetary policy is weaker in recession
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
-<br>
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <h2>Policy Work:</h2>
