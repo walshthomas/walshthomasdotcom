@@ -109,7 +109,6 @@ width: 250px;}
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
-          text-align: center;
           padding: 4px 10px;
           color: #ffffff;
           border-radius: 5px;
@@ -126,7 +125,6 @@ width: 250px;}
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
-          text-align: center;
           padding: 4px 10px;
           color: #ffffff;
           border-radius: 5px;
@@ -143,7 +141,6 @@ width: 250px;}
           font-family: Lato, sans-serif;
           font-weight: bold;
           text-decoration: none;
-          text-align: center;
           padding: 4px 10px;
           color: #ffffff;
           border-radius: 5px;
