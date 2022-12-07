@@ -57,10 +57,10 @@ contact_links:
       link: 'https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09'
 
 # discord  ======================================
-    - icon: discord
-      icon_pack: fab
-      name: Message me on Discord
-      link: 'https://discordapp.com/users/689822620941811792'
+#    - icon: discord
+#      icon_pack: fab
+#      name: Message me on Discord
+#      link: 'https://discordapp.com/users/689822620941811792'
 
 #===============================================================================
 # Site header
