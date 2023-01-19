@@ -146,5 +146,5 @@ width: 250px;}
           border-radius: 5px;
           display: inline-block;
           mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="far fa-envelope"></i>&nbsp Send Me and Email </span>
+    <span style="mso-text-raise: 0pt;"><i class="far fa-envelope"></i>&nbsp Send Me an email </span>
 </a>
