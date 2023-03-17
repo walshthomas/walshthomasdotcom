@@ -45,9 +45,6 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> (Job Market Paper)
-
-<p>How does the threat of punishment in the unemployment insurance system affect job search behaviours and subsequent labour market outcomes? This paper uses a difference-in-differences design, leveraging the differential response of districts to sanctioning policy reform in the United Kingdom during the early 2010s to examine the impact of unemployment benefit sanctioning threat on jobseeker exit from unemployment and future outcomes. Using working life histories constructed from panel survey data, results show that average district sanctioning rate increases exit speed from unemployment. The effect is driven mostly by transitions into employment, and early retirements of those aged over fifty. Treated districts experience more churn in the labour market -- the unemployed start to experience more cumulative spells of unemployment compared to the control, and the probability that the next spell of continuous employment reaches one, two and three years falls. Overall, causal estimates are consistent with workers substituting market insurance for missing social insurance.
-</p>
 </li></ul>
 <br>
 <ul>
@@ -102,9 +99,6 @@ weight = 25
 <span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
 </a>
 </small>(with Ozgen Ozturk)
-</p>
-<p>How does the dispersion of firm-level shocks affect the investment channel of monetary policy? Using firm-level panel data, we construct several measures of dispersion of shocks, time-pooled and time-varying, and interact high-frequency identified monetary policy shocks with these measures of idiosyncratic shock volatility. We document a novel fact: monetary policy has dampened real effects via the investment channel when firm-level TFP shock volatility is high. Our estimates for dampening effects of volatility are statistically and economically significant - moving from the tenth to the ninetieth percentile of the volatility distribution approximately halves point estimates of impulse response functions to contractionary monetary policy shocks. Given that dispersion rises in recessions, these
-findings offer further evidence as to why monetary policy is weaker in recessions, and emphasize the importance of firm heterogeneity in monetary policy transmission.</</p>
 </li></ul>
 <br>
 <hr style="width:50%;text-align:left;margin-left:0">
