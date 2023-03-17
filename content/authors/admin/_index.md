@@ -79,7 +79,7 @@ Hi! Welcome to my site.
 I am a sixth year PhD candidate in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in Florence.
 
-My main research areas cover macroeconomics and labour economics, with a focus on firm and worker dynamics.
+I am an applied macroeconomist with interests in labour economics, firm dynamics, and monetary and fiscal policy.
 
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
@@ -87,64 +87,3 @@ My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" targ
 <b>I am on the 2022/23 Economics Job Market and available for interviews</b>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-
-<style>
- .bg-rollover:hover {
-background-color: #585f6a !important;
-border-color:#1565c0;
-color: #ffffff !important;
-}
-
-.wx{
-width: 250px;}
-}
-
-
-</style>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover wx"
-   href="https://walshthomas.com/uploads/JMP_Walsh_EUI.pdf"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight: bold;
-          text-decoration: none;
-          padding: 4px 10px;
-          color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="far fa-file"></i>&nbsp Download my JMP</span>
-</a>
-
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover wx"
-   href="https://walshthomas.com/uploads/CV_Walsh_EUI.pdf"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight: bold;
-          text-decoration: none;
-          padding: 4px 10px;
-          color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="fas fa-arrow-down"></i>&nbsp Download my CV </span>
-</a>
-
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover wx"
-   href="mailto:thomas.walsh@eui.eu"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight: bold;
-          text-decoration: none;
-          padding: 4px 10px;
-          color: #ffffff;
-          border-radius: 5px;
-          display: inline-block;
-          mso-padding-alt: 0;">
-    <span style="mso-text-raise: 0pt;"><i class="far fa-envelope"></i>&nbsp Send me an email </span>
-</a>
