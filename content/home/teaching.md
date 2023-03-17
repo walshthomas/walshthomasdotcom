@@ -46,7 +46,6 @@ weight = 25
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> (Job Market Paper)
 </li></ul>
-<br>
 <ul>
 <li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
 <a rel="noopener"
@@ -100,8 +99,6 @@ weight = 25
 </a>
 </small>(with Ozgen Ozturk)
 </li></ul>
-<br>
-<hr style="width:50%;text-align:left;margin-left:0">
 
 <h2>Work in Progress:</h2>
 
@@ -110,7 +107,6 @@ weight = 25
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
-<hr style="width:50%;text-align:left;margin-left:0">
 
 <h2>Policy Work:</h2>
 <ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
