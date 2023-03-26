@@ -84,6 +84,4 @@ I am an applied macroeconomist with interests in labour economics, firm dynamics
 My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
 " target="_blank">Thomas Crossley</a>
 
-<b>I am on the 2022/23 Economics Job Market and available for interviews</b>
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
