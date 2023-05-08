@@ -24,8 +24,7 @@ twitter: ''
 
 email: thomas.walsh[at]eui.eu
 address:
-  street: Economics department European University Institute
-  street: Via delle Fontanelle 18
+  street: Economics department European University Institute, Via delle Fontanelle 18
   city: San Domenico di Fiesole
   region: FI
   postcode: 50014
@@ -45,16 +44,16 @@ contact_links:
       link: 'https://twitter.com/7homaswal5h'
 
 # skype  ======================================
-    - icon: skype
-      icon_pack: fab
-      name: Call me on skype
-      link: 'skype:tw8230?call'
+#    - icon: skype
+#      icon_pack: fab
+#      name: Call me on skype
+#      link: 'skype:tw8230?call'
 
 # zoom  ======================================
-    - icon: video
-      icon_pack: fas
-      name: Call me on zoom
-      link: 'https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09'
+#    - icon: video
+#      icon_pack: fas
+#      name: Call me on zoom
+#      link: 'https://eui-eu.zoom.us/j/7084842273?pwd=MU54Vzh5U1dGSjhjL3dLa0F3NGc0dz09'
 
 # discord  ======================================
 #    - icon: discord
