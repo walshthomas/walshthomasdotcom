@@ -26,7 +26,7 @@ weight = 25
 </style>
 
 <h2>Working Papers:</h2>
-<ul><li><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
+<ul><li style=”padding-bottom: 16px;”><h5> {{<staticref "uploads/JMP_Walsh_EUI.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
@@ -47,7 +47,7 @@ weight = 25
 </a></small> (Job Market Paper)
 </li></ul>
 <ul>
-<li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
+<li style=”padding-bottom: 16px;”><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
