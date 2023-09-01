@@ -6,11 +6,11 @@ title: Thomas Walsh
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Postdoctoral Research Associate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: European University Institute
+- name: University of Glasgow
   url: https://www.eui.eu/en/academic-units/department-of-economics
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,12 +76,11 @@ highlight_name: false
 
 Hi! Welcome to my site.
 
-I am a sixth year PhD candidate in Economics at the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
- in Florence.
+I am a postdoctoral Research Associate in Economics at the <a href="https://www.gla.ac.uk/schools/business/aboutus/" target="_blank"> University of Glasgow's Adam Smith Business School</a>.
 
 I am an applied macroeconomist with interests in labour economics, firm dynamics, and monetary and fiscal policy.
 
-My Supervisors are <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/site/tfcrossley/
-" target="_blank">Thomas Crossley</a>
+I earned my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
+ in Florence.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
