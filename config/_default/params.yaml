@@ -22,14 +22,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: thomas.walsh[at]eui.eu
+email: thomas.walsh[at]glasgow.ac.uk
 address:
-  street: Economics Department, European University Institute, Via delle Fontanelle 18
-  city: San Domenico di Fiesole
-  region: FI
-  postcode: 50014
-  country: Italy
-  country_code: IT
+  street: Adam Smith Business School, University of Glasgow
+  city:
+  region:
+  postcode:
+  country:
+  country_code:
 coordinates:
   latitude:
   longitude:
