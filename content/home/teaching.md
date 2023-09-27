@@ -44,7 +44,7 @@ weight = 25
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a></small> (Job Market Paper)
+</a></small>
 </li></ul>
 <!-- ============================================================================== -->
 <ul>
