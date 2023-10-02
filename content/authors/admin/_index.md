@@ -1,4 +1,4 @@
----
+m ---
 # Display name
 title: Thomas Walsh
 
@@ -76,7 +76,7 @@ highlight_name: false
 
 Hi! Welcome to my website.
 
-I am a postdoctoral Research Associate in Economics at the <a href="https://www.gla.ac.uk/schools/business/aboutus/" target="_blank"> Adam Smith Business School, University of Glasgow</a>.
+I am a Postdoctoral Research Associate in Economics at the <a href="https://www.gla.ac.uk/schools/business/aboutus/" target="_blank"> Adam Smith Business School, University of Glasgow</a>.
 
 I am an applied macroeconomist with interests in labour economics, firm dynamics, and monetary and fiscal policy.
 
