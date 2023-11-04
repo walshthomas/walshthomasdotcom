@@ -100,6 +100,10 @@ weight = 25
 </a>
 </small>(with Ozgen Ozturk)
 </li></ul>
+
+<ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy (draft available on request)</h6>
+(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
+
 <!-- ============================================================================== -->
 <br>
 <br>
@@ -108,8 +112,9 @@ weight = 25
 <ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
 (<i>with Wolfram Horn</i>)</p></li></ul>
 
-<ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy</h6>
-(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
+<ul><li><p><h6> The Macroeconomic Implications of Debt Distressed Firms</h6>
+(<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</a></i>)</p></li></ul>
+
 
 <!-- ============================================================================== -->
 
