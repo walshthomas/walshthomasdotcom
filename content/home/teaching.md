@@ -98,7 +98,7 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
 </a>
-</small>(with Ozgen Ozturk)
+</small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk</a>)
 </li></ul>
 
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy (draft available on request)</h6>
@@ -108,13 +108,10 @@ weight = 25
 <br>
 <br>
 <h2>Work in Progress:</h2>
-
-<ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
-(<i>with Wolfram Horn</i>)</p></li></ul>
-
 <ul><li><p><h6> The Macroeconomic Implications of Debt Distressed Firms</h6>
 (<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</a></i>)</p></li></ul>
-
+<ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
+(<i>with Wolfram Horn</i>)</p></li></ul>
 
 <!-- ============================================================================== -->
 
