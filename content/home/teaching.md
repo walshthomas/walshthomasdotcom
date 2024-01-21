@@ -110,6 +110,8 @@ weight = 25
 <h2>Work in Progress:</h2>
 <ul><li><p><h6> The Macroeconomic Implications of Debt Distressed Firms</h6>
 (<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</a></i>)</p></li></ul>
+<ul><li><p><h5>Financing Lumpy Capacity Adjustments: Evidence from UK Firms</h5>
+(<i>with Christoph Gortz and John Tsoukalas</i>)</p></li></ul>
 <ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
 (<i>with Wolfram Horn</i>)</p></li></ul>
 
