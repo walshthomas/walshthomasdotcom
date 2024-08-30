@@ -132,7 +132,7 @@ weight = 25
 (<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</a></i>)</p></li></ul>
 <ul><li><p><h5>Financing Lumpy Capacity Adjustments: Evidence from UK Firms</h5>
 (<i>with Christoph Gortz and John Tsoukalas</i>)</p></li></ul>
-<ul><li><p><h5>Fiscal Policy in Firm-level Production Networks: Size v Centrality</h5>
+<ul><li><p><h5>Fiscal News and the Macroeconomy</h5>
 (<i>with Wolfram Horn</i>)</p></li></ul>
 
 <!-- ============================================================================== -->
