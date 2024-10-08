@@ -55,11 +55,7 @@ social:
   label: Follow me on Twitter
   display:
     header: false
-
-- icon: ssrn
-      icon_pack: ai
-      link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4949969
-
+    
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en
