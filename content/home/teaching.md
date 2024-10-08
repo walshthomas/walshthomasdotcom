@@ -120,9 +120,8 @@ weight = 25
 </a>
 </small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk</a>)
 </li></ul>
-
+<!-- ============================================================================== -->
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy (draft available on request)</h6>
-
 <small>
 <a rel="noopener"
    target="_blank"
@@ -140,9 +139,9 @@ weight = 25
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
-</a></small>
-
-(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
+</a>
+</small>(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)
+</li></ul>
 
 
 
