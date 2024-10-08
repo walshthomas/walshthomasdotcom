@@ -124,6 +124,25 @@ weight = 25
 <ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy (draft available on request)</h6>
 (<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)</p></li></ul>
 
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          text-align: center;
+          padding: 1px 1px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
+</a></small>
+
 <!-- ============================================================================== -->
 <br>
 <br>
