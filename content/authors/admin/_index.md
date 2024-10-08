@@ -10,7 +10,7 @@ role: Postdoctoral Research Associate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Glasgow
+- name: Adam Smith Business School, University of Glasgow
   url: https://www.gla.ac.uk/schools/business/aboutus/
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,6 +56,10 @@ social:
   display:
     header: false
 
+- icon: ssrn
+      icon_pack: ai
+      link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4949969
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en
@@ -78,7 +82,7 @@ Hi! Welcome to my website.
 
 I am a Postdoctoral Research Associate in Economics at the <a href="https://www.gla.ac.uk/schools/business/aboutus/" target="_blank"> Adam Smith Business School, University of Glasgow</a>.
 
-I am an applied macroeconomist with interests in labour economics, firm dynamics, and monetary and fiscal policy.
+I am an applied macroeconomist with interests in firm dynamics, labour markets, and monetary and fiscal policy.
 
 I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in May 2023.
