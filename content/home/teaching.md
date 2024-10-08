@@ -26,11 +26,7 @@ weight = 25
 </style>
 <!-- ============================================================================== -->
 <h2>Working Papers:</h2>
-<ul>
-<li>
-<h5>{{<href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}
-</h5>
-
+<ul><li><h5> {{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
