@@ -6,11 +6,11 @@ title: Thomas Walsh
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate in Economics
+role: Postdoctoral Researcher in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Adam Smith Business School, <br> University of Glasgow
+- name: University of Glasgow
   url: https://www.gla.ac.uk/schools/business/aboutus/
 
 # Short bio (displayed in user profile at end of posts)
