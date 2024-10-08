@@ -49,7 +49,9 @@ weight = 25
 </li></ul>
 <!-- ============================================================================== -->
 <ul>
-<li><p><h5>{{<staticref "uploads/volatility_current.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5> <small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
+<li><p><h5>
+{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" "newtab" >}}
+<i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5><small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
@@ -84,8 +86,12 @@ weight = 25
 </a>
 </small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk</a>)
 </li></ul>
+
+
 <!-- ============================================================================== -->
-<ul><li><p><h6> Making the Cut: Close Elections and Local Economic Policy (draft available on request)</h6>
+
+
+<ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
