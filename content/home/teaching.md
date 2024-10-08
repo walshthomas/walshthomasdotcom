@@ -72,23 +72,6 @@ weight = 25
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
-   href="https://walshthomas.com/uploads/volatility_current.pdf"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;>
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
    href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725"
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
@@ -100,7 +83,7 @@ weight = 25
           margin:0px auto;
           text-align: center;
           display: inline-block;>
-<span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
 </a>
 <a rel="noopener"
    target="_blank"
@@ -138,7 +121,7 @@ weight = 25
           margin:0px auto;
           text-align: center;
           display: inline-block;>
-<span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
 </a>
 </small>(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)
 </li></ul>
