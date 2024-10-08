@@ -10,7 +10,7 @@ role: Postdoctoral Research Associate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Adam Smith Business School, University of Glasgow
+- name: Adam Smith Business School, </br> University of Glasgow
   url: https://www.gla.ac.uk/schools/business/aboutus/
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,17 +55,15 @@ social:
   label: Follow me on Twitter
   display:
     header: false
-    
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-# link: uploads/cv.pdf
+- icon: google-scholar
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4949969
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
