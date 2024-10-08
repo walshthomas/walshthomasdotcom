@@ -10,7 +10,7 @@ role: Postdoctoral Research Associate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Adam Smith Business School, </br> University of Glasgow
+- name: Adam Smith Business School, <br> University of Glasgow
   url: https://www.gla.ac.uk/schools/business/aboutus/
 
 # Short bio (displayed in user profile at end of posts)
