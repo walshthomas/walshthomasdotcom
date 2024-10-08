@@ -24,6 +24,7 @@ weight = 25
   }
 }
 </style>
+
 <!-- ============================================================================== -->
 <h2>Working Papers:</h2>
 <ul><li><h5> {{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
@@ -43,13 +44,12 @@ weight = 25
           margin:0px auto;
           text-align: center;
           display: inline-block;>
-<span style="mso-text-raise: 10pt;">&nbsp SSRN &nbsp </span>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
 </a></small>
 
 </li></ul>
 <!-- ============================================================================== -->
-<ul>
-<li><p><h5>
+<ul><li><p><h5>
 {{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" "newtab" >}}
 <i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5><small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
 <a rel="noopener"
