@@ -27,6 +27,32 @@ weight = 25
 
 <!-- ============================================================================== -->
 <h2>Working Papers:</h2>
+
+
+<ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          text-align: center;
+          padding: 1px 1px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
+</a>
+</small>(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a>, Oct 2024</i>)
+</li></ul>
+
+
+
 <ul><li><h5> {{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
@@ -45,7 +71,7 @@ weight = 25
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a></small>
+</a></small>(<i>June 2023</i>)
 
 </li></ul>
 <!-- ============================================================================== -->
@@ -90,28 +116,6 @@ weight = 25
 
 <!-- ============================================================================== -->
 
-
-<ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;>
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a>
-</small>(<i>with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a></i>)
-</li></ul>
 
 
 
