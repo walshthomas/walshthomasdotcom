@@ -16,19 +16,19 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [Uncertainty and Inaction]()
 
 ## Tutorials
--[T1 - Unceraity and Risk Aversion]()
--[T2 - Tobin Model]()
--[T3 - Eating a Cake]()
+- [T1 - Unceraity and Risk Aversion]()
+- [T2 - Tobin Model]()
+- [T3 - Eating a Cake]()
 
 ## Labs and Codes
 
--[L1 - Intro to Matlab]()
--[L2 - Newton's Method / Rootfinders]()
--[L3 - Value Function Iteration. (VFI)]()
+- [L1 - Intro to Matlab]()
+- [L2 - Newton's Method / Rootfinders]()
+- [L3 - Value Function Iteration. (VFI)]()
 
 ## Maths Toolkit
 
--[slides](/uploads/math.pdf)
+- [slides](/uploads/math.pdf)
 
 
 ## Reading
