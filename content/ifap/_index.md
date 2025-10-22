@@ -10,17 +10,18 @@ Timetable:
 
 ## Slides
 
-- [User Cost Model](/uploads/ifap1.pdf)
-- [Lagrangians and Tobin Model](/uploads/ifap2.pdf)
-- [Dynamic Programming Part 1](/uploads/ifap3.pdf)
-- [Dynamic Programming Part 2](/uploads/ifap4.pdf)
-- [Testing Q theory]()
-- [Financial Constraints and Investment]()
-- [Fixed Costs and Irreversibility]()
-- [Uncertainty and Inaction]()
+- [s1 - User Cost Model](/uploads/ifap1.pdf)
+- [s2 - Lagrangians and Tobin Model](/uploads/ifap2.pdf)
+- [s3 - Dynamic Programming Part 1](/uploads/ifap3.pdf)
+- [s3 - Dynamic Programming Part 2](/uploads/ifap4.pdf)
+- [s4 - Testing Q theory]()
+- [s5 - Financial Constraints and Investment]()
+- [s6 - Fixed Costs and Irreversibility]()
+- [s7 - Uncertainty and Inaction]()
 
 ## Tutorials
 - [T1 - Unceraity and Risk Aversion]()
+- [T1.S - Solutions]()
 - [T2 - Tobin Model]()
 - [T3 - Eating a Cake]()
 
@@ -35,6 +36,7 @@ Timetable:
 - [slides](/uploads/math.pdf)
 
 
-## Reading
+
 
 ## Media
+[Sky News: AI infra boom](/uploads/math.pdf)
