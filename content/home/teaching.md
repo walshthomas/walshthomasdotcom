@@ -29,10 +29,10 @@ weight = 25
 <h2>Working Papers:</h2>
 
 <ul><li><p><h5>Earnings Management and Investment</h5>
-(<i>Job Market Paper, draft available on request</i>)</p></li></ul>
+(<i>Job Market Paper, draft available on request, Oct 2025</i>)</p></li></ul>
 
 <ul><li><p><h5>Fiscal News and the Macroeconomy</h5>
-(<i>with Wolfram Horn, draft available on request</i>)</p></li></ul>
+(<i>with Wolfram Horn, draft available on request, Oct 2025</i>)</p></li></ul>
 
 <ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
 <small>
@@ -115,7 +115,7 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
 </a>
-</small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk</a>)
+</small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk, new draft coming soon</a>)
 </li></ul>
 
 <!-- ============================================================================== -->

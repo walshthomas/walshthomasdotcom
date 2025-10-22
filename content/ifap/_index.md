@@ -2,13 +2,13 @@
 title: "Investment Finance and Asset Prices"
 ---
 
-Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
+<i class="fas fa-chart-line"></i> Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
 
 Timetable:
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
-## Slides
+## <i class="fas fa-file-pdf"></i> Slides
 
 - [s1 - User Cost Model](/uploads/ifap1.pdf)
 - [s2 - Lagrangians and Tobin Model](/uploads/ifap2.pdf)
@@ -25,7 +25,7 @@ Timetable:
 - [T2 - Tobin Model]()
 - [T3 - Eating a Cake]()
 
-## Labs and Codes
+## <i class="fas fa-code"></i> Labs and Codes
 
 - [L1 - Intro to Matlab]()
 - [L2 - Newton's Method / Rootfinders]()
