@@ -19,7 +19,7 @@ Timetable:
 - [s6 - Fixed Costs and Irreversibility]()
 - [s7 - Uncertainty and Inaction]()
 
-## Tutorials
+## <i class="fas fa-dumbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion]()
 - [T1.S - Solutions]()
 - [T2 - Tobin Model]()
@@ -31,12 +31,10 @@ Timetable:
 - [L2 - Newton's Method / Rootfinders]()
 - [L3 - Value Function Iteration. (VFI)]()
 
-## Maths Toolkit
+## <i class="fas fa-toolbox"></i> Maths Toolkit
 
 - [slides](/uploads/math.pdf)
 
 
-
-
-## Media
+## <i class="fas fa-photo-film"></i>Media
 [Sky News: AI infra boom](/uploads/math.pdf)
