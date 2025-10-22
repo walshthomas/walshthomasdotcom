@@ -81,6 +81,6 @@ I am an applied macroeconomist with interests in firm dynamics, labour markets, 
 I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in May 2023.
 
-I am on the 2025-26 Academic Job Market! 
+I am on the 2025-26 Academic Job Market! The current draft of my job market paper: "Earnings Management and Investment"
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
