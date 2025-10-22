@@ -4,6 +4,10 @@ title: "Investment Finance and Asset Prices"
 
 Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
 
+Timetable:
+- Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
+- Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
+
 ## Slides
 
 - [User Cost Model](/uploads/ifap1.pdf)
