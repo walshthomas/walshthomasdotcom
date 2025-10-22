@@ -19,7 +19,7 @@ Timetable:
 - [s6 - Fixed Costs and Irreversibility]()
 - [s7 - Uncertainty and Inaction]()
 
-## <i class="fas fa-dumbell"></i> Tutorials
+## <i class="fa fa-dumbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion]()
 - [T1.S - Solutions]()
 - [T2 - Tobin Model]()
