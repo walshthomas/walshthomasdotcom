@@ -7,9 +7,8 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
-<details open>
-### <i class="fas fa-file-pdf"></i> Slides
 
+### <i class="fas fa-file-pdf"></i> Slides
 - [s1 - User Cost Model](/uploads/ifap1.pdf)
 - [s2 - Lagrangians and Tobin Model](/uploads/ifap2.pdf)
 - [s3 - Dynamic Programming Part 1](/uploads/ifap3.pdf)
@@ -18,7 +17,6 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s5 - Financial Constraints and Investment]()
 - [s6 - Fixed Costs and Irreversibility]()
 - [s7 - Uncertainty and Inaction]()
-</details>
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion]()
@@ -27,13 +25,11 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [T3 - Eating a Cake]()
 
 ### <i class="fas fa-code"></i> Labs and Codes
-
 - [L1 - Intro to Matlab]()
 - [L2 - Newton's Method / Rootfinders]()
 - [L3 - Value Function Iteration. (VFI)]()
 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
-
 - [slides](/uploads/math.pdf)
 
 
