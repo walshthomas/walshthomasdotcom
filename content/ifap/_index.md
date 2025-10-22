@@ -7,6 +7,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
+<details open>
 ### <i class="fas fa-file-pdf"></i> Slides
 
 - [s1 - User Cost Model](/uploads/ifap1.pdf)
@@ -17,6 +18,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s5 - Financial Constraints and Investment]()
 - [s6 - Fixed Costs and Irreversibility]()
 - [s7 - Uncertainty and Inaction]()
+</details>
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion]()
