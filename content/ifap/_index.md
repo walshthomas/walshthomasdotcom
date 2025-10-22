@@ -1,10 +1,9 @@
 
-# <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> Investment Finance and Asset Prices
+# <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-screwdriver-wrench"></i> Investment Finance and Asset Prices
 
+### Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
 
- Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
-
-Timetable:
+### Timetable:
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
