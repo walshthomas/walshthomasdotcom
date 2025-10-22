@@ -1,5 +1,5 @@
 
-# <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fa-solid fa-screwdriver-wrench"></i> Investment Finance and Asset Prices
+# <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Investment Finance and Asset Prices
 
 Course content for the masters course Investment Finance and Asset Prices [ECON 5068], AY2025
 
