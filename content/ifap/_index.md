@@ -26,7 +26,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [T3 - Eating a Cake]()
 
 ### <i class="fas fa-code"></i> Labs and Codes
-- [L1.code - Intro to Matlab]()
+- [L1.code - Intro to Matlab](L1code.m)
 - [L2 - Newton's Method / Rootfinders]()
 - [L2.code - Newton's Method / Rootfinders]()
 - [L3 - Value Function Iteration. (VFI)]()
@@ -36,9 +36,8 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [slides](/uploads/math.pdf)
 
-
 ### <i class="fas fa-photo-film"></i>Media
 [Sky News: AI infra boom](/uploads/ifap/math.pdf)
 
 ### <i class="fas fa-circle-question"></i>Group Assignment
-[Sky News: AI infra boom](/uploads/ifap/math.pdf)
+[Sky News: AI infra boom](/uploads/ifap/GA.pdf)
