@@ -19,10 +19,10 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s7 - Uncertainty and Inaction]()
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
-- [T1 - Unceraity and Risk Aversion]()
-- [T1.S - Solutions]()
-- [T2 - Tobin Model]()
-- [T2.S - Solutions]()
+- [T1 - Unceraity and Risk Aversion](/uploads/ifap/T1.pdf)
+- [T1.S - Solutions](/uploads/ifap/TS1.pdf)
+- [T2 - Tobin Model](/uploads/ifap/T2.pdf)
+- [T2.S - Solutions](/uploads/ifap/TS2.pdf)
 - [T3 - Eating a Cake]()
 
 ### <i class="fas fa-code"></i> Labs and Codes
