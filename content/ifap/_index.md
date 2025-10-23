@@ -22,16 +22,23 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [T1 - Unceraity and Risk Aversion]()
 - [T1.S - Solutions]()
 - [T2 - Tobin Model]()
+- [T2.S - Solutions]()
 - [T3 - Eating a Cake]()
 
 ### <i class="fas fa-code"></i> Labs and Codes
-- [L1 - Intro to Matlab]()
+- [L1.code - Intro to Matlab]()
 - [L2 - Newton's Method / Rootfinders]()
+- [L2.code - Newton's Method / Rootfinders]()
 - [L3 - Value Function Iteration. (VFI)]()
+- [L3.code - Value Function Iteration. (VFI)]()
+
 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [slides](/uploads/math.pdf)
 
 
 ### <i class="fas fa-photo-film"></i>Media
+[Sky News: AI infra boom](/uploads/math.pdf)
+
+### <i class="fas fa-circle-question"></i>Group Assignment
 [Sky News: AI infra boom](/uploads/math.pdf)
