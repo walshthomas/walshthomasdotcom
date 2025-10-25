@@ -29,8 +29,8 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 
 ### <i class="fas fa-code"></i> Labs and Codes
 - [L1.code - Intro to Matlab](/uploads/ifap/L1code.txt)
-- [L2 - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
-- [L2.code - Newton's Method / Rootfinders]()
+- [L2 - Newton's Method / Rootfinders](/uploads/ifap/L2.pdf)
+- [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
 
