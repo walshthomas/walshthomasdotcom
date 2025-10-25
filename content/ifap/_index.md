@@ -7,6 +7,8 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays,  1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
+### <i class="fas fa-pencil"></i>Group Assignment
+- [Question Sheet. Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
 
 ### <i class="fas fa-file-pdf"></i> Slides
 - [s1 - User Cost Model](/uploads/ifap1.pdf)
@@ -37,9 +39,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 
 ### <i class="fas fa-video"></i>Media
 - [Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
-- [The Economist](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
-- [The Economist](https://www.economist.com/leaders/2024/05/16/big-techs-capex-splurge-may-be-irrationally-exuberant)
+- [The Economist: "The murky economics of the data-centre investment boom"](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
+- [The Economist: "The murky economics of the data-centre investment boom"](https://www.economist.com/leaders/2024/05/16/big-techs-capex-splurge-may-be-irrationally-exuberant)
+- [Derek Thompson Podcast: "This Is How the AI Bubble Could Burst"](https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2025/09/23/this-is-how-the-ai-bubble-could-burst)
 
-
-### <i class="fas fa-pencil"></i>Group Assignment
-[Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
