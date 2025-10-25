@@ -15,17 +15,17 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s2 - Lagrangians and Tobin Model](/uploads/ifap/ifap2.pdf)
 - [s3 - Dynamic Programming Part 1](/uploads/ifap/ifap3.pdf)
 - [s3 - Dynamic Programming Part 2](/uploads/ifap/ifap4.pdf)
-#- [s4 - Testing Q theory]()
-#- [s5 - Financial Constraints and Investment]()
-#- [s6 - Fixed Costs and Irreversibility]()
-#- [s7 - Uncertainty and Inaction]()
+- [s4 - Testing Q theory]
+- [s5 - Financial Constraints and Investment]
+- [s6 - Fixed Costs and Irreversibility]
+- [s7 - Uncertainty and Inaction]
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion](/uploads/ifap/T1.pdf)
 - [T1.S - Solutions](/uploads/ifap/TS1.pdf)
 - [T2 - Tobin Model](/uploads/ifap/T2.pdf)
 - [T2.S - Solutions](/uploads/ifap/TS2.pdf)
-- [T3 - Eating a Cake]()
+- [T3 - Eating a Cake]
 
 ### <i class="fas fa-code"></i> Labs and Codes
 - [L1.code - Intro to Matlab](L1code.m)
