@@ -37,7 +37,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [slides](/uploads/math.pdf)
 
 ### <i class="fas fa-photo-film"></i>Media
-[Sky News: AI infra boom](/uploads/ifap/math.pdf)
+[Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
 
 ### <i class="fas fa-circle-question"></i>Group Assignment
 [Sky News: AI infra boom](/uploads/ifap/GA.pdf)
