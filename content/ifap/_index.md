@@ -32,12 +32,14 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
 
-
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [slides](/uploads/math.pdf)
 
-### <i class="fas fa-photo-film"></i>Media
-[Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
+### <i class="fas fa-video"></i>Media
+- [Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
+- [The Economist](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
+- [The Economist](https://www.economist.com/leaders/2024/05/16/big-techs-capex-splurge-may-be-irrationally-exuberant)
 
-### <i class="fas fa-circle-question"></i>Group Assignment
-[Sky News: AI infra boom](/uploads/ifap/GA.pdf)
+
+### <i class="fas fa-pencil"></i>Group Assignment
+[Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
