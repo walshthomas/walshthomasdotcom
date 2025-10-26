@@ -1,6 +1,36 @@
 ---
 title: "Investment Finance and Asset Prices"
 ---
+<style>
+.toc {
+  position: sticky;
+  top: 20px;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+  padding-right: 1rem;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin: 0.5rem 0;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #666;
+  transition: color 0.2s;
+}
+
+.toc a:hover,
+.toc a.active {
+  color: #007bff;
+  font-weight: bold;
+}
+</style>
 
 <div style="display: flex; gap: 2rem;">
   
