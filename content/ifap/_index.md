@@ -1,22 +1,33 @@
 ---
 title: "Investment Finance and Asset Prices"
 ---
+
 <style>
+.content-wrapper {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
 .toc {
+  position: -webkit-sticky;
   position: sticky;
-  top: 20px;
-  max-height: calc(100vh - 40px);
+  top: 80px;  /* Adjust based on your header height */
+  flex: 0 0 200px;
+  max-height: calc(100vh - 100px);
   overflow-y: auto;
-  padding-right: 1rem;
+  align-self: flex-start;
 }
 
 .toc ul {
   list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .toc li {
   margin: 0.5rem 0;
+  font-size: 0.9rem;
 }
 
 .toc a {
@@ -25,17 +36,20 @@ title: "Investment Finance and Asset Prices"
   transition: color 0.2s;
 }
 
-.toc a:hover,
-.toc a.active {
+.toc a:hover {
   color: #007bff;
-  font-weight: bold;
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
 }
 </style>
 
-<div style="display: flex; gap: 2rem;">
+<div class="content-wrapper">
   
   <!-- TOC Sidebar -->
-  <nav class="toc" style="flex: 0 0 200px;">
+  <nav class="toc">
     <ul>
       <li><a href="#timetable">Timetable</a></li>
       <li><a href="#assignment">Assignment</a></li>
@@ -48,7 +62,7 @@ title: "Investment Finance and Asset Prices"
   </nav>
 
   <!-- Main Content -->
-  <main style="flex: 1;">
+  <div class="main-content">
 
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Investment Finance and Asset Prices
 
