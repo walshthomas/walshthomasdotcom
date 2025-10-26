@@ -1,5 +1,6 @@
 ---
 title: "Investment Finance and Asset Prices"
+toc: true
 ---
 
 <style>
