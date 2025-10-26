@@ -1,29 +1,9 @@
 
 ---
 title: "Investment Finance and Asset Prices"
+toc: true
+
 ---
-
-<!-- Scrollspy Container -->
-<div class="container-fluid">
-  <div class="row">
-    <!-- Left Sidebar TOC -->
-    <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar" style="position: sticky; top: 20px; height: fit-content;">
-      <div class="sidebar-sticky">
-        <ul class="nav flex-column" id="toc">
-          <li class="nav-item"><a class="nav-link" href="#timetable">Timetable</a></li>
-          <li class="nav-item"><a class="nav-link" href="#assignment">Group Assignment</a></li>
-          <li class="nav-item"><a class="nav-link" href="#slides">Slides</a></li>
-          <li class="nav-item"><a class="nav-link" href="#tutorials">Tutorials</a></li>
-          <li class="nav-item"><a class="nav-link" href="#labs">Labs and Codes</a></li>
-          <li class="nav-item"><a class="nav-link" href="#toolkit">Maths Toolkit</a></li>
-          <li class="nav-item"><a class="nav-link" href="#media">Media</a></li>
-        </ul>
-      </div>
-    </nav>
-
-    <!-- Main Content -->
-    <main class="col-md-9 ml-sm-auto col-lg-10" data-spy="scroll" data-target="#toc" data-offset="50">
-     
 
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Investment Finance and Asset Prices
 
