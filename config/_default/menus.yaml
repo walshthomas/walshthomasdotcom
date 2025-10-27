@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: Research
-    url: '#teaching'
+    url: '#research'
     weight: 25
 
   - name: Contact
