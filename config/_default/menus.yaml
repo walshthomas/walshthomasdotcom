@@ -19,5 +19,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/CV_Walsh_EUI.pdf
+    url: uploads/cv_walsh_uglasgow.pdf
     weight: 70
