@@ -15,7 +15,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s2 - Lagrangians and Tobin Model](/uploads/ifap/ifap2.pdf)
 - [s3 - Dynamic Programming Part 1](/uploads/ifap/ifap3.pdf)
 - [s3 - Dynamic Programming Part 2](/uploads/ifap/ifap4.pdf)
-- [s4 - Testing Q theory]
+- [s4 - Testing Q theory](/uploads/ifap/ifap5.pdf)
 - [s5 - Financial Constraints and Investment]
 - [s6 - Fixed Costs and Irreversibility]
 - [s7 - Uncertainty and Inaction]
