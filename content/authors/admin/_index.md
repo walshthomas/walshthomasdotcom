@@ -19,7 +19,7 @@ bio: My research interests include macro and labour economics, monetary and fisc
 # Interests to show in About widget
 #interests:
 #- Firm Dynamics
-#- Job Search and Unemployment
+#- Labour Market Policies
 #- Monetary and Fiscal Policy
 
 # Education to show in About widget
@@ -46,7 +46,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: "uploads/CV_Walsh_EUI.pdf"
+  link: "uploads/cv_walsh_uglasgow.pdf"
 
 - icon: twitter
   icon_pack: fab
