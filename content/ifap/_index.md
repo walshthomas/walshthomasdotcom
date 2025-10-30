@@ -19,6 +19,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [s5 - Financial Constraints and Investment]
 - [s6 - Fixed Costs and Irreversibility]
 - [s7 - Uncertainty and Inaction]
+- [sX - High Rollers Game](/uploads/ifap/highrollers.pdf)
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Unceraity and Risk Aversion](/uploads/ifap/T1.pdf)
@@ -33,6 +34,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
+- [H.code - High Rollers with backward induction](uploads/ifap/high_rollers.txt)
 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [slides](/uploads/math.pdf)
