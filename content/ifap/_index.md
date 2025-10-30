@@ -34,7 +34,7 @@ Course content for the masters course Investment Finance and Asset Prices [ECON 
 - [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
-- [H.code - High Rollers with backward induction](uploads/ifap/highrollers.txt)
+- [H.code - High Rollers with backward induction](/uploads/ifap/highrollers.txt)
 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [slides](/uploads/math.pdf)
