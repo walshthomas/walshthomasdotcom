@@ -21,3 +21,7 @@ main:
   - name: CV
     url: uploads/cv_walsh_uglasgow.pdf
     weight: 70
+
+  - name: Teaching - IFAP 2025
+    url: ifap
+    weight: 75
