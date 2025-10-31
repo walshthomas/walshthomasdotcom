@@ -16,7 +16,7 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 - [s3 - Dynamic Programming Part 1](/uploads/ifap/ifap3.pdf)
 - [s3 - Dynamic Programming Part 2](/uploads/ifap/ifap4.pdf)
 - [s4 - Testing Q theory](/uploads/ifap/ifap5.pdf)
-- [s5 - Financial Constraints and Investment]
+- [s5 - Financial Constraints and Investment](/uploads/ifap/ifap6.pdf)
 - [s6 - Fixed Costs and Irreversibility]
 - [s7 - Uncertainty and Inaction]
 - [sX - High Rollers Game](/uploads/ifap/highrollers.pdf)
