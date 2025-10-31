@@ -22,7 +22,7 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 - [sX - High Rollers Game](/uploads/ifap/highrollers.pdf)
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
-- [T1 - Unceraity and Risk Aversion](/uploads/ifap/T1.pdf)
+- [T1 - Uncertainty and Risk Aversion](/uploads/ifap/T1.pdf)
 - [T1.S - Solutions](/uploads/ifap/TS1.pdf)
 - [T2 - Tobin Model](/uploads/ifap/T2.pdf)
 - [T2.S - Solutions](/uploads/ifap/TS2.pdf)
