@@ -45,12 +45,15 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 <div class="content-block">
 
 ### <i class="fas fa-code"></i> Labs and Codes
+Labs
 - [L1.code - Intro to Matlab](/uploads/ifap/L1code.txt)
 - [L2 - Newton's Method / Rootfinders](/uploads/ifap/L2.pdf)
 - [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
 - [H.code - High Rollers with backward induction](/uploads/ifap/highrollers.txt)
+
+Other Codes
 - [S1.code - Investment Rates]
 - [S2.code - Lagrangian visualised]
 - [S2.code - Lagrangian visualised 2]
