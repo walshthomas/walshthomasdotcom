@@ -33,6 +33,9 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 
 <div class="content-block">
 
+### <i class="fas fa-toolbox"></i> Maths Toolkit
+- [toolbox slides](/uploads/math.pdf)
+
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Uncertainty and Risk Aversion](/uploads/ifap/T1.pdf)
 - [T1.S - Solutions](/uploads/ifap/TS1.pdf)
@@ -45,7 +48,6 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 <div class="content-block">
 
 ### <i class="fas fa-code"></i> Labs
-Labs
 - [L1.code - Intro to Matlab](/uploads/ifap/L1code.txt)
 - [L2 - Newton's Method / Rootfinders](/uploads/ifap/L2.pdf)
 - [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
@@ -65,17 +67,8 @@ Labs
 - [S2.code - Envelope Theorem]
 - [S2.code - Envelope Theorem 2]
 
-
-
-
 </div>
 
-<div class="content-block">
-
-### <i class="fas fa-toolbox"></i> Maths Toolkit
-- [slides](/uploads/math.pdf)
-
-</div>
 
 <div class="content-block">
 
