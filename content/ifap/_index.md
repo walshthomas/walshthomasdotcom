@@ -1,6 +1,3 @@
----
-title: "Investment, Finance and Asset Prices"
----
 
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Investment, Finance and Asset Prices
 
