@@ -60,12 +60,14 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 <div class="content-block">
 
 ### <i class="fas fa-code"></i> Other Codes
-- [S1.code - Investment Rates]
-- [S2.code - Lagrangian visualised]
-- [S2.code - Lagrangian visualised 2]
-- [S2.code - tightfig]
-- [S2.code - Envelope Theorem]
-- [S2.code - Envelope Theorem 2]
+- [C1 - Investment Rates](/uploads/ifap/C1.txt)
+- [C2 - Lagrangian visualised]
+- [C3 - Lagrangian visualised 2](/uploads/ifap/C3.txt)
+- [C4 - tightfig](/uploads/ifap/tightfig.txt)
+- [C5 - Envelope Theorem]
+- [C6 - Envelope Theorem 2]
+- [C7 - Shooting Algorithm]
+
 
 </div>
 
