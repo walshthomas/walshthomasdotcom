@@ -3,7 +3,7 @@
 
 Course content for the masters course Investment, Finance and Asset Prices [ECON 5068], AY2025.
 
-This course in Firm Dynamics will cover workhourse models of firm's investment and visit topics such as comovement between firm value, and investment, financial constraints, cashflow-sensitivity of invesment, theories of nonconvex costs and uncertainty and inaction.
+This course in the field of firm dynamics mixes macroeconomics and finance, visiting workhorse theories of firm investment decisions, test their predictions with evidence in panel microdata, and numerical solutions of these models.
 
 ### <i class="fas fa-clock"></i> Timetable
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
