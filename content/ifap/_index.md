@@ -7,7 +7,7 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
 - Thursdays, 1-3PM, Carnegie Lecture Theatre, Joseph Black Building
 
-### <i class="fa-solid fa-pencil"></i> Group Assignment
+### <i class="fas fa-pen"></i> Group Assignment
 - [Question Sheet. Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
 
 ---
