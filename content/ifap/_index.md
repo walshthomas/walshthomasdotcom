@@ -84,9 +84,10 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 
 
 <div class="content-block">
-### <i class="fas fa-file"></i> Recommended Books and Papers
-- [Adda Cooper - Dynamic Economics: Quantitative Methods and Applications](https://www.researchgate.net/profile/Jerome_Adda/publication/32895657_Dynamic_Economics_Quantitative_Methods_and_Applications/links/0deec51f0e7311cd95000000/Dynamic-Economics-Quantitative-Methods-and-Applications.pdf?__cf_chl_tk=2LGY408yWaWewBbhO7wHTR2LnBZSpDFqgAYMcAxEDSE-1762024401-1.0.1.1-MO81U_4aCxC_sQf0teHnhyE5wbaqDCkSEdR7zxI4Tqw)
 
+### <i class="fas fa-file"></i> Recommended Books and Papers
+
+- [Adda Cooper, Dynamic Economics: Quantitative Methods and Applications]https://moodle.gla.ac.uk/pluginfile.php/9504243/mod_resource/content/3/Dynamic%20Economics_%20Quantitative%20Methods%20and%20Applications%20-%20Adda%20and%20Cooper.pdf
 - [Fazzari Hubbard Petersen (1988)](https://moodle.gla.ac.uk/pluginfile.php/9504200/mod_resource/content/2/FHP1988.pdf)
 - [Gilchrist Himmelberg (1995)](https://moodle.gla.ac.uk/pluginfile.php/9504201/mod_resource/content/2/Gilchrist_Himmelberg.pdf)
 - [Cooper Haltiwanger (2006)](https://moodle.gla.ac.uk/pluginfile.php/9504224/mod_resource/content/1/73-3-611.pdf)
