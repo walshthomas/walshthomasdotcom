@@ -74,7 +74,9 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 
 
 <div class="content-block">
+
 ### <i class="fas fa-video"></i> Media
+
 - [Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
 - [The Economist: "The murky economics of the data-centre investment boom"](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
 - [The Economist: "Big tech's capex splurge may be irrationally exuberant"](https://www.economist.com/leaders/2024/05/16/big-techs-capex-splurge-may-be-irrationally-exuberant)
@@ -87,7 +89,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 
 ### <i class="fas fa-file"></i> Recommended Books and Papers
 
-- [Adda Cooper, Dynamic Economics: Quantitative Methods and Applications]https://moodle.gla.ac.uk/pluginfile.php/9504243/mod_resource/content/3/Dynamic%20Economics_%20Quantitative%20Methods%20and%20Applications%20-%20Adda%20and%20Cooper.pdf
+- [Adda Cooper, Dynamic Economics: Quantitative Methods and Applications](https://moodle.gla.ac.uk/pluginfile.php/9504243/mod_resource/content/3/Dynamic%20Economics_%20Quantitative%20Methods%20and%20Applications%20-%20Adda%20and%20Cooper.pdf)
 - [Fazzari Hubbard Petersen (1988)](https://moodle.gla.ac.uk/pluginfile.php/9504200/mod_resource/content/2/FHP1988.pdf)
 - [Gilchrist Himmelberg (1995)](https://moodle.gla.ac.uk/pluginfile.php/9504201/mod_resource/content/2/Gilchrist_Himmelberg.pdf)
 - [Cooper Haltiwanger (2006)](https://moodle.gla.ac.uk/pluginfile.php/9504224/mod_resource/content/1/73-3-611.pdf)
