@@ -1,0 +1,28 @@
+/* Responsive content grid for course materials */
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.content-block {
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.content-block h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.content-block ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.content-block li {
+  margin: 0.5rem 0;
+}
