@@ -3,7 +3,7 @@
 
 Course content for the masters course Investment, Finance and Asset Prices [ECON 5068], AY2025.
 
-This course in the field of firm dynamics mixes macroeconomics and finance, visiting workhorse theories of firm investment decisions, test their predictions with evidence in panel microdata, and numerical solutions of these models.
+This course in the field of firm dynamics mixes macroeconomics and finance, visiting workhorse theories of firm investment decisions, tests their predictions with evidence in panel microdata, and numerical solutions of these models.
 
 ### <i class="fas fa-clock"></i> Timetable
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
@@ -70,12 +70,10 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 - [C6 - Envelope Theorem 2]
 - [C7 - Shooting Algorithm]
 
-
 </div>
 
 
 <div class="content-block">
-
 ### <i class="fas fa-video"></i> Media
 - [Sky News: AI infra boom](https://news.sky.com/video/sky-news-goes-inside-the-centre-of-the-ai-boom-13454287)
 - [The Economist: "The murky economics of the data-centre investment boom"](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
@@ -86,16 +84,15 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 
 
 <div class="content-block">
-
 ### <i class="fas fa-file"></i> Recommended Books and Papers
 - [Adda Cooper - Dynamic Economics: Quantitative Methods and Applications](https://www.researchgate.net/profile/Jerome_Adda/publication/32895657_Dynamic_Economics_Quantitative_Methods_and_Applications/links/0deec51f0e7311cd95000000/Dynamic-Economics-Quantitative-Methods-and-Applications.pdf?__cf_chl_tk=2LGY408yWaWewBbhO7wHTR2LnBZSpDFqgAYMcAxEDSE-1762024401-1.0.1.1-MO81U_4aCxC_sQf0teHnhyE5wbaqDCkSEdR7zxI4Tqw)
 
-- [Fazzari Hubbard Petersen (1988)]
-- [Gilchrist Himmelberg (1995)]
-- [Cooper Haltiwanger (2009)]
-- [Bond Bloom Van Reenen (2007)]
+- [Fazzari Hubbard Petersen (1988)](https://moodle.gla.ac.uk/pluginfile.php/9504200/mod_resource/content/2/FHP1988.pdf)
+- [Gilchrist Himmelberg (1995)](https://moodle.gla.ac.uk/pluginfile.php/9504201/mod_resource/content/2/Gilchrist_Himmelberg.pdf)
+- [Cooper Haltiwanger (2006)](https://moodle.gla.ac.uk/pluginfile.php/9504224/mod_resource/content/1/73-3-611.pdf)
+- [Bond Bloom Van Reenen (2007)](https://moodle.gla.ac.uk/pluginfile.php/9504223/mod_resource/content/1/Bloom%2C%20Bond%2C%20Van%20Reenen%20-%202007%20-%20Uncertainty%20and%20investment%20dynamics.pdf)
 - [Bernanke (1983)]
-- [Boom (2009)]
+- [Bloom (2009)]
 
 
 </div>
