@@ -82,4 +82,12 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 
 </div>
 
+
+<div class="content-block">
+
+### <i class="fas fa-video"></i> Recommended Books and Papers
+- [Adda Cooper - Dynamic Economics: Quantitative Methods and Applications](https://www.researchgate.net/profile/Jerome_Adda/publication/32895657_Dynamic_Economics_Quantitative_Methods_and_Applications/links/0deec51f0e7311cd95000000/Dynamic-Economics-Quantitative-Methods-and-Applications.pdf?__cf_chl_tk=2LGY408yWaWewBbhO7wHTR2LnBZSpDFqgAYMcAxEDSE-1762024401-1.0.1.1-MO81U_4aCxC_sQf0teHnhyE5wbaqDCkSEdR7zxI4Tqw)
+
+</div>
+
 </div>
