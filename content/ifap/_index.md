@@ -16,7 +16,6 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 ---
 
 <div class="content-grid">
-
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> Slides
@@ -52,6 +51,15 @@ Course content for the masters course Investment, Finance and Asset Prices [ECON
 - [L3 - Value Function Iteration. (VFI)]()
 - [L3.code - Value Function Iteration. (VFI)]()
 - [H.code - High Rollers with backward induction](/uploads/ifap/highrollers.txt)
+- [S1.code - Investment Rates]
+- [S2.code - Lagrangian visualised]
+- [S2.code - Lagrangian visualised 2]
+- [S2.code - tightfig]
+- [S2.code - Envelope Theorem]
+- [S2.code - Envelope Theorem 2]
+
+
+
 
 </div>
 
