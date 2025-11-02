@@ -3,7 +3,7 @@
 
 Course content for the masters course Investment, Finance and Asset Prices [ECON 5068], AY2025.
 
-This course in the field of firm dynamics mixes macroeconomics and finance, visiting workhorse theories of firm investment decisions, tests their predictions with evidence in panel microdata, and numerical solutions of these models.
+This course in the field of firm dynamics mixes macroeconomics and finance. We will see workhorse theories of firm investment decisions; test their predictions with evidence in panel microdata; as well as learning numerical methods to solve these models.
 
 ### <i class="fas fa-clock"></i> Timetable
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
