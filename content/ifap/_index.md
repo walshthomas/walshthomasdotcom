@@ -87,15 +87,15 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 
 <div class="content-block">
 
-### <i class="fas fa-file"></i> Recommended Books and Papers
+### <i class="fas fa-file"></i> Books and Papers
 
 - [Adda Cooper, Dynamic Economics: Quantitative Methods and Applications](https://moodle.gla.ac.uk/pluginfile.php/9504243/mod_resource/content/3/Dynamic%20Economics_%20Quantitative%20Methods%20and%20Applications%20-%20Adda%20and%20Cooper.pdf)
 - [Fazzari Hubbard Petersen (1988)](https://moodle.gla.ac.uk/pluginfile.php/9504200/mod_resource/content/2/FHP1988.pdf)
 - [Gilchrist Himmelberg (1995)](https://moodle.gla.ac.uk/pluginfile.php/9504201/mod_resource/content/2/Gilchrist_Himmelberg.pdf)
 - [Cooper Haltiwanger (2006)](https://moodle.gla.ac.uk/pluginfile.php/9504224/mod_resource/content/1/73-3-611.pdf)
+- [Bloom (2009)](https://moodle.gla.ac.uk/pluginfile.php/11182338/mod_resource/content/1/Bloom%20uncer%20shocks%20Ec%2009.pdf)
 - [Bond Bloom Van Reenen (2007)](https://moodle.gla.ac.uk/pluginfile.php/9504223/mod_resource/content/1/Bloom%2C%20Bond%2C%20Van%20Reenen%20-%202007%20-%20Uncertainty%20and%20investment%20dynamics.pdf)
-- [Bernanke (1983)]
-- [Bloom (2009)]
+- [Bernanke (1983)](https://moodle.gla.ac.uk/pluginfile.php/11182339/mod_resource/content/1/Bernanke-IrreversibilityUncertaintyCyclical-1983.pdf)
 
 
 </div>
