@@ -15,6 +15,26 @@ This course in the field of firm dynamics mixes macroeconomics and finance, visi
 ### <i class="fas fa-pen"></i> Group Assignment
 - [Question Sheet. Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
 
+<a href="/uploads/ifap/ifap-all-materials.zip" class="download-btn" download>
+  📦 Download All Course Materials
+</a>
+
+<style>
+.download-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #007bff;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+.download-btn:hover {
+  background: #0056b3;
+}
+</style>
+
 ---
 
 <div class="content-grid">
