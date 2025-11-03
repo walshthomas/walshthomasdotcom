@@ -23,7 +23,7 @@ bio: My research interests include macro and labour economics, monetary and fisc
 #- Monetary and Fiscal Policy
 
 # Education to show in About widget
-#education:
+education:
   courses:
   - course: PhD in Economics
     institution: European University Institute, IT
