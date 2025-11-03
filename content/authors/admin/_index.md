@@ -84,9 +84,9 @@ I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-
 
 I am on the 2025-26 Academic Job Market! The current draft of my job market paper: "Earnings Management and Investment"
 
-<a href="/uploads/jmp-walsh.pdf" class="jmp-btn" target="_blank">
-  <i class="fas fa-file-pdf"></i>  Job Market Paper: "Earnings Management and Investment"
-</a>
+# <a href="/uploads/jmp-walsh.pdf" class="jmp-btn" target="_blank">
+#  <i class="fas fa-file-pdf"></i>  Job Market Paper: "Earnings Management and Investment"
+# </a>
 
 <style>
 .jmp-btn {
