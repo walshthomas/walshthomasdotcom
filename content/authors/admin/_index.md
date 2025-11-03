@@ -23,17 +23,17 @@ bio: My research interests include macro and labour economics, monetary and fisc
 #- Monetary and Fiscal Policy
 
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD in Economics
-#    institution: European University Institute, IT
-#    year: 2023 (expected)
-#  - course: MSc Economics
-#    institution: Barcelona Graduate School of Economics, ES
-#    year: 2014
-#  - course: BSc Economics and Econometrics
-#    institution: University of Bristol, UK
-#    year: 2011
+education:
+  courses:
+  - course: PhD in Economics
+    institution: European University Institute, IT
+    year: 2023 (expected)
+  - course: MSc Economics
+    institution: Barcelona Graduate School of Economics, ES
+    year: 2014
+  - course: BSc Economics and Econometrics
+   institution: University of Bristol, UK
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
