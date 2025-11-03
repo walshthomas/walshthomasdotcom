@@ -27,10 +27,21 @@ tol = 1e-8; % tolerance level
 for iter = 1:maxiter % do not name a variable as i in Matlab 
 
     for ik = 1:m
+	% here Kgrid is a vector of K_{t+1}; Kgrid(ik) represents K_{t}
+
+	%Investment
         Inv             = Kgrid - (1 - delta)*Kgrid(ik);
-        AC              = (Inv./Kgrid(ik)).^2;
-        RHS             = Kgrid(ik)^alpha - Inv - (phi/2)*(Inv./Kgrid(ik)).^2 + beta*valueold;    % a vector of values
+        
+	% Adjustment Costs
+	AC              = (phi/2)*(Inv./Kgrid(ik)).^2;
+        
+	% Right side of Bellman eon
+	RHS             = Kgrid(ik)^alpha - Inv - AC + beta*valueold;    % a vector of values
+
+	% [max-value, max-location-on-grid]
         [maxRHS,index]  = max(RHS);
+
+	% updates
         valuenew(ik)    = maxRHS;
         Kprime(ik)      = Kgrid(index); 
     end
