@@ -75,7 +75,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [L2.code - Newton's Method / Rootfinders](/uploads/ifap/L2code.txt)
 - [L3 - Value Function Iteration. (VFI)](/uploads/ifap/L3.pdf)
 - [L3.S - Value Function Iteration. (VFI)](/uploads/ifap/L3.S.pdf)
-- [L3.code - Value Function Iteration. (VFI)](/uploads/ifap/L3code.txt)
+- [L3.code - Value Function Iteration. (VFI)](/uploads/ifap/L3code2.txt)
 - [H.code - High Rollers with backward induction](/uploads/ifap/highrollers.txt)
 
 </div>

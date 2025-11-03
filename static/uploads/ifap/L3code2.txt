@@ -3,11 +3,11 @@
 % Solved using Value Function Iteration + Discretization of State Space
 clear all; close all;clc;
 
-% Model Parameters
-alpha = 0.5;
-delta = 0.05;
-phi = 0.2;
-beta = 0.9;
+% --- Model Parameters
+alpha   = 0.50;     % production curvature
+delta   = 0.05;     % depreciation
+phi     = 0.03;     % Adjustment Cost
+beta    = 0.90;     % Discounting
 
 % Capital Grid - State Space
 m = 1001; % of capital grid points
@@ -27,11 +27,12 @@ tol = 1e-8; % tolerance level
 for iter = 1:maxiter % do not name a variable as i in Matlab 
 
     for ik = 1:m
-        Inv = Kgrid - (1 - delta)*Kgrid(ik);
-        RHS = Kgrid(ik)^alpha - Inv - (phi/2)*Inv.^2 + beta*valueold;    % a vector of values
-        [maxRHS,index] = max(Kgrid(ik)^alpha - Inv - (phi/2)*Inv.^2 + beta*valueold);
-        valuenew(ik) = maxRHS;
-        Kprime(ik) = Kgrid(index); 
+        Inv             = Kgrid - (1 - delta)*Kgrid(ik);
+        AC              = (Inv./Kgrid(ik)).^2;
+        RHS             = Kgrid(ik)^alpha - Inv - (phi/2)*(Inv./Kgrid(ik)).^2 + beta*valueold;    % a vector of values
+        [maxRHS,index]  = max(RHS);
+        valuenew(ik)    = maxRHS;
+        Kprime(ik)      = Kgrid(index); 
     end
 
     error = max(abs(valueold-valuenew));
