@@ -47,7 +47,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [s3 - Dynamic Programming Part 2](/uploads/ifap/ifap4.pdf)
 - [s4 - Testing Q theory](/uploads/ifap/ifap5.pdf)
 - [s5 - Financial Constraints and Investment](/uploads/ifap/ifap6.pdf)
-- [s6 - Fixed Costs and Irreversibility]
+- [s6 - Fixed Costs and Irreversibility](/uploads/ifap/ifap7.pdf)
 - [s7 - Uncertainty and Inaction]
 - [sX - High Rollers Game](/uploads/ifap/highrollers.pdf)
 
