@@ -65,6 +65,13 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [T2.S - Solutions](/uploads/ifap/TS2.pdf)
 - [T3 - Eating a Cake]
 
+### <i class="fas fa-dumbbell"></i> Practice
+- [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/T1.pdf)
+- [PQ1.S - Solutions](/uploads/ifap/TS1.pdf)
+- [PQ2 - Recursive Approach and VFI](/uploads/ifap/T2.pdf)
+- [PS2.S - Solutions](/uploads/ifap/TS2.pdf)
+- [PQ3 - Uncertainty, Inaction, Nonconvex Costs]
+
 </div>
 
 <div class="content-block">
