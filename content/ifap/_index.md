@@ -56,14 +56,14 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 <div class="content-block">
 
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
-- [toolbox slides](/uploads/math.pdf)
+- [toolbox slides](/uploads/ifap/math.pdf)
 
 ### <i class="fas fa-dumbbell"></i> Tutorials
 - [T1 - Uncertainty and Risk Aversion](/uploads/ifap/T1.pdf)
 - [T1.S - Solutions](/uploads/ifap/TS1.pdf)
 - [T2 - Tobin Model](/uploads/ifap/T2.pdf)
 - [T2.S - Solutions](/uploads/ifap/TS2.pdf)
-- [T3 - Eating a Cake]
+- [T3 - Eating a Cake](/uploads/ifap/T3.pdf)
 
 </div>
 
@@ -73,9 +73,9 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/PQ1.pdf)
 - [PQ2 - Recursive Approach and VFI](/uploads/ifap/PQ2.pdf)
 - [PQ3 - Uncertainty, Inaction, Nonconvex Costs]
-- [S1 - solutions 1]
-- [S2 - solutions 2]
-- [S3 - solutions 3]
+- [PQS1 - solutions 1](/uploads/ifap/PQS1.pdf)
+- [PQS2 - solutions 2](/uploads/ifap/PQS2.pdf)
+- [PSS3 - solutions 3]
 
 </div>
 
