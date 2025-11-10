@@ -69,11 +69,13 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 
 <div class="content-block">
 
-### <i class="fas fa-dumbbell"></i> Practice Questions
-- [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/T1.pdf)
-- [PQ2 - Recursive Approach and VFI](/uploads/ifap/T2.pdf)
+### <i class="fas fa-pen"></i> Practice Questions
+- [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/PQ1.pdf)
+- [PQ2 - Recursive Approach and VFI](/uploads/ifap/PQ2.pdf)
 - [PQ3 - Uncertainty, Inaction, Nonconvex Costs]
-
+- [S1 - solutions 1]
+- [S2 - solutions 2]
+- [S3 - solutions 3]
 
 </div>
 
