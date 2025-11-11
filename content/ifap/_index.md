@@ -102,6 +102,8 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [C5 - Envelope Theorem]
 - [C6 - Envelope Theorem 2]
 - [C7 - Shooting Algorithm]
+- [GIF - Value Function Convergence](/uploads/ifap/vfi_convergence.gif)
+- [GIF - Conumption Policy Function Convergence](/uploads/ifap/cpol_convergence.gif)
 
 </div>
 
