@@ -55,6 +55,14 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 
 <div class="content-block">
 
+### <i class="fas fa-file-pdf"></i> Past Exams
+- [Paper 1: 2024](/uploads/ifap/ifap1.pdf)
+- [Paper 2: 2023](/uploads/ifap/ifap2.pdf)
+
+</div>
+
+<div class="content-block">
+
 ### <i class="fas fa-toolbox"></i> Maths Toolkit
 - [toolbox slides](/uploads/ifap/math.pdf)
 
@@ -94,7 +102,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 
 <div class="content-block">
 
-### <i class="fas fa-code"></i> Other Codes
+### <i class="fas fa-code"></i> Other Codes in Slides
 - [C1 - Investment Rates](/uploads/ifap/C1.txt)
 - [C2 - Lagrangian visualised]
 - [C3 - Lagrangian visualised 2](/uploads/ifap/C3.txt)
