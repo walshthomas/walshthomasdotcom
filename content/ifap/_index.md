@@ -16,10 +16,6 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [2024 Past Exam](/uploads/ifap/E2024.pdf)
 - [2023 Past Exam](/uploads/ifap/E2023.pdf)
 
-
-### <i class="fas fa-pen"></i> Group Assignment
-- [Question Sheet. Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
-
 <a href="/uploads/ifap/ifap-all-materials.zip" class="download-btn" download>
   <i class="fas fa-folder-open"></i> Download All Course Materials (incomplete, Nov25)
 </a>
@@ -60,9 +56,11 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 
 <div class="content-block">
 
-### <i class="fas fa-file-pdf"></i> Past Exams
+### <i class="fas fa-file-pdf"></i> Group Assignment and Past Exams
 - [Paper 1: 2024](/uploads/ifap/E2024.pdf)
 - [Paper 2: 2023](/uploads/ifap/E2023.pdf)
+- [Assignment Question Sheet](/uploads/ifap/GA.pdf)
+
 
 </div>
 
