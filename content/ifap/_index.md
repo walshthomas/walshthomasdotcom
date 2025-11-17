@@ -12,6 +12,11 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 ### <i class="fas fa-clock"></i> Office Hours
 - [Check availability and book a slot](https://calendly.com/thomas-walsh)
 
+### <i class="fas fa-pen"></i> Past exam papers
+- [2024 Past Exam](/uploads/ifap/E2024.pdf)
+- [2023 Past Exam](/uploads/ifap/E2023.pdf)
+
+
 ### <i class="fas fa-pen"></i> Group Assignment
 - [Question Sheet. Due 11 November 2025, 12:00 Midday](/uploads/ifap/GA.pdf)
 
@@ -56,8 +61,8 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> Past Exams
-- [Paper 1: 2024](/uploads/ifap/ifap1.pdf)
-- [Paper 2: 2023](/uploads/ifap/ifap2.pdf)
+- [Paper 1: 2024](/uploads/ifap/E2024.pdf)
+- [Paper 2: 2023](/uploads/ifap/E2023.pdf)
 
 </div>
 
