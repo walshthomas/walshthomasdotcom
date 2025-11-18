@@ -6,7 +6,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 
 
 <div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
-Last updated: {{ .Lastmod.Format "02 January 2006" }}
+Last updated: 18-11-25
 </div>
 
 ### <i class="fas fa-clock"></i> Timetable
