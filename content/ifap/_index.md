@@ -17,7 +17,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [2023 Past Exam](/uploads/ifap/E2023.pdf)
 
 <a href="/uploads/ifap/ifap-all-materials.zip" class="download-btn" download>
-  <i class="fas fa-folder-open"></i> Download All Course Materials (updated, 18Nov25)
+  <i class="fas fa-folder-open"></i> Download All Course Materials (incomplete, Nov25)
 </a>
 
 <style>
@@ -83,8 +83,10 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 ### <i class="fas fa-pen"></i> Practice Questions
 - [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/PQ1.pdf)
 - [PQ2 - Recursive Approach and VFI](/uploads/ifap/PQ2.pdf)
+- [PQ3 - Uncertainty, Inaction, Nonconvex Costs]
 - [PQS1 - solutions 1](/uploads/ifap/PQS1.pdf)
 - [PQS2 - solutions 2](/uploads/ifap/PQS2.pdf)
+- [PSS3 - solutions 3]
 
 </div>
 
