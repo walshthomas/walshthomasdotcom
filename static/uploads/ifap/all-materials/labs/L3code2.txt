@@ -1,0 +1,89 @@
+% Investment Q Model 
+% Dynamic Programming
+% Solved using Value Function Iteration + Discretization of State Space
+clear all; close all;clc;
+
+% --- Model Parameters
+alpha   = 0.50;     % production curvature
+delta   = 0.05;     % depreciation
+phi     = 0.03;     % Adjustment Cost
+beta    = 0.90;     % Discounting
+
+% Capital Grid - State Space
+m = 1001; % of capital grid points
+Kgrid = linspace(0,10,m)';
+
+% value function
+valueold = zeros(m,1); % guess V_0
+valuenew = zeros(m,1); % update V_1
+
+Kprime = zeros(m,1);
+
+% Value Function Iteration
+maxiter = 1000;
+tol = 1e-8; % tolerance level 
+
+
+for iter = 1:maxiter % do not name a variable as i in Matlab 
+
+    for ik = 1:m
+	% here Kgrid is a vector of K_{t+1}; Kgrid(ik) represents K_{t}
+
+	%Investment
+        Inv             = Kgrid - (1 - delta)*Kgrid(ik);
+        
+	% Adjustment Costs
+	AC              = (phi/2)*(Inv./Kgrid(ik)).^2;
+        
+	% Right side of Bellman eon
+	RHS             = Kgrid(ik)^alpha - Inv - AC + beta*valueold;    % a vector of values
+
+	% [max-value, max-location-on-grid]
+        [maxRHS,index]  = max(RHS);
+
+	% updates
+        valuenew(ik)    = maxRHS;
+        Kprime(ik)      = Kgrid(index); 
+    end
+
+    error = max(abs(valueold-valuenew));
+    fprintf('Iteration No. : %d Error : %d \n',iter,error) % %d is placeholder for numbers and \n is linebreak
+    if error < tol  % check if valueold and valuenew are close enough
+        break 
+    end 
+
+    valueold = valuenew; 
+
+end
+
+% Value Function 
+v = valuenew;
+% Investment Policy Function
+investment = Kprime - (1 - delta)*Kgrid;
+
+%Plot value Function
+figure(1)
+plot(Kgrid,v,'LineWidth',2)
+xlabel("Capital")
+ylabel("Value Function")
+
+% plot optimal investment rule as a function of capital
+figure(2)
+plot(Kgrid,investment,'LineWidth',2) % plot graph
+xlabel('Capital');
+ylabel('Optimal Investment');
+title('Optimal Investment')
+% Adjustment Cost model implies smooth investment
+% increasing convex cost makes investment downward sloping w.r.t capital
+
+% plot optimal next period capital as a function of capital
+figure(3)
+plot(Kgrid,[Kgrid Kprime],'LineWidth',2) % plot graph
+xlabel('Capital');
+ylabel('Optimal next period capital');
+text(0.4,0.65,'45 deg. line','FontSize',18) % add text to the graph
+title('Optimal next period Capital ')
+
+
+
+
