@@ -35,7 +35,7 @@ coordinates:
   longitude:
 directions:
 office_hours:
-appointment_url:
+appointment_url: calendly.com/thomas-walsh
 contact_links:
 # tweetzor  ======================================
     - icon: twitter
