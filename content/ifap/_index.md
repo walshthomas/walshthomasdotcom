@@ -1,13 +1,13 @@
-
-<div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
-Last updated: {{ .Lastmod.Format "02 January 2006" }}
-</div>
-
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Investment, Finance and Asset Prices
 
 Course content for the masters course Investment, Finance and Asset Prices [ECON 5068], AY2025.
 
 This course in the field of firm dynamics mixes macroeconomics and finance; theory, empirics and computation. We will see workhorse theories of firm investment decisions; test their predictions with evidence in panel microdata; as well as learning numerical methods to solve these models.
+
+
+<div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
+Last updated: {{ .Lastmod.Format "02 January 2006" }}
+</div>
 
 ### <i class="fas fa-clock"></i> Timetable
 - Wednesdays, 3-5PM, Humanity Lecture Theatre, Gilbert Scott Building 
