@@ -83,10 +83,8 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 ### <i class="fas fa-pen"></i> Practice Questions
 - [PQ1 - Lagrangians and Shadow Prices](/uploads/ifap/PQ1.pdf)
 - [PQ2 - Recursive Approach and VFI](/uploads/ifap/PQ2.pdf)
-- [PQ3 - Uncertainty, Inaction, Nonconvex Costs]
 - [PQS1 - solutions 1](/uploads/ifap/PQS1.pdf)
 - [PQS2 - solutions 2](/uploads/ifap/PQS2.pdf)
-- [PSS3 - solutions 3]
 
 </div>
 
@@ -144,7 +142,6 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [Bloom (2009)](https://moodle.gla.ac.uk/pluginfile.php/11182338/mod_resource/content/1/Bloom%20uncer%20shocks%20Ec%2009.pdf)
 - [Bond Bloom Van Reenen (2007)](https://moodle.gla.ac.uk/pluginfile.php/9504223/mod_resource/content/1/Bloom%2C%20Bond%2C%20Van%20Reenen%20-%202007%20-%20Uncertainty%20and%20investment%20dynamics.pdf)
 - [Bernanke (1983)](https://moodle.gla.ac.uk/pluginfile.php/11182339/mod_resource/content/1/Bernanke-IrreversibilityUncertaintyCyclical-1983.pdf)
-
 
 </div>
 
