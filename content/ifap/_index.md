@@ -17,7 +17,7 @@ This course in the field of firm dynamics mixes macroeconomics and finance; theo
 - [2023 Past Exam](/uploads/ifap/E2023.pdf)
 
 <a href="/uploads/ifap/ifap-all-materials.zip" class="download-btn" download>
-  <i class="fas fa-folder-open"></i> Download All Course Materials (incomplete, Nov25)
+  <i class="fas fa-folder-open"></i> Download All Course Materials (updated: 18-Nov-25)
 </a>
 
 <style>
