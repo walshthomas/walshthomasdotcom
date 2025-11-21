@@ -64,6 +64,7 @@ Last updated: 18-11-25
 - [Paper 1: 2024](/uploads/ifap/E2024.pdf)
 - [Paper 2: 2023](/uploads/ifap/E2023.pdf)
 - [Assignment Question Sheet](/uploads/ifap/GA.pdf)
+- [Assignment Solution Sheet](/uploads/ifap/solutionsGA.pdf)
 
 
 </div>
