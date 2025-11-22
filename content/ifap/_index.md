@@ -65,7 +65,9 @@ Last updated: 18-11-25
 - [Paper 2: 2023](/uploads/ifap/E2023.pdf)
 - [Assignment Question Sheet](/uploads/ifap/GA.pdf)
 - [Assignment Solution Sheet](/uploads/ifap/solutionsGA.pdf)
-
+- [Assignment Tobin Code](/uploads/ifap/q1A_Tobin.m)
+- [Assignment Crusoe Code](/uploads/ifap/q1B_Crusoe.m)
+- [Assignment Newton Code](/uploads/ifap/q2_Newton.m)
 
 </div>
 
