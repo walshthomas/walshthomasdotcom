@@ -82,6 +82,51 @@ I am an applied macroeconomist with interests in firm dynamics, labour markets, 
 I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a>
  in May 2023.
 
-I am on the 2025-26 Academic Job Market! The current draft of my job market paper: "Earnings Management and Investment"
+I am on the 2025-26 Academic Job Market! 
+
+The current draft of my job market paper: "Earnings Management and Investment"
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;">
+  <a href="/uploads/jmp-walsh.pdf" class="action-btn jmp-btn" target="_blank">
+    📄 Job Market Paper
+  </a>
+  <a href="/uploads/cv_walsh_uglasgow.pdf" class="action-btn cv-btn" target="_blank">
+    📋 CV
+  </a>
+</div>
+
+<style>
+.action-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.2s;
+}
+
+.action-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.jmp-btn {
+  background: #007bff;
+}
+
+.jmp-btn:hover {
+  background: #0056b3;
+}
+
+.cv-btn {
+  background: #28a745;
+}
+
+.cv-btn:hover {
+  background: #218838;
+}
+</style>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
