@@ -28,11 +28,11 @@ weight = 25
 <!-- ============================================================================== -->
 <h2>Working Papers:</h2>
 
-<ul><li><p><h5><i class="far fa-file-alt"></i><a href="/uploads/jm/jmp.pdf" target="_blank">Earnings Management and Investment</a></h5>
+<ul><li><p><h5><a href="/uploads/jm/jmp.pdf" target="_blank"><i class="far fa-file-alt"></i> Earnings Management and Investment</a></h5>
 
 (<i>Job Market Paper, this draft Oct 2025</i>)</p></li></ul>
 
-<ul><li><p><h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank">Fiscal News and the Macroeconomy</a></h5>
+<ul><li><p><h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank"><i class="far fa-file-alt"></i> Fiscal News and the Macroeconomy</a></h5>
 (<i>with Wolfram Horn, this draft Oct 2025</i>)</p></li></ul>
 
 <ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
