@@ -28,7 +28,8 @@ weight = 25
 <!-- ============================================================================== -->
 <h2>Working Papers:</h2>
 
-<ul><li><p><h5><a href="/uploads/jm/jmp.pdf" target="_blank">Earnings Management and Investment</a></h5>
+<ul><li><p><h5><i class="far fa-file-alt"></i><a href="/uploads/jm/jmp.pdf" target="_blank">Earnings Management and Investment</a></h5>
+
 (<i>Job Market Paper, this draft Oct 2025</i>)</p></li></ul>
 
 <ul><li><p><h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank">Fiscal News and the Macroeconomy</a></h5>
