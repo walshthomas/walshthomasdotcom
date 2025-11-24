@@ -128,6 +128,8 @@ weight = 25
 <br>
 <br>
 <h2>Work in Progress:</h2>
+<ul><li><p><h5>Lumpy Investment: a micro-to-macro FAVAR approach</h5>
+(<i>with Christoph Gortz, Sisir Ramanan and John Tsoukalas</i>)</p></li></ul>
 <ul><li><p><h6> The Macroeconomic Implications of Debt Distressed Firms</h6>
 (<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</a></i>)</p></li></ul>
 <ul><li><p><h5>Financing Lumpy Capacity Adjustments: Evidence from UK Firms</h5>
