@@ -61,6 +61,7 @@ Last updated: 18-11-25
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> Group Assignment and Past Exams
+- [Exam Solutions 23+24](/uploads/ifap/examsols.pdf)
 - [Paper 1: 2024](/uploads/ifap/E2024.pdf)
 - [Paper 2: 2023](/uploads/ifap/E2023.pdf)
 - [Assignment Question Sheet](/uploads/ifap/GA.pdf)
