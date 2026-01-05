@@ -50,8 +50,8 @@ social:
   icon_pack: ai
   link: "uploads/cv_walsh_uglasgow.pdf"
 
-- icon: twitter
-  icon_pack: fab
+- icon: bluesky
+  icon_pack: fa
   link: https://twitter.com/7homaswal5h
   label: Follow me on Twitter
   display:
