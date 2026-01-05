@@ -38,10 +38,10 @@ office_hours:
 appointment_url: calendly.com/thomas-walsh
 contact_links:
 # tweetzor  ======================================
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter DM
-      link: 'https://twitter.com/7homaswal5h'
+#    - icon: twitter
+#      icon_pack: fab
+#      name: Twitter DM
+#      link: 'https://twitter.com/7homaswal5h'
 
 # skype  ======================================
 #    - icon: skype
