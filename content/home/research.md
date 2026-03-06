@@ -54,7 +54,7 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
 </a>
-</small><i>(with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a>, Revise and Resubmit, European Economic Review, Mar 2026)</i>
+</small><i>(with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a>, <br> Revise and Resubmit, European Economic Review, Mar 2026)</i>
 </li></ul>
 
 
