@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glasgow Economics Seminars 2025–26</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --navy: #1c2b3a;
+      --navy-light: #243649;
+      --red: #c8380a;
+      --red-light: #e8420c;
+      --applied: #c8380a;
+      --macro: #1a6b4a;
+      --metrics: #5b4ca8;
+      --stone: #f0ede8;
+      --white: #ffffff;
+      --text: #1a1a1a;
+      --muted: #666;
+      --border: #e4e0da;
+    }
+
+    body {
+      background: var(--stone);
+      font-family: 'DM Sans', sans-serif;
+      color: var(--text);
+      padding: 32px 16px 64px;
+      font-size: 14px;
+    }
+
+    /* PAGE HEADER */
+    .page-header {
+      max-width: 960px;
+      margin: 0 auto 36px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding-bottom: 20px;
+      border-bottom: 2px solid var(--navy);
+    }
+
+    .page-header-left .eyebrow {
+      font-size: 10px;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      font-weight: 500;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .page-header-left h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 28px;
+      font-weight: 600;
+      color: var(--navy);
+      line-height: 1.2;
+    }
+
+    .page-header-right {
+      font-size: 11.5px;
+      color: var(--muted);
+      text-align: right;
+      line-height: 1.6;
+    }
+
+    .page-header-right a {
+      color: var(--navy);
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+    }
+
+    /* SERIES TABS */
+    .series-nav {
+      max-width: 960px;
+      margin: 0 auto 28px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .series-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 11.5px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1.5px solid transparent;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+
+    .series-pill.applied { background: rgba(200,56,10,0.08); border-color: rgba(200,56,10,0.3); color: var(--applied); }
+    .series-pill.macro   { background: rgba(26,107,74,0.08); border-color: rgba(26,107,74,0.3); color: var(--macro); }
+    .series-pill.metrics { background: rgba(91,76,168,0.08); border-color: rgba(91,76,168,0.3); color: var(--metrics); }
+
+    .series-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+    }
+    .applied .series-dot { background: var(--applied); }
+    .macro   .series-dot { background: var(--macro); }
+    .metrics .series-dot { background: var(--metrics); }
+
+    /* MAIN GRID */
+    .grid {
+      max-width: 960px;
+      margin: 0 auto;
+      display: grid;
+      gap: 20px;
+    }
+
+    /* SEMINAR CARD */
+    .card {
+      background: var(--white);
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+
+    .card-header {
+      padding: 22px 28px 18px;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+    }
+
+    .card-series-bar {
+      width: 4px;
+      border-radius: 2px;
+      flex-shrink: 0;
+      align-self: stretch;
+      min-height: 40px;
+    }
+    .applied-bar  { background: var(--applied); }
+    .macro-bar    { background: var(--macro); }
+    .metrics-bar  { background: var(--metrics); }
+
+    .card-header-content { flex: 1; }
+
+    .card-series-label {
+      font-size: 9.5px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+    .applied-label  { color: var(--applied); }
+    .macro-label    { color: var(--macro); }
+    .metrics-label  { color: var(--metrics); }
+
+    .card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--navy);
+      line-height: 1.35;
+      margin-bottom: 10px;
+    }
+
+    .card-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .card-title a:hover { text-decoration: underline; }
+
+    .card-speaker {
+      font-size: 13.5px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .card-affiliation {
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 300;
+    }
+
+    /* META STRIP */
+    .card-meta {
+      padding: 10px 28px 10px 52px;
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      align-items: center;
+      border-top: 1px solid #f0ede8;
+    }
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .meta-icon {
+      width: 13px; height: 13px; flex-shrink: 0;
+      color: var(--muted);
+    }
+
+    .badge {
+      margin-left: auto;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      padding: 2px 8px;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+
+    .badge-online {
+      background: #f0ede8;
+      color: var(--muted);
+    }
+
+    .badge-upcoming {
+      background: rgba(200,56,10,0.1);
+      color: var(--red);
+    }
+
+    /* ABSTRACT */
+    .card-abstract {
+      padding: 14px 28px 18px 52px;
+      border-top: 1px solid #f7f5f2;
+    }
+
+    .card-abstract p {
+      font-size: 13px;
+      line-height: 1.7;
+      color: #444;
+      font-weight: 300;
+    }
+
+    /* LINKS */
+    .card-links {
+      padding: 0 28px 16px 52px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .link-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 11.5px;
+      font-weight: 500;
+      padding: 5px 12px;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: all 0.12s;
+    }
+
+    .link-btn-paper {
+      background: var(--navy);
+      color: white;
+    }
+    .link-btn-paper:hover { background: var(--navy-light); }
+
+    .link-btn-slides {
+      background: #f0ede8;
+      color: var(--navy);
+    }
+    .link-btn-slides:hover { background: #e8e4de; }
+
+    .link-btn-profile {
+      background: #f7f5f2;
+      color: var(--muted);
+      border: 1px solid var(--border);
+    }
+    .link-btn-profile:hover { color: var(--navy); border-color: var(--navy); }
+
+    /* SECTION SEPARATOR */
+    .month-label {
+      max-width: 960px;
+      margin: 32px auto 12px;
+      font-size: 10px;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      font-weight: 500;
+      color: #999;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .month-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* PAST CARD */
+    .card.past { opacity: 0.55; }
+
+    /* FOOTER */
+    .page-footer {
+      max-width: 960px;
+      margin: 48px auto 0;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 11.5px;
+      color: #999;
+    }
+
+    .page-footer a {
+      color: var(--navy);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    @media (max-width: 520px) {
+      .card-header, .card-meta, .card-abstract, .card-links {
+        padding-left: 20px; padding-right: 20px;
+      }
+      .card-meta, .card-abstract, .card-links { padding-left: 20px; }
+      .page-header-right { text-align: left; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- PAGE HEADER -->
+  <header class="page-header">
+    <div class="page-header-left">
+      <div class="eyebrow">Adam Smith Business School · 2025–2026</div>
+      <h1>Glasgow Economics Seminars</h1>
+    </div>
+    <div class="page-header-right">
+      Applied Economics · Macroeconomics · Econometrics<br>
+      <a href="mailto:business-seminar-series@glasgow.ac.uk">business-seminar-series@glasgow.ac.uk</a>
+    </div>
+  </header>
+
+  <!-- LEGEND -->
+  <nav class="series-nav">
+    <a class="series-pill applied" href="https://www.gla.ac.uk/schools/business/research/centres/appliedeconomics/#d.en.1202970" target="_blank">
+      <span class="series-dot"></span> Applied Economics · Wed 15:00
+    </a>
+    <a class="series-pill macro" href="https://www.gla.ac.uk/schools/business/research/centres/macroeconomics/#d.en.1202936" target="_blank">
+      <span class="series-dot"></span> Macroeconomics · Thu 15:00
+    </a>
+    <a class="series-pill metrics" href="https://www.gla.ac.uk/schools/business/research/centres/appliedeconomics/#d.en.1202979" target="_blank">
+      <span class="series-dot"></span> Econometrics · Fri 15:00
+    </a>
+  </nav>
+
+  <!-- ====== FEBRUARY 2026 ====== -->
+  <div class="month-label">February 2026</div>
+  <div class="grid">
+
+    <!-- Applied: Arnaud Philippe (PAST - 26 Feb) -->
+    <div class="card past">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">"Inequality and Crime: Evidence from French Prisons"</div>
+          <div class="card-speaker">Dr Arnaud Philippe</div>
+          <div class="card-affiliation">Associate Professor · University of Bristol</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 26 February · 15:00
+        </div>
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+          Room 102, Clarice Pears Building
+        </div>
+      </div>
+      <div class="card-abstract">
+        <p>Measuring the effect of inequality on crime is challenging — policies affect both simultaneously and individuals sort into neighbourhoods. Prison provides a rare natural experiment: inequality changes rapidly and inmates cannot move freely. Using rich French data on inmate localisation and misbehaviour, preliminary results show that higher inequality increases conflicts.</p>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://arnaud-philippe.github.io/" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+    <!-- Econometrics: Evgenia Passari (27 Feb) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar metrics-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label metrics-label">Econometrics</div>
+          <div class="card-title">"Beyond Oil: The Origins of Commodity Price Fluctuations"</div>
+          <div class="card-speaker">Dr Evgenia Passari</div>
+          <div class="card-affiliation">University Paris Dauphine-PSL</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Friday, 27 February · 15:00
+        </div>
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+          Clarice Pears Building (room TBC)
+        </div>
+        <span class="badge badge-upcoming">This week</span>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://dauphine.psl.eu/en/research/resume-database/profile/passari-evgenia" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ====== MARCH 2026 ====== -->
+  <div class="month-label">March 2026</div>
+  <div class="grid">
+
+    <!-- Applied: Erik Verhoef (4 Mar) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">"A Field Experiment of Tradable Peak Permits among Beijing Car Commuters"</div>
+          <div class="card-speaker">Prof. Erik Verhoef</div>
+          <div class="card-affiliation">VU University Amsterdam</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 4 March · 15:00
+        </div>
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+          Clarice Pears Building (room TBC)
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://scholar.google.com/citations?user=sGwcq1YAAAAJ&hl=en" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Econometrics: Mingli Chen (13 Mar) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar metrics-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label metrics-label">Econometrics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Dr Mingli Chen</div>
+          <div class="card-affiliation">University of Warwick</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Friday, 13 March · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://warwick.ac.uk/fac/soc/economics/staff/mchen/" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Econometrics: Manudeep Bhuller (18 Mar, Wed) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar metrics-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label metrics-label">Econometrics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Manudeep Bhuller</div>
+          <div class="card-affiliation">University of Oslo</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 18 March · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://sites.google.com/site/manudeepbhuller" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Applied: Joana Naritomi (25 Mar) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Dr Joana Naritomi</div>
+          <div class="card-affiliation">Associate Professor · London School of Economics</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 25 March · 15:00
+        </div>
+      </div>
+      <div class="card-abstract">
+        <p>Research focuses on public economics, development economics and political economy. Recent work includes "Greener on the Other Side: Inequity and Tax Compliance" (NBER WP 34062) and "Cash Transfers and the Local Economy: Evidence from Brazil" (conditionally accepted, <em>Econometrica</em>).</p>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-paper" href="http://michaelcbest.github.io/files/BCGKNZ_Inequity_Jun2025.pdf" target="_blank">Latest paper (PDF)</a>
+        <a class="link-btn link-btn-profile" href="https://joananaritomi.com/research/" target="_blank">Full research page →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Jonathan Heathcote (26 Mar) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">"The Ins and Outs of Vacancies"</div>
+          <div class="card-speaker">Dr Jonathan Heathcote</div>
+          <div class="card-affiliation">Monetary Advisor · Federal Reserve Bank of Minneapolis</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 26 March · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://www.jonathanheathcote.com/" target="_blank">Speaker website →</a>
+        <a class="link-btn link-btn-profile" href="https://www.minneapolisfed.org/people/jonathan-heathcote" target="_blank">Minneapolis Fed page →</a>
+      </div>
+    </div>
+
+    <!-- Econometrics: Lorenzo Trapani (27 Mar) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar metrics-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label metrics-label">Econometrics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Lorenzo Trapani</div>
+          <div class="card-affiliation">University of Leicester</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Friday, 27 March · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://le.ac.uk/people/lorenzo-trapani" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ====== APRIL 2026 ====== -->
+  <div class="month-label">April 2026</div>
+  <div class="grid">
+
+    <!-- Macro: Leo Kaas (2 Apr) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Leo Kaas</div>
+          <div class="card-affiliation">Goethe University Frankfurt</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 2 April · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://sites.google.com/site/leojkaas/home" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+    <!-- Applied: Andrea Weber (29 Apr) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Andrea Weber</div>
+          <div class="card-affiliation">Central European University</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 29 April · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://economics.ceu.edu/people/andrea-weber" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Andreas Müller (30 Apr) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics / Meet the Editors</div>
+          <div class="card-title">"The Ins and Outs of Vacancies"</div>
+          <div class="card-speaker">Prof. Andreas I. Müller</div>
+          <div class="card-affiliation">University of Zurich</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 30 April · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://www.econ.uzh.ch/en/people/faculty/mueller.html" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ====== MAY–JUNE 2026 ====== -->
+  <div class="month-label">May – June 2026</div>
+  <div class="grid">
+
+    <!-- Applied: Lars Lefgren (6 May) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Lars Lefgren</div>
+          <div class="card-affiliation">Brigham Young University</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 6 May · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://fhssfaculty.byu.edu/directory/lars-lefgren" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Kerstin Holzheu (7 May) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Dr Kerstin Holzheu</div>
+          <div class="card-affiliation">Sciences Po</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 7 May · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://sites.google.com/view/kerstinholzheu/home" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Hitoshi Tsujiyama (21 May) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Dr Hitoshi Tsujiyama</div>
+          <div class="card-affiliation">University of Surrey</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 21 May · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://sites.google.com/site/hitoshitsujiyama/" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+    <!-- Applied: Adeline Delavande (27 May) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar applied-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label applied-label">Applied Economics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Adeline Delavande</div>
+          <div class="card-affiliation">University of Technology Sydney</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Wednesday, 27 May · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://sites.google.com/site/aldelaresearch/" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Isabelle Mejean (28 May) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Prof. Isabelle Mejean</div>
+          <div class="card-affiliation">Sciences Po</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 28 May · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="https://www.sciencespo.fr/department-economics/directory/mejean-isabelle/" target="_blank">Speaker profile →</a>
+      </div>
+    </div>
+
+    <!-- Macro: Sephorah Mangin (4 Jun) -->
+    <div class="card">
+      <div class="card-header">
+        <div class="card-series-bar macro-bar"></div>
+        <div class="card-header-content">
+          <div class="card-series-label macro-label">Macroeconomics</div>
+          <div class="card-title">Seminar TBC</div>
+          <div class="card-speaker">Dr Sephorah Mangin</div>
+          <div class="card-affiliation">The Australian National University</div>
+        </div>
+      </div>
+      <div class="card-meta">
+        <div class="meta-item">
+          <svg class="meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Thursday, 4 June · 15:00
+        </div>
+      </div>
+      <div class="card-links">
+        <a class="link-btn link-btn-profile" href="http://www.sephorahmangin.info/" target="_blank">Speaker website →</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="page-footer">
+    <span>Scraped from <a href="https://www.gla.ac.uk/schools/business/research/events/" target="_blank">gla.ac.uk/schools/business/research/events</a> · Updated 25 February 2026</span>
+    <span>All seminars at 15:00 unless noted · Room TBC where not listed</span>
+  </footer>
+
+</body>
+</html>
