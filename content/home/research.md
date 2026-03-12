@@ -1,49 +1,76 @@
 +++
-date    = "2016-04-20T00:00:00"
-draft   = false
-title   = "Research"
+date     = "2016-04-20T00:00:00"
+draft    = false
+title    = "Research"
 subtitle = ""
-weight  = 25
+weight   = 25
 +++
 
 <style>
-/* ── palette: light mode ── */
+
+/* ══════════════════════════════════════════
+   LIGHT MODE (default)
+══════════════════════════════════════════ */
+
 :root {
-  --navy:   #1c2b3a;
-  --red:    #c8380a;
-  --stone:  #f0ede8;
-  --muted:  #6b6b6b;
-  --border: #dedad3;
-  --text:   #1a1a1a;
-  --bg:     transparent;
-  --btn-bg: #f0ede8;
-  --btn-fg: #1c2b3a;
-  --wip-bg: #f0ede8;
+  --navy:         #1c2b3a;
+  --red:          #c8380a;
+  --stone:        #f0ede8;
+  --muted:        #6b6b6b;
+  --border:       #dedad3;
+  --text:         #1a1a1a;
+  --btn-bg:       #f0ede8;
+  --btn-fg:       #1c2b3a;
+  --btn-hover-bg: #1c2b3a;
+  --btn-hover-fg: #ffffff;
+  --wip-bg:       #f0ede8;
+  --badge-jmp-bg: rgba(200,56,10,0.12);
+  --badge-jmp-fg: #c8380a;
+  --badge-rr-bg:  rgba(26,107,74,0.12);
+  --badge-rr-fg:  #1a6b4a;
+  --section-rule: #1c2b3a;
+  --paper-border: #dedad3;
+  --meta-link-ul: rgba(107,107,107,0.3);
 }
 
-/* ── palette: dark mode ── */
+/* ══════════════════════════════════════════
+   DARK MODE
+══════════════════════════════════════════ */
+
 @media (prefers-color-scheme: dark) {
   :root {
-    --navy:   #e2e8f0;   /* light for headings/titles on dark bg */
-    --red:    #f07050;   /* softened red — less harsh on dark */
-    --stone:  #2a2f38;   /* dark card background */
-    --muted:  #9ca3af;   /* mid-grey for meta text */
-    --border: #3a4050;   /* subtle dark border */
-    --text:   #e2e8f0;
-    --bg:     transparent;
-    --btn-bg: #2a2f38;
-    --btn-fg: #c8d5e8;
-    --wip-bg: #252a33;
+    --navy:         #c8d5e8;
+    --red:          #f07050;
+    --stone:        #252a35;
+    --muted:        #8a94a6;
+    --border:       #343b4a;
+    --text:         #e2e8f0;
+    --btn-bg:       #252a35;
+    --btn-fg:       #c8d5e8;
+    --btn-hover-bg: #c8d5e8;
+    --btn-hover-fg: #1a1f2a;
+    --wip-bg:       #20252f;
+    --badge-jmp-bg: rgba(240,112,80,0.16);
+    --badge-jmp-fg: #f07050;
+    --badge-rr-bg:  rgba(45,168,112,0.16);
+    --badge-rr-fg:  #2da870;
+    --section-rule: #3a4558;
+    --paper-border: #343b4a;
+    --meta-link-ul: rgba(138,148,166,0.3);
   }
 }
 
-/* ── subsection headings (Working Papers, WIP, Policy) ── */
-/* The main "Research" title is rendered by Wowchemy — don't override it */
+/* ══════════════════════════════════════════
+   SUBSECTION HEADINGS
+   (Wowchemy renders the main "Research" title —
+   these are Working Papers / WIP / Policy Work)
+══════════════════════════════════════════ */
+
 .research-subsection {
   margin-top: 2rem;
   margin-bottom: 0.9rem;
   padding-bottom: 0.35rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--section-rule);
   font-size: 1rem;
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -54,7 +81,10 @@ weight  = 25
   margin-top: 0;
 }
 
-/* ── paper list ── */
+/* ══════════════════════════════════════════
+   PAPER LIST
+══════════════════════════════════════════ */
+
 .paper-list {
   list-style: none;
   padding: 0;
@@ -63,53 +93,58 @@ weight  = 25
 
 .paper-list li {
   padding: 1.1rem 0;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--paper-border);
 }
 
 .paper-list li:last-child {
   border-bottom: none;
 }
 
-/* ── paper title ── */
 .paper-title {
-  font-size: 1rem;
+  font-size: 0.97rem;
   font-weight: 600;
-  margin-bottom: 0.35rem;
-  line-height: 1.35;
+  margin-bottom: 0.3rem;
+  line-height: 1.4;
+  color: var(--text);
 }
 
 .paper-title a {
   color: var(--navy);
   text-decoration: none;
+  transition: color .15s;
 }
 
 .paper-title a:hover {
   color: var(--red);
 }
 
-/* ── meta line (coauthors, status) ── */
 .paper-meta {
-  font-size: 0.82rem;
+  font-size: 0.81rem;
   color: var(--muted);
   font-style: italic;
   margin-bottom: 0.5rem;
-  line-height: 1.5;
+  line-height: 1.55;
 }
 
 .paper-meta a {
   color: var(--muted);
   text-decoration: none;
-  border-bottom: 1px solid rgba(107,107,107,0.3);
+  border-bottom: 1px solid var(--meta-link-ul);
+  font-style: normal;
+  transition: color .15s;
 }
 
 .paper-meta a:hover {
   color: var(--navy);
 }
 
-/* ── status badge ── */
+/* ══════════════════════════════════════════
+   BADGES
+══════════════════════════════════════════ */
+
 .badge {
   display: inline-block;
-  font-size: 0.7rem;
+  font-size: 0.67rem;
   font-weight: 600;
   font-style: normal;
   letter-spacing: 0.07em;
@@ -117,36 +152,30 @@ weight  = 25
   padding: 2px 8px;
   border-radius: 3px;
   vertical-align: middle;
-  margin-left: 6px;
+  margin-left: 7px;
+  position: relative;
+  top: -1px;
 }
 
-.badge-jmp {
-  background: rgba(200,56,10,0.15);
-  color: var(--red);
-}
-.badge-rr {
-  background: rgba(26,107,74,0.15);
-  color: #2da870;
-}
+.badge-jmp { background: var(--badge-jmp-bg); color: var(--badge-jmp-fg); }
+.badge-rr  { background: var(--badge-rr-bg);  color: var(--badge-rr-fg); }
 
-@media (prefers-color-scheme: dark) {
-  .badge-jmp { background: rgba(240,112,80,0.18); }
-  .badge-rr  { background: rgba(45,168,112,0.18); color: #2da870; }
-}
+/* ══════════════════════════════════════════
+   LINK BUTTONS
+══════════════════════════════════════════ */
 
-/* ── link buttons ── */
 .paper-links {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: 0.5rem;
+  margin-top: 0.45rem;
 }
 
 .btn-paper {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.07em;
   text-transform: uppercase;
   text-decoration: none;
   padding: 3px 11px;
@@ -154,30 +183,25 @@ weight  = 25
   border: 1px solid var(--border);
   color: var(--btn-fg);
   background: var(--btn-bg);
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  transition: background .15s, color .15s, border-color .15s;
 }
 
 .btn-paper:hover {
-  background: var(--navy);
-  color: #fff;
-  border-color: var(--navy);
+  background: var(--btn-hover-bg);
+  color: var(--btn-hover-fg);
+  border-color: var(--btn-hover-bg);
 }
 
-@media (prefers-color-scheme: dark) {
-  .btn-paper:hover {
-    background: #c8d5e8;
-    color: #1a1f2a;
-    border-color: #c8d5e8;
-  }
-}
+/* ══════════════════════════════════════════
+   WORK IN PROGRESS CARDS
+══════════════════════════════════════════ */
 
-/* ── WIP cards ── */
 .wip-list {
   list-style: none;
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 10px;
   margin-top: 0.5rem;
 }
@@ -190,7 +214,7 @@ weight  = 25
 }
 
 .wip-title {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 600;
   color: var(--navy);
   margin-bottom: 4px;
@@ -198,11 +222,33 @@ weight  = 25
 }
 
 .wip-co {
-  font-size: 0.78rem;
+  font-size: 0.77rem;
   color: var(--muted);
   font-style: italic;
 }
+
+/* ══════════════════════════════════════════
+   POLICY NOTE
+══════════════════════════════════════════ */
+
+.policy-note {
+  font-size: 0.86rem;
+  color: var(--muted);
+  margin-top: 0.6rem;
+}
+
+.policy-note a {
+  color: var(--navy);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.policy-note a:hover {
+  text-decoration: underline;
+}
+
 </style>
+
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--  WORKING PAPERS                                        -->
@@ -311,11 +357,7 @@ weight  = 25
 
 <h3 class="research-subsection">Policy Work</h3>
 
-<p style="font-size:0.88rem; color:var(--muted); margin-top:0.6rem;">
+<p class="policy-note">
   Selected work from the ECB, European Commission and Bruegel is available on
-  <a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en"
-     target="_blank"
-     style="color:var(--navy); font-weight:600; text-decoration:none;">
-    Google Scholar →
-  </a>
+  <a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" target="_blank">Google Scholar →</a>
 </p>
