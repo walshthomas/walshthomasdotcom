@@ -50,7 +50,7 @@ weight = 25
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a>(<i>with Wolfram Horn, this draft Mar 2026</i>)</p></li></ul>
+</a></small>(<i>with Wolfram Horn, this draft Mar 2026</i>)</p></li></ul>
 
 <ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
 <small>
