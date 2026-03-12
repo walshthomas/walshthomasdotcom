@@ -37,6 +37,12 @@ weight  = 25
   }
 }
 
+/* ── outer wrapper: push content to the right ── */
+.research-wrap {
+  margin-left: auto;
+  margin-right: 0;
+}
+
 /* ── section headings ── */
 .research-section {
   margin-top: 2.4rem;
@@ -203,6 +209,8 @@ weight  = 25
 <!--  WORKING PAPERS                                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
+<div class="research-wrap">
+
 <h2 class="research-section">Working Papers</h2>
 
 <ul class="paper-list">
@@ -314,3 +322,5 @@ weight  = 25
     Google Scholar →
   </a>
 </p>
+
+</div>
