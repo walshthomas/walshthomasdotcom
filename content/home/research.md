@@ -37,22 +37,21 @@ weight  = 25
   }
 }
 
-/* ── outer wrapper: push content to the right ── */
-.research-wrap {
-  margin-left: auto;
-  margin-right: 0;
-}
-
-/* ── section headings ── */
-.research-section {
-  margin-top: 2.4rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.4rem;
-  border-bottom: 2px solid var(--navy);
-  font-size: 1.15rem;
-  font-weight: 700;
+/* ── subsection headings (Working Papers, WIP, Policy) ── */
+/* The main "Research" title is rendered by Wowchemy — don't override it */
+.research-subsection {
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 1rem;
+  font-weight: 600;
   letter-spacing: 0.01em;
   color: var(--navy);
+}
+
+.research-subsection:first-child {
+  margin-top: 0;
 }
 
 /* ── paper list ── */
@@ -209,9 +208,7 @@ weight  = 25
 <!--  WORKING PAPERS                                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<div class="research-wrap">
-
-<h2 class="research-section">Working Papers</h2>
+<h3 class="research-subsection">Working Papers</h3>
 
 <ul class="paper-list">
 
@@ -286,7 +283,7 @@ weight  = 25
 <!--  WORK IN PROGRESS                                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 class="research-section">Work in Progress</h2>
+<h3 class="research-subsection">Work in Progress</h3>
 
 <ul class="wip-list">
 
@@ -312,7 +309,7 @@ weight  = 25
 <!--  POLICY WORK                                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 class="research-section">Policy Work</h2>
+<h3 class="research-subsection">Policy Work</h3>
 
 <p style="font-size:0.88rem; color:var(--muted); margin-top:0.6rem;">
   Selected work from the ECB, European Commission and Bruegel is available on
@@ -322,5 +319,3 @@ weight  = 25
     Google Scholar →
   </a>
 </p>
-
-</div>
