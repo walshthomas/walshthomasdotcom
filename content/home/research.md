@@ -33,7 +33,24 @@ weight = 25
 (<i>Job Market Paper, this draft Oct 2025</i>)</p></li></ul>
 
 <ul><li><p><h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank"><i class="far fa-file-alt"></i> Fiscal News and the Macroeconomy</a></h5>
-(<i>with Wolfram Horn, this draft Mar 2026</i>)</p></li></ul>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600"
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          text-align: center;
+          padding: 1px 1px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
+</a>(<i>with Wolfram Horn, this draft Mar 2026</i>)</p></li></ul>
 
 <ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
 <small>
