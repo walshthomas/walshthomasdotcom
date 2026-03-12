@@ -7,13 +7,34 @@ weight  = 25
 +++
 
 <style>
-/* ── palette ── */
+/* ── palette: light mode ── */
 :root {
-  --navy: #1c2b3a;
-  --red:  #c8380a;
-  --stone: #f0ede8;
-  --muted: #6b6b6b;
+  --navy:   #1c2b3a;
+  --red:    #c8380a;
+  --stone:  #f0ede8;
+  --muted:  #6b6b6b;
   --border: #dedad3;
+  --text:   #1a1a1a;
+  --bg:     transparent;
+  --btn-bg: #f0ede8;
+  --btn-fg: #1c2b3a;
+  --wip-bg: #f0ede8;
+}
+
+/* ── palette: dark mode ── */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --navy:   #e2e8f0;   /* light for headings/titles on dark bg */
+    --red:    #f07050;   /* softened red — less harsh on dark */
+    --stone:  #2a2f38;   /* dark card background */
+    --muted:  #9ca3af;   /* mid-grey for meta text */
+    --border: #3a4050;   /* subtle dark border */
+    --text:   #e2e8f0;
+    --bg:     transparent;
+    --btn-bg: #2a2f38;
+    --btn-fg: #c8d5e8;
+    --wip-bg: #252a33;
+  }
 }
 
 /* ── section headings ── */
@@ -94,8 +115,19 @@ weight  = 25
   margin-left: 6px;
 }
 
-.badge-jmp { background: rgba(200,56,10,0.1); color: var(--red); }
-.badge-rr  { background: rgba(26,107,74,0.1);  color: #1a6b4a; }
+.badge-jmp {
+  background: rgba(200,56,10,0.15);
+  color: var(--red);
+}
+.badge-rr {
+  background: rgba(26,107,74,0.15);
+  color: #2da870;
+}
+
+@media (prefers-color-scheme: dark) {
+  .badge-jmp { background: rgba(240,112,80,0.18); }
+  .badge-rr  { background: rgba(45,168,112,0.18); color: #2da870; }
+}
 
 /* ── link buttons ── */
 .paper-links {
@@ -115,8 +147,8 @@ weight  = 25
   padding: 3px 11px;
   border-radius: 3px;
   border: 1px solid var(--border);
-  color: var(--navy);
-  background: var(--stone);
+  color: var(--btn-fg);
+  background: var(--btn-bg);
   transition: background 0.15s, color 0.15s, border-color 0.15s;
 }
 
@@ -124,6 +156,14 @@ weight  = 25
   background: var(--navy);
   color: #fff;
   border-color: var(--navy);
+}
+
+@media (prefers-color-scheme: dark) {
+  .btn-paper:hover {
+    background: #c8d5e8;
+    color: #1a1f2a;
+    border-color: #c8d5e8;
+  }
 }
 
 /* ── WIP cards ── */
@@ -138,7 +178,7 @@ weight  = 25
 }
 
 .wip-list li {
-  background: var(--stone);
+  background: var(--wip-bg);
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 14px 16px;
