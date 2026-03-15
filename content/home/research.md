@@ -12,19 +12,33 @@ weight = 25
 .paper-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
 .paper-card:first-child { border-top: 0.5px solid #dddddd; }
 
-.paper-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 5px; }
-
 .paper-title-link {
-  font-size: 17px;
+  display: block;
+  font-size: 18px;
   font-weight: 600;
   color: #1a2744 !important;
   text-decoration: none !important;
   line-height: 1.4;
-  flex: 1;
+  margin-bottom: 4px;
 }
 .paper-title-link:hover { text-decoration: underline !important; }
 
-.paper-badges { display: flex; gap: 4px; flex-shrink: 0; align-items: flex-start; padding-top: 3px; }
+.meta-line {
+  font-size: 14px;
+  color: #555555;
+  margin-bottom: 5px;
+}
+.meta-line a { color: inherit !important; }
+
+.meta-label {
+  font-size: 14px;
+  color: #555555;
+  font-style: italic;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.paper-badges { display: flex; gap: 4px; flex-wrap: wrap; }
 
 .paper-badge {
   display: inline-flex;
@@ -42,20 +56,6 @@ weight = 25
 }
 .paper-badge:hover { background: rgba(26,39,68,0.06) !important; }
 .paper-badge svg { width: 9px; height: 9px; flex-shrink: 0; }
-
-.paper-meta { display: flex; flex-direction: column; gap: 3px; }
-
-.meta-line {
-  font-size: 14px;
-  color: #555555;
-}
-.meta-line a { color: inherit !important; }
-
-.meta-label {
-  font-size: 14px;
-  color: #555555;
-  font-style: italic;
-}
 
 .wip-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
 .wip-card:first-child { border-top: 0.5px solid #dddddd; }
@@ -97,66 +97,45 @@ weight = 25
 <ul class="paper-list">
 
   <li class="paper-card">
-    <div class="paper-top">
-      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
-      <div class="paper-badges">
-        <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
-      </div>
-    </div>
-    <div class="paper-meta">
-      <span class="meta-line">Solo-authored &middot; October 2025</span>
-      <span class="meta-label">Job Market Paper</span>
+    <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
+    <span class="meta-label">Job Market Paper &middot; October 2025</span>
+    <div class="paper-badges">
+      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
     </div>
   </li>
 
   <li class="paper-card">
-    <div class="paper-top">
-      <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy</a>
-      <div class="paper-badges">
-        <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-      </div>
-    </div>
-    <div class="paper-meta">
-      <span class="meta-line">With Wolfram Horn &middot; March 2026</span>
+    <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy</a>
+    <div class="meta-line">With Wolfram Horn &middot; March 2026</div>
+    <div class="paper-badges">
+      <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
   </li>
 
   <li class="paper-card">
-    <div class="paper-top">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
-      <div class="paper-badges">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-      </div>
-    </div>
-    <div class="paper-meta">
-      <span class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</span>
-      <span class="meta-label">Revise &amp; Resubmit, <em>European Economic Review</em></span>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
+    <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</div>
+    <div class="meta-label">Revise &amp; Resubmit, <em>European Economic Review</em></div>
+    <div class="paper-badges">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
   </li>
 
   <li class="paper-card">
-    <div class="paper-top">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
-      <div class="paper-badges">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-      </div>
-    </div>
-    <div class="paper-meta">
-      <span class="meta-line">Solo-authored &middot; June 2023</span>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
+    <div class="meta-line">June 2023</div>
+    <div class="paper-badges">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
   </li>
 
   <li class="paper-card">
-    <div class="paper-top">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-title-link">Sectoral Volatility and the Investment Channel of Monetary Policy</a>
-      <div class="paper-badges">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-        <a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/></svg>Slides</a>
-      </div>
-    </div>
-    <div class="paper-meta">
-      <span class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New draft coming soon</span>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-title-link">Sectoral Volatility and the Investment Channel of Monetary Policy</a>
+    <div class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New draft coming soon</div>
+    <div class="paper-badges">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
+      <a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/></svg>Slides</a>
     </div>
   </li>
 
