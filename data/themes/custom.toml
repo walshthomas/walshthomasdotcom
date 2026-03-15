@@ -19,3 +19,11 @@ home_section_even = "rgb(255, 255, 255)"
 
 [dark]
 primary = "#c8d4f0"
+
+.dark .network-icon {
+  color: #c8d4f0 !important;
+}
+
+.dark .network-icon:hover {
+  color: rgba(200, 212, 240, 0.65) !important;
+}
