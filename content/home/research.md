@@ -9,7 +9,7 @@ weight = 25
 <style>
 .paper-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0; margin-bottom: 2rem; }
 
-.paper-card { padding: 11px 0; border-bottom: 1.5px solid #bbbbbb; }
+.paper-card { padding: 18px 0; border-bottom: 1.5px solid #bbbbbb; }
 .paper-card:first-child { border-top: 1.5px solid #bbbbbb; }
 
 .paper-title-link {
@@ -44,9 +44,9 @@ weight = 25
   display: inline-flex;
   align-items: center;
   gap: 3px;
-  font-size: 11px;
+  font-size: 14px;
   font-family: Lato, sans-serif;
-  padding: 1px 6px;
+  padding: 2px 8px;
   border-radius: 4px;
   text-decoration: none !important;
   white-space: nowrap;
@@ -57,12 +57,12 @@ weight = 25
 .paper-badge:hover { background: rgba(26,39,68,0.06) !important; }
 .paper-badge svg { width: 9px; height: 9px; flex-shrink: 0; }
 
-.wip-card { padding: 11px 0; border-bottom: 1.5px solid #bbbbbb; }
+.wip-card { padding: 18px 0; border-bottom: 1.5px solid #bbbbbb; }
 .wip-card:first-child { border-top: 1.5px solid #bbbbbb; }
 .wip-title { font-size: 18px; font-weight: 600; color: #1a2744; display: block; margin-bottom: 3px; }
 .wip-coauthors { font-size: 18px; color: #555555; }
 
-.policy-link { font-size: 18px; color: #1565c0 !important; }
+.policy-link { font-size: 18px; color: #1a2744 !important; }
 
 /* ── Dark mode overrides ── */
 .dark .paper-card,
@@ -76,7 +76,7 @@ weight = 25
 .dark .wip-card:first-child { border-color: rgba(255,255,255,0.25); }
 .dark .wip-title { color: #c8d4f0; }
 .dark .wip-coauthors { color: #9aabb8; }
-.dark .policy-link { color: #7ab3e0 !important; }
+.dark .policy-link { color: #c8d4f0 !important; }
 </style>
 
 <svg width="0" height="0" style="position:absolute">
