@@ -1,160 +1,94 @@
 +++
-# Describe my Research split into Working Papers and Work in Progress
-
 date = "2016-04-20T00:00:00"
 draft = false
-
 title = "Research"
 subtitle = ""
-
-# Order that this section will appear in.
 weight = 25
 +++
 
-<!-- ============================================================================== -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 <style>
- .bg-rollover:hover{
-    background-color: #585f6a !important;
-    border-color:#1565c0;
-    color: #ffffff !important;
-  }
-  .wx{
-    width: 250px;
-  }
+.ssrn-btn {
+  display: inline-block;
+  background-color: #1565c0;
+  color: #ffffff !important;
+  font-family: Lato, sans-serif;
+  font-size: 0.75rem;
+  text-decoration: none;
+  padding: 2px 7px;
+  border-radius: 4px;
+  margin: 0 2px;
+  vertical-align: middle;
+  transition: background-color 0.2s;
+}
+.ssrn-btn:hover {
+  background-color: #0d47a1;
+  color: #ffffff !important;
+  text-decoration: none;
 }
 </style>
 
-<!-- ============================================================================== -->
-<h2>Working Papers:</h2>
+<h2>Working Papers</h2>
 
-<ul><li><p><h5><a href="/uploads/jm/jmp.pdf" target="_blank"><i class="far fa-file-alt"></i> Earnings Management and Investment</a></h5>
+<ul>
 
-(<i>Job Market Paper, this draft Oct 2025</i>)</p></li></ul>
+<li><p>
+<h5><a href="/uploads/jm/jmp.pdf" target="_blank"><i class="far fa-file-alt"></i> Earnings Management and Investment</a></h5>
+<em>Job Market Paper — draft: October 2025</em>
+</p></li>
 
-<ul><li><p><h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank"><i class="far fa-file-alt"></i> Fiscal News and the Macroeconomy</a></h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a></small>(<i>with Wolfram Horn, this draft Mar 2026</i>)</p></li></ul>
+<li><p>
+<h5><a href="/uploads/jm/fiscal_news.pdf" target="_blank"><i class="far fa-file-alt"></i> Fiscal News and the Macroeconomy</a>
+&nbsp;<a class="ssrn-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600" target="_blank" rel="noopener">SSRN</a></h5>
+<em>With Wolfram Horn — draft: March 2026</em>
+</p></li>
 
-<ul><li><h5>{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" "newtab" >}} <i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy{{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a>
-</small><i>(with <a href="https://nikolajbroberg.org/" "newtab">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" "newtab">Tuuli Tähtinen</a>, <br> Revise and Resubmit, European Economic Review, Mar 2026)</i>
-</li></ul>
+<li><p>
+<h5><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener"><i class="far fa-file-alt"></i> Making the Cut: Close Elections and Local Welfare Policy</a>
+&nbsp;<a class="ssrn-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener">SSRN</a></h5>
+<em>With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> — Revise &amp; Resubmit, <em>European Economic Review</em>, March 2026</em>
+</p></li>
 
-<ul><li><h5> {{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" "newtab" >}} <i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions{{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a></small><i>(June 2023)</i>
+<li><p>
+<h5><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener"><i class="far fa-file-alt"></i> Job Search and the Threat of Unemployment Benefit Sanctions</a>
+&nbsp;<a class="ssrn-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener">SSRN</a></h5>
+<em>Draft: June 2023</em>
+</p></li>
 
-</li></ul>
-<!-- ============================================================================== -->
-<ul><li><p><h5>
-{{<staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" "newtab" >}}
-<i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy {{< /staticref >}}</h5><small><i><a href="https://sites.google.com/view/ozgenozturk/home" "newtab"></a></i>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft (SSRN) &nbsp </span>
-</a>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href="https://walshthomas.com/uploads/pres/volatility_slides.pdf"
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Slides &nbsp </span>
-</a>
-</small>(with <a href="https://www.ozgenozturk.com//" "newtab">Ozgen Ozturk, new draft coming soon</a>)
-</li></ul>
+<li><p>
+<h5><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener"><i class="far fa-file-alt"></i> Sectoral Volatility and the Investment Channel of Monetary Policy</a>
+&nbsp;<a class="ssrn-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener">SSRN</a>
+&nbsp;<a class="ssrn-btn" href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener">Slides</a></h5>
+<em>With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> — new draft coming soon</em>
+</p></li>
 
-<!-- ============================================================================== -->
+</ul>
 
+<h2>Work in Progress</h2>
 
+<ul>
 
+<li><p>
+<h5>Lumpy Investment: a Micro-to-Macro FAVAR Approach</h5>
+<em>With Christoph Görtz, Sisir Ramanan and John Tsoukalas</em>
+</p></li>
 
-<!-- ============================================================================== -->
-<br>
-<br>
-<h2>Work in Progress:</h2>
-<ul><li><p><h5>Lumpy Investment: a micro-to-macro FAVAR approach</h5>
-(<i>with Christoph Gortz, Sisir Ramanan and John Tsoukalas</i>)</p></li></ul>
-<ul><li><p><h6> The Macroeconomic Implications of Debt Distressed Firms</h6>
-(<i>with Sisir Ramanan, Yannis Tsafos and John Tsoukalas</i>)</p></li></ul>
-<ul><li><p><h5>Financing Lumpy Capacity Adjustments: Evidence from UK Firms</h5>
-(<i>with Christoph Gortz and John Tsoukalas</i>)</p></li></ul>
+<li><p>
+<h5>The Macroeconomic Implications of Debt-Distressed Firms</h5>
+<em>With Sisir Ramanan, Yannis Tsafos and John Tsoukalas</em>
+</p></li>
 
+<li><p>
+<h5>Financing Lumpy Capacity Adjustments: Evidence from UK Firms</h5>
+<em>With Christoph Görtz and John Tsoukalas</em>
+</p></li>
 
-<!-- ============================================================================== -->
+</ul>
 
-<br>
-<br>
-<h2>Policy Work:</h2>
-<ul><li><p><h6><a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" "newtab">A selection of my policy work at the ECB, European Commission, and Bruegel can be found here</a></h6>
-</p></li></ul>
+<h2>Policy Work</h2>
+
+<ul>
+<li><p>
+<a href="https://scholar.google.com/citations?user=_G9RjuwAAAAJ&hl=en" target="_blank" rel="noopener">A selection of my policy work at the ECB, European Commission, and Bruegel</a>
+</p></li>
+</ul>
