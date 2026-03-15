@@ -9,13 +9,13 @@ weight = 25
 <style>
 .paper-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0; margin-bottom: 2rem; }
 
-.paper-card { padding: 10px 0; border-bottom: 0.5px solid #dddddd; }
+.paper-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
 .paper-card:first-child { border-top: 0.5px solid #dddddd; }
 
 .paper-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 5px; }
 
 .paper-title-link {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 600;
   color: #1a2744 !important;
   text-decoration: none !important;
@@ -24,7 +24,7 @@ weight = 25
 }
 .paper-title-link:hover { text-decoration: underline !important; }
 
-.paper-badges { display: flex; gap: 4px; flex-shrink: 0; align-items: flex-start; padding-top: 2px; }
+.paper-badges { display: flex; gap: 4px; flex-shrink: 0; align-items: flex-start; padding-top: 3px; }
 
 .paper-badge {
   display: inline-flex;
@@ -43,26 +43,26 @@ weight = 25
 .paper-badge:hover { background: rgba(26,39,68,0.06) !important; }
 .paper-badge svg { width: 9px; height: 9px; flex-shrink: 0; }
 
-.paper-meta { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.paper-meta { display: flex; flex-direction: column; gap: 3px; }
 
-.meta-item {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  font-size: 12px;
+.meta-line {
+  font-size: 14px;
   color: #555555;
 }
-.meta-item svg { width: 11px; height: 11px; flex-shrink: 0; opacity: 0.6; }
-.meta-item a { color: inherit !important; }
+.meta-line a { color: inherit !important; }
 
-.meta-label { font-size: 12px; color: #555555; font-style: italic; }
+.meta-label {
+  font-size: 14px;
+  color: #555555;
+  font-style: italic;
+}
 
-.wip-card { padding: 10px 0; border-bottom: 0.5px solid #dddddd; }
+.wip-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
 .wip-card:first-child { border-top: 0.5px solid #dddddd; }
-.wip-title { font-size: 15px; font-weight: 600; color: #1a2744; display: block; margin-bottom: 3px; }
-.wip-coauthors { font-size: 12px; color: #555555; }
+.wip-title { font-size: 17px; font-weight: 600; color: #1a2744; display: block; margin-bottom: 3px; }
+.wip-coauthors { font-size: 14px; color: #555555; }
 
-.policy-link { font-size: 13px; color: #1565c0 !important; }
+.policy-link { font-size: 14px; color: #1565c0 !important; }
 
 /* ── Dark mode overrides ── */
 .dark .paper-card,
@@ -70,7 +70,7 @@ weight = 25
 .dark .paper-title-link { color: #c8d4f0 !important; }
 .dark .paper-badge { color: #c8d4f0 !important; border-color: rgba(200,212,240,0.35); }
 .dark .paper-badge:hover { background: rgba(200,212,240,0.08) !important; }
-.dark .meta-item { color: #9aabb8; }
+.dark .meta-line { color: #9aabb8; }
 .dark .meta-label { color: #9aabb8; }
 .dark .wip-card,
 .dark .wip-card:first-child { border-color: rgba(255,255,255,0.12); }
@@ -89,15 +89,6 @@ weight = 25
       <rect x="2" y="3" width="20" height="14" rx="2"/>
       <line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
     </symbol>
-    <symbol id="ico-cal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="3" y="4" width="18" height="18" rx="2"/>
-      <line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
-    </symbol>
-    <symbol id="ico-people" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
-      <circle cx="9" cy="7" r="4"/>
-      <path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
-    </symbol>
   </defs>
 </svg>
 
@@ -113,8 +104,7 @@ weight = 25
       </div>
     </div>
     <div class="paper-meta">
-      <span class="meta-item"><svg><use href="#ico-cal"/></svg>October 2025</span>
-      <span class="meta-item"><svg><use href="#ico-people"/></svg>Solo-authored</span>
+      <span class="meta-line">Solo-authored &middot; October 2025</span>
       <span class="meta-label">Job Market Paper</span>
     </div>
   </li>
@@ -128,8 +118,7 @@ weight = 25
       </div>
     </div>
     <div class="paper-meta">
-      <span class="meta-item"><svg><use href="#ico-cal"/></svg>March 2026</span>
-      <span class="meta-item"><svg><use href="#ico-people"/></svg>With Wolfram Horn</span>
+      <span class="meta-line">With Wolfram Horn &middot; March 2026</span>
     </div>
   </li>
 
@@ -141,8 +130,7 @@ weight = 25
       </div>
     </div>
     <div class="paper-meta">
-      <span class="meta-item"><svg><use href="#ico-cal"/></svg>March 2026</span>
-      <span class="meta-item"><svg><use href="#ico-people"/></svg>With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a></span>
+      <span class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</span>
       <span class="meta-label">Revise &amp; Resubmit, <em>European Economic Review</em></span>
     </div>
   </li>
@@ -155,8 +143,7 @@ weight = 25
       </div>
     </div>
     <div class="paper-meta">
-      <span class="meta-item"><svg><use href="#ico-cal"/></svg>June 2023</span>
-      <span class="meta-item"><svg><use href="#ico-people"/></svg>Solo-authored</span>
+      <span class="meta-line">Solo-authored &middot; June 2023</span>
     </div>
   </li>
 
@@ -169,8 +156,7 @@ weight = 25
       </div>
     </div>
     <div class="paper-meta">
-      <span class="meta-item"><svg><use href="#ico-cal"/></svg>New draft coming soon</span>
-      <span class="meta-item"><svg><use href="#ico-people"/></svg>With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a></span>
+      <span class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New draft coming soon</span>
     </div>
   </li>
 
