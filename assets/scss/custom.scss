@@ -26,3 +26,17 @@
 .content-block li {
   margin: 0.5rem 0;
 }
+
+.dark a .ai,
+.dark a .fas,
+.dark a .far,
+.dark a .fab {
+  color: #c8d4f0 !important;
+}
+
+.dark a .ai:hover,
+.dark a .fas:hover,
+.dark a .far:hover,
+.dark a .fab:hover {
+  color: rgba(200, 212, 240, 0.65) !important;
+}

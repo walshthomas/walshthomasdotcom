@@ -21,10 +21,3 @@ home_section_even = "rgb(255, 255, 255)"
 primary = "#c8d4f0"
 menu_text = "#c8d4f0"
 menu_text_active = "#c8d4f0"
-
-.dark a .ai,
-.dark a .fas,
-.dark a .far,
-.dark a .fab {
-  color: #c8d4f0 !important;
-}
