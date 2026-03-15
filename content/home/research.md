@@ -24,18 +24,18 @@ weight = 25
 .paper-title-link:hover { text-decoration: underline !important; }
 
 .meta-line {
-  font-size: 14px;
+  font-size: 18px;
   color: #555555;
   margin-bottom: 5px;
 }
 .meta-line a { color: inherit !important; }
 
 .meta-label {
-  font-size: 14px;
+  font-size: 18px;
   color: #555555;
   font-style: italic;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 .paper-badges { display: flex; gap: 4px; flex-wrap: wrap; }
