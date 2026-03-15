@@ -19,9 +19,3 @@ home_section_even = "rgb(255, 255, 255)"
 
 [dark]
 primary = "#c8d4f0"
-menu_primary = "#1a2744"
-menu_text = "#c8d4f0"
-menu_text_active = "#c8d4f0"
-menu_title = "#c8d4f0"
-home_section_odd = "rgb(40, 45, 60)"
-home_section_even = "rgb(33, 37, 50)"
