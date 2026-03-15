@@ -9,8 +9,8 @@ weight = 25
 <style>
 .paper-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 0; margin-bottom: 2rem; }
 
-.paper-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
-.paper-card:first-child { border-top: 0.5px solid #dddddd; }
+.paper-card { padding: 11px 0; border-bottom: 1.5px solid #bbbbbb; }
+.paper-card:first-child { border-top: 1.5px solid #bbbbbb; }
 
 .paper-title-link {
   display: block;
@@ -57,23 +57,23 @@ weight = 25
 .paper-badge:hover { background: rgba(26,39,68,0.06) !important; }
 .paper-badge svg { width: 9px; height: 9px; flex-shrink: 0; }
 
-.wip-card { padding: 11px 0; border-bottom: 0.5px solid #dddddd; }
-.wip-card:first-child { border-top: 0.5px solid #dddddd; }
-.wip-title { font-size: 17px; font-weight: 600; color: #1a2744; display: block; margin-bottom: 3px; }
-.wip-coauthors { font-size: 14px; color: #555555; }
+.wip-card { padding: 11px 0; border-bottom: 1.5px solid #bbbbbb; }
+.wip-card:first-child { border-top: 1.5px solid #bbbbbb; }
+.wip-title { font-size: 18px; font-weight: 600; color: #1a2744; display: block; margin-bottom: 3px; }
+.wip-coauthors { font-size: 18px; color: #555555; }
 
-.policy-link { font-size: 14px; color: #1565c0 !important; }
+.policy-link { font-size: 18px; color: #1565c0 !important; }
 
 /* ── Dark mode overrides ── */
 .dark .paper-card,
-.dark .paper-card:first-child { border-color: rgba(255,255,255,0.12); }
+.dark .paper-card:first-child { border-color: rgba(255,255,255,0.25); }
 .dark .paper-title-link { color: #c8d4f0 !important; }
 .dark .paper-badge { color: #c8d4f0 !important; border-color: rgba(200,212,240,0.35); }
 .dark .paper-badge:hover { background: rgba(200,212,240,0.08) !important; }
 .dark .meta-line { color: #9aabb8; }
 .dark .meta-label { color: #9aabb8; }
 .dark .wip-card,
-.dark .wip-card:first-child { border-color: rgba(255,255,255,0.12); }
+.dark .wip-card:first-child { border-color: rgba(255,255,255,0.25); }
 .dark .wip-title { color: #c8d4f0; }
 .dark .wip-coauthors { color: #9aabb8; }
 .dark .policy-link { color: #7ab3e0 !important; }
