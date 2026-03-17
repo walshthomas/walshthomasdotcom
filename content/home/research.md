@@ -38,7 +38,42 @@ weight = 25
   margin-bottom: 8px;
 }
 
-.paper-badges { display: flex; gap: 4px; flex-wrap: wrap; }
+.paper-badges { display: flex; gap: 4px; flex-wrap: wrap; align-items: flex-start; }
+
+.abstract-details { display: inline-block; margin-bottom: 4px; }
+.abstract-details > summary {
+  list-style: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 14px;
+  font-family: Lato, sans-serif;
+  padding: 2px 8px;
+  border-radius: 4px;
+  text-decoration: none !important;
+  white-space: nowrap;
+  color: #1a2744 !important;
+  border: 0.5px solid rgba(26,39,68,0.35);
+  background: transparent;
+}
+.abstract-details > summary::-webkit-details-marker { display: none; }
+.abstract-details > summary::marker { display: none; }
+.abstract-details > summary:hover { background: rgba(26,39,68,0.06); }
+.abstract-details[open] > summary { background: rgba(26,39,68,0.08); }
+.abstract-text {
+  font-size: 15px;
+  color: #555555;
+  line-height: 1.65;
+  margin: 10px 0 12px 0;
+  max-width: 680px;
+}
+
+/* Dark mode abstract */
+.dark .abstract-details > summary { color: #c8d4f0 !important; border-color: rgba(200,212,240,0.35); }
+.dark .abstract-details > summary:hover { background: rgba(200,212,240,0.08); }
+.dark .abstract-details[open] > summary { background: rgba(200,212,240,0.12); }
+.dark .abstract-text { color: #9aabb8; }
 
 .paper-badge {
   display: inline-flex;
@@ -99,14 +134,22 @@ weight = 25
   <li class="paper-card">
     <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
     <span class="meta-label">Job Market Paper &middot; October 2025</span>
+    <details class="abstract-details">
+      <summary>Abstract</summary>
+      <p class="abstract-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </details>
     <div class="paper-badges">
       <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
     </div>
   </li>
 
   <li class="paper-card">
-    <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy: Evidence from UK Budget Announcements</a>
+    <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy</a>
     <div class="meta-line">With Wolfram Horn &middot; March 2026</div>
+    <details class="abstract-details">
+      <summary>Abstract</summary>
+      <p class="abstract-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </details>
     <div class="paper-badges">
       <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
@@ -117,6 +160,10 @@ weight = 25
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
     <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</div>
     <div class="meta-label">Revise &amp; Resubmit, <em>European Economic Review</em></div>
+    <details class="abstract-details">
+      <summary>Abstract</summary>
+      <p class="abstract-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </details>
     <div class="paper-badges">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
@@ -125,6 +172,10 @@ weight = 25
   <li class="paper-card">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
     <div class="meta-line">June 2023</div>
+    <details class="abstract-details">
+      <summary>Abstract</summary>
+      <p class="abstract-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </details>
     <div class="paper-badges">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
@@ -133,6 +184,10 @@ weight = 25
   <li class="paper-card">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-title-link">Sectoral Volatility and the Investment Channel of Monetary Policy</a>
     <div class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New draft coming soon</div>
+    <details class="abstract-details">
+      <summary>Abstract</summary>
+      <p class="abstract-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </details>
     <div class="paper-badges">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
       <a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/></svg>Slides</a>
