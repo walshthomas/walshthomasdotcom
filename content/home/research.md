@@ -105,7 +105,7 @@ weight = 25
   </li>
 
   <li class="paper-card">
-    <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy</a>
+    <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy: Evidence from UK Budget Announcements</a>
     <div class="meta-line">With Wolfram Horn &middot; March 2026</div>
     <div class="paper-badges">
       <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
