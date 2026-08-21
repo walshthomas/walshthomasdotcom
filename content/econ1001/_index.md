@@ -18,10 +18,6 @@ Last updated: [DATE]
 - *[TBD]*
 
 ---
-
-<div class="content-grid">
-<div class="content-block">
-
 ### <i class="fas fa-file-pdf"></i> Slides
 - Lecture 0: Introductions
 - Lecture 1: National Accounts and Aggregates
@@ -33,7 +29,10 @@ Last updated: [DATE]
 - Lecture 7: Monetary Policy and Inflation Targetting 
 - Lecture 8: The Open Economy: Imports and Exports
 
-</div>
+
+
+<div class="content-grid">
+
 
 <div class="content-block">
 
