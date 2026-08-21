@@ -97,10 +97,11 @@ weight = 25
 <ul class="paper-list">
 
   <li class="paper-card">
-    <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
-    <span class="meta-label">Job Market Paper &middot; October 2025</span>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
+    <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</div>
+    <div class="meta-label">Conditionally Accepted, <em>European Economic Review</em></div>
     <div class="paper-badges">
-      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
   </li>
 
@@ -114,11 +115,10 @@ weight = 25
   </li>
 
   <li class="paper-card">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
-    <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</div>
-    <div class="meta-label">Revise &amp; Resubmit, <em>European Economic Review</em></div>
+    <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
+    <span class="meta-label">October 2025</span>
     <div class="paper-badges">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
+      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
     </div>
   </li>
 
