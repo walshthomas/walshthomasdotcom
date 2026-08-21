@@ -1,8 +1,3 @@
----
-title: Timetable
-linktitle: Timetable
-weight: 20
----
 
 ---
 title: Overview
