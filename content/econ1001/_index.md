@@ -12,7 +12,7 @@ Last updated: [DATE]
 - *[TBD]*
 
 ### <i class="fas fa-clock"></i> Office Hours
-- [Check availability and book a slot](https://calendly.com/thomas-walsh)
+- [Check availability and book a slot [link to Calendly]](https://calendly.com/thomas-walsh)
 
 ### <i class="fas fa-pen"></i> Past exam papers
 - *[TBD]*
@@ -23,7 +23,15 @@ Last updated: [DATE]
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> Slides
-- *[TBD]*
+- Lecture 0: Introductions
+- Lecture 1: National Accounts and Aggregates
+- Lecture 2: Consumption Function and the Multiplier Model
+- Lecture 3: The Labour Market and Unemployment
+- Lecture 4: The IS-LM Curves
+- Lecture 5: Short Run Aggregate Supply
+- Lecture 6: Inflation Expectations and the Philips Curve
+- Lecture 7: Monetary Policy and Inflation Targetting 
+- Lecture 8: The Open Economy: Imports and Exports
 
 </div>
 
