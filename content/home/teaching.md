@@ -14,7 +14,7 @@ weight = 30
   </li>
 
   <li class="paper-card">
-    <a href="macro" class="paper-title-link">Macroeconomics</a>
+    <a href="econ1001" class="paper-title-link">Macroeconomics</a>
     <div class="meta-line">Nottingham 2026 &middot; BSc</div>
   </li>
 
