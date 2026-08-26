@@ -52,3 +52,16 @@
 body, p, div, span, li, a, h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif !important;
 }
+
+@media (min-width: 992px) {
+  #teaching .section-heading.col-lg-4,
+  #research .section-heading.col-lg-4 {
+    flex: 0 0 16.666667%;   /* narrows to col-lg-2 width */
+    max-width: 16.666667%;
+  }
+  #teaching .col-lg-8,
+  #research .col-lg-8 {
+    flex: 0 0 83.333333%;   /* widens to col-lg-10 width */
+    max-width: 83.333333%;
+  }
+}
