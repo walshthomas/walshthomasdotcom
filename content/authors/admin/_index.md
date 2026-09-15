@@ -6,12 +6,12 @@ title: Thomas Walsh
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Economics
+role: Assistant Professor in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Glasgow
-  url: https://www.gla.ac.uk/schools/business/aboutus/
+- name: University of Nottingham
+  url: https://www.nottingham.ac.uk/economics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macro and labour economics, monetary and fiscal policy, and job search.
@@ -104,14 +104,8 @@ highlight_name: false
 
 Hi! Welcome to my website.
 
-I am a Postdoctoral Research Associate in Economics at the <a href="https://www.gla.ac.uk/schools/business/aboutus/" target="_blank">Adam Smith Business School, University of Glasgow</a>.
+I am a Assistant Professor in Economics at the <a href="https://www.nottingham.ac.uk/economics/" target="_blank">University of Nottingham</a>.
 
 I am an applied macroeconomist with interests in firm dynamics, labour markets, and monetary and fiscal policy.
 
-I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a> in May 2023.
-
-<div class="home-badges">
-  <a href="/uploads/cv_walsh_uglasgow.pdf" class="home-badge" target="_blank">
-    <svg><use href="#ico-cv"/></svg>CV
-  </a>
-</div>
+I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a> in May 2023. Between 2023 and 2026 I was Postdoctoral Research Associate at the Adam Smith Business School, University of Glasgow.
