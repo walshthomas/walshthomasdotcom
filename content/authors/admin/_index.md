@@ -104,7 +104,7 @@ highlight_name: false
 
 Hi! Welcome to my website.
 
-I am a Assistant Professor in Economics at the <a href="https://www.nottingham.ac.uk/economics/" target="_blank">University of Nottingham</a>.
+I am Assistant Professor in Economics at the <a href="https://www.nottingham.ac.uk/economics/" target="_blank">University of Nottingham</a>.
 
 I am an applied macroeconomist with interests in firm dynamics, labour markets, and monetary and fiscal policy.
 
