@@ -23,10 +23,10 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: thomas.walsh[at]nottingham.ac.uk
-address: Department of Economics, Clive Granger Buidling
-  street: University of Nottingham
-  city: Nottingham
-  region:  
+address: School of Economics 
+  street: Clive Granger Buidling
+  city: University of Nottingham
+  region:   Nottingham
   postcode: NG7 2QX
   country:
   country_code:
@@ -35,7 +35,7 @@ coordinates:
   longitude:
 directions:
 office_hours:
-appointment_url: https://bookings.cloud.microsoft/bookwithme/user/11e73f6818404936824d2c4a83ad24c2@nottingham.ac.uk/meetingtype/3Epe6xyy9069zGOl2TWaIw2?anonymous&ismsaljsauthenabled
+appointment_url:
 contact_links:
 # tweetzor  ======================================
 #    - icon: twitter
