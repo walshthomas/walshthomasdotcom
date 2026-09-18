@@ -6,7 +6,7 @@ title: Thomas Walsh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Economics
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -104,8 +104,8 @@ highlight_name: false
 
 Hi! Welcome to my website.
 
-I am Assistant Professor in Economics at the <a href="https://www.nottingham.ac.uk/economics/" target="_blank">University of Nottingham</a>.
+I am Assistant Professor of Economics at the <a href="https://www.nottingham.ac.uk/economics/" target="_blank">University of Nottingham</a>.
 
 I am an applied macroeconomist with interests in firm dynamics, labour markets, and monetary and fiscal policy.
 
-I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a> in May 2023. Between 2023 and 2026 I was Postdoctoral Research Associate at the Adam Smith Business School, University of Glasgow.
+I received my PhD in Economics from the <a href="https://www.eui.eu/en/academic-units/department-of-economics" target="_blank">European University Institute</a> in May 2023. Between 2023 and 2026 I was Postdoctoral Research Associate at the <a href="https://www.gla.ac.uk/schools/business/" target="_blank">Adam Smith Business School, University of Glasgow</a> .

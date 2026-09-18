@@ -22,12 +22,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: thomas.walsh[at]glasgow.ac.uk
-address:
-  street: Adam Smith Business School, University of Glasgow
-  city: 2 Discovery Place
-  region: Glasgow
-  postcode: G11 6EY
+email: thomas.walsh[at]nottingham.ac.uk
+address: Department of Economics, Clive Granger Buidling
+  street: University of Nottingham
+  city: Nottingham
+  region:  
+  postcode: NG7 2QX
   country:
   country_code:
 coordinates:
@@ -35,7 +35,7 @@ coordinates:
   longitude:
 directions:
 office_hours:
-appointment_url: calendly.com/thomas-walsh
+appointment_url: https://bookings.cloud.microsoft/bookwithme/user/11e73f6818404936824d2c4a83ad24c2@nottingham.ac.uk/meetingtype/3Epe6xyy9069zGOl2TWaIw2?anonymous&ismsaljsauthenabled
 contact_links:
 # tweetzor  ======================================
 #    - icon: twitter
