@@ -28,8 +28,8 @@ Last updated: 03-10-26
 <div class="content-grid">
 <div class="content-block">
 
-### <i class="fas fa-file-pdf"></i>My Slides / Handouts
-- [s1 - Housekeeping and Groups](/uploads/ifap/ifap1.pdf)
+### <i class="fas fa-file-pdf"></i> My Slides / Handouts
+- [s1 - Housekeeping and Groups](seminar1.pdf)
 </div>
 
 
