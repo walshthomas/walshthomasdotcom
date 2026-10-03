@@ -25,7 +25,7 @@ weight = 30
   </li>
 
   <li class="paper-card">
-    <a href="msctimeseries" class="paper-title-link">Time Series Econometrics</a>
+    <a href="courses/msctimeseries" class="paper-title-link">Time Series Econometrics</a>
     <div class="meta-line">Nottingham 2027 &middot; MSc</div>
   </li>
 
