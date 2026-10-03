@@ -10,8 +10,18 @@ weight = 30
 <ul class="paper-list">
 
   <li class="paper-card">
-    <a href="econ1001" class="paper-title-link">Macroeconomics</a>
+    <a href="econ1001" class="paper-title-link">Applied Economics Seminar Materials</a>
     <div class="meta-line">Nottingham 2026 &middot; BSc</div>
+  </li>
+
+  <li class="paper-card">
+    <a href="econ1001" class="paper-title-link">Mathematical Economics Solutions</a>
+    <div class="meta-line">Nottingham 2026 &middot; BSc</div>
+  </li>
+
+  <li class="paper-card">
+    <a href="econ1001" class="paper-title-link">Macroeconomics</a>
+    <div class="meta-line">Nottingham 2027 &middot; BSc</div>
   </li>
 
   
