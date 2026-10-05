@@ -29,8 +29,11 @@ Last updated: 03-10-26
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> My Slides / Handouts
-- [L1 - Lecture 1 -- Non-stationarity and Integrated Processes](seminar1.pdf)
-- [L2 - Lecture 2 -- Unit Roots](seminar1.pdf)
+- [L1 - Lecture 1 -- Non-stationarity and Integrated Processes]
+- [L2 - Lecture 2 -- Unit Roots]
+- [L3 - Lecture 3 -- Conintegration and Sprious Regression]
+- [L4 - Lecture 4 -- VAR and VECM]
+
 
 </div>
 
