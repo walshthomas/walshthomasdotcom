@@ -77,6 +77,16 @@ weight = 35
 .dark .wip-title { color: #c8d4f0; }
 .dark .wip-coauthors { color: #9aabb8; }
 .dark .policy-link { color: #c8d4f0 !important; }
+.dark .presented-line { color: #9aabb8; }
+
+.presented-line {
+  font-size: 15px;
+  color: #555555;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+.presented-line .presented-label { font-style: italic; }
+
 </style>
 
 <svg width="0" height="0" style="position:absolute">
@@ -108,6 +118,7 @@ weight = 35
   <li class="paper-card">
     <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-title-link">Fiscal News and the Macroeconomy: Evidence from UK Budget Announcements</a>
     <div class="meta-line">With Wolfram Horn &middot; March 2026</div>
+    <div class="presented-line"><span class="presented-label">Presented at:</span> SES 2025, RES 2025, IAAE 2025, Wolfe Research 2026, MMF 2026</div>
     <div class="paper-badges">
       <a href="/uploads/jm/fiscal_news.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6303600" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
