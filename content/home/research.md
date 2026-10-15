@@ -125,13 +125,6 @@ weight = 35
     </div>
   </li>
 
-  <li class="paper-card hidden>
-    <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
-    <span class="meta-label">October 2025</span>
-    <div class="paper-badges">
-      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
-    </div>
-  </li>
 
 <!--
   <li class="paper-card" hidden>
@@ -156,6 +149,15 @@ weight = 35
 <h2>Work in Progress</h2>
 
 <ul class="paper-list">
+
+
+  <li class="paper-card>
+    <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
+    <span class="meta-label">October 2025</span>
+    <div class="paper-badges">
+      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
+    </div>
+  </li>
 
   <li class="wip-card">
     <span class="wip-title">Lumpy Investment: a Micro-to-Macro FAVAR Approach</span>
