@@ -133,22 +133,22 @@ weight = 35
     </div>
   </li>
 
-  <li class="paper-card">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
-    <div class="meta-line">June 2023</div>
-    <div class="paper-badges">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-    </div>
-  </li>
-
-  <li class="paper-card">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-title-link">Sectoral Volatility and the Investment Channel of Monetary Policy</a>
-    <div class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New draft coming soon</div>
-    <div class="paper-badges">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
-      <a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/></svg>Slides</a>
-    </div>
-  </li>
+#lass="paper-card">
+#href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" #ss="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
+#v class="meta-line">June 2023</div>
+#v class="paper-badges">
+#a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" #lass="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
+#iv>
+#
+#
+#lass="paper-card">
+#href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" #ss="paper-title-link">Sectoral Volatility and the Investment Channel of Monetary Policy</a>
+#v class="meta-line">With <a href="https://www.ozgenozturk.com/" target="_blank" rel="noopener">Ozgen Ozturk</a> &middot; New #ft coming soon</div>
+#v class="paper-badges">
+#a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009725" target="_blank" rel="noopener" #lass="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
+#a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/#</svg>Slides</a>
+#iv>
+#
 
 </ul>
 
