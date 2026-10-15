@@ -133,6 +133,7 @@ weight = 35
     </div>
   </li>
 
+<!--
   <li class="paper-card" hidden>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478427" target="_blank" rel="noopener" class="paper-title-link">Job Search and the Threat of Unemployment Benefit Sanctions</a>
     <div class="meta-line">June 2023</div>
@@ -149,7 +150,7 @@ weight = 35
       <a href="/uploads/pres/volatility_slides.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-slides"/></svg>Slides</a>
     </div>
   </li>
-
+-->
 </ul>
 
 <h2>Work in Progress</h2>
