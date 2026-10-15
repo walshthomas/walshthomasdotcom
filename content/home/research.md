@@ -154,9 +154,6 @@ weight = 35
   <li class="paper-card>
     <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-title-link">Earnings Management and Investment</a>
     <span class="meta-label">October 2025</span>
-    <div class="paper-badges">
-      <a href="/uploads/jm/jmp.pdf" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>PDF</a>
-    </div>
   </li>
 
   <li class="wip-card">
