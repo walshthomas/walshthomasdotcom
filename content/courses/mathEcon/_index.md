@@ -29,7 +29,8 @@ Last updated: 03-10-26
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> My Slides / Handouts
-- [s1 - solutions to exercises 1]</div>
+- [Solutions to PS1 -- linear algebra](/courses/mathecon/ps1.pdf)
+</div>
 
 
 
