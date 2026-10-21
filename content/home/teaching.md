@@ -16,7 +16,7 @@ weight = 30
 
   <li class="paper-card">
     <a href="courses/mathEcon" class="paper-title-link">Mathematical Economics Solutions</a>
-    <div class="meta-line"> Tutoritals &middot; Nottingham 2026 &middot; BSc</div>
+    <div class="meta-line"> Tutorials &middot; Nottingham 2026 &middot; BSc</div>
   </li>
 
   <li class="paper-card">
