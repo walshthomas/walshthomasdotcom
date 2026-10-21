@@ -1,10 +1,9 @@
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Mathematical Economics 2026
 
-My seminar notes and slides for Mathematical Economics 2026, BSc Economics First Year.
-
+My tutorial notes for Mathematical Economics (ECON 1069), 2026.
 
 <div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
-Last updated: 03-10-26
+Last updated: 21-10-26
 </div>
 
 <style>
@@ -29,7 +28,7 @@ Last updated: 03-10-26
 <div class="content-block">
 
 ### <i class="fas fa-file-pdf"></i> My Slides / Handouts
-- [Solutions to PS1 -- linear algebra](/courses/mathecon/ps1.pdf)
+- [Solutions to PS1 -- linear algebra, updated version](/courses/mathecon/ps1.pdf)
 </div>
 
 
