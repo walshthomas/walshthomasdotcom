@@ -45,7 +45,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: "uploads/cv_walsh_uglasgow.pdf"
+  link: "uploads/cv_walsh_uon.pdf"
   
 - icon: google-scholar
   icon_pack: ai
