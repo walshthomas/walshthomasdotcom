@@ -23,7 +23,7 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/cv_walsh_uglasgow.pdf
+    url: uploads/cv_walsh_uon.pdf
     weight: 70
 
  # - name: Investment, Finance and Asset Prices
