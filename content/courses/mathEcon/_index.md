@@ -1,4 +1,8 @@
 # <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Mathematical Economics 2026
++++
+title = "Mathematical Economics 2026"
+draft = false
++++
 
 My tutorial notes for Mathematical Economics (ECON 1069), 2026.
 
@@ -29,6 +33,7 @@ Last updated: 21-10-26
 
 ### <i class="fas fa-file-pdf"></i> My Slides / Handouts
 - [Solutions to PS1 -- linear algebra, updated version](/courses/mathecon/ps1.pdf)
+- [Solutions to PS2 -- differentiation]
 </div>
 
 
