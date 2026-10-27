@@ -1,4 +1,5 @@
-<i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Mathematical Economics 2026
+
+# <i class="fas fa-chart-line"></i> <i class="fas fa-industry"></i> <i class="fas fa-wrench"></i> Mathematical Economics 2026
 
 My tutorial notes for Mathematical Economics (ECON 1069), 2026.
 
