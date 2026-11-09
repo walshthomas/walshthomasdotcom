@@ -30,7 +30,7 @@ Last updated: 21-10-26
 
 ### <i class="fas fa-file-pdf"></i> My Slides / Handouts
 - [Solutions to PS1 -- linear algebra, updated version](/courses/mathecon/ps1.pdf)
-- [Solutions to PS2 -- derivatives, elasticities](/courses/mathecon/s2.pdf)
+- [Solutions to PS2 -- derivatives, elasticities](/courses/mathecon/ps2.pdf)
 </div>
 
 
