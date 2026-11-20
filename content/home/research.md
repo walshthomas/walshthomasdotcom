@@ -108,8 +108,8 @@ weight = 35
 
   <li class="paper-card">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-title-link">Making the Cut: Close Elections and Local Welfare Policy</a>
-    <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; March 2026</div>
-    <div class="meta-label">Conditionally Accepted, <strong><em>European Economic Review</em></strong></div>
+    <div class="meta-line">With <a href="https://nikolajbroberg.org/" target="_blank" rel="noopener">Nikolaj Broberg</a> and <a href="https://sites.google.com/view/tuulitahtinen/home" target="_blank" rel="noopener">Tuuli Tähtinen</a> &middot; November 2026</div>
+    <div class="meta-label">Forthcoming, <strong><em>European Economic Review</em></strong></div>
     <div class="paper-badges">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980012" target="_blank" rel="noopener" class="paper-badge"><svg><use href="#ico-ext"/></svg>SSRN</a>
     </div>
