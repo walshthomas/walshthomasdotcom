@@ -19,16 +19,17 @@ weight = 30
     <div class="meta-line"> Tutorials &middot; Nottingham 2026 &middot; BSc</div>
   </li>
 
-  #<li class="paper-card">
-  #  <a href="econ1001" class="paper-title-link">Macroeconomics</a>
-  #  <div class="meta-line"> Lectures &middot; Nottingham 2027 &middot; BSc</div>
-  #</li>
+<!--
+  <li class="paper-card">
+    <a href="econ1001" class="paper-title-link">Macroeconomics</a>
+    <div class="meta-line"> Lectures &middot; Nottingham 2027 &middot; BSc</div>
+  </li>
 
-  #<li class="paper-card">
-  #  <a href="courses/msctimeseries" class="paper-title-link">Time Series Econometrics</a>
-  #  <div class="meta-line"> Lectures &middot; Nottingham 2027 &middot; MSc</div>
-  #</li>
-
+  <li class="paper-card">
+    <a href="courses/msctimeseries" class="paper-title-link">Time Series Econometrics</a>
+    <div class="meta-line"> Lectures &middot; Nottingham 2027 &middot; MSc</div>
+  </li>
+-->
 
   <li class="paper-card">
     <a href="ifap" class="paper-title-link">Investment, Finance, and Asset Prices</a>
